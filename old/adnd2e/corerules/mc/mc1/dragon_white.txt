@@ -1,0 +1,66 @@
+<fc #4169E1><fs xx-large>**Dragon, White**</fs></fc>
+----
+\\
+<WRAP col2 80em em>
+|CLIMATE/TERRAIN:|Arctic plains, hills, mountains, and subterranean|
+|FREQUENCY:|Rare|
+|ORGANIZATION:|Solitary or clan|
+|ACTIVE TIME:|Any|
+|DIET:|Special|
+|INTELLIGENCE:|Low (5-7)|
+|TREASURE:|Special|
+|ALIGNMENT:|Chaotic evil|
+|NO. APPEARING:|1 (2-5)|
+|ARMOR CLASS:|1 (base)|
+|MOVEMENT:|12, Fl 40 (C), Br 6, Sw 12|
+|HIT DICE:|11 (base)|
+|THAC0:|9 (at 15 HD)|
+|NO. OF ATTACKS:|3 + special|
+|DAMAGE/ATTACK:|1-8/1-8/5-30 (5d6)|
+|SPECIAL ATTACK:|Special|
+|SPECIAL DEFENSE:|Variable|
+|MAGIC RESISTANCE:|Variable|
+|SIZE:|G (48' base)|
+|MORALE:|Fanatic (17-18)|
+|XP VALUE:|Variable|
+{{ :adnd2e:corerules:mc:mc1:dragon_white.png?direct&500|}}
+</WRAP>
+\\
+<WRAP column 80em>
+|  **Age**  |  **Body Lgt. (')**  |  **Tail Lgt. (')**  |  **AC**  |  **Breath Weapon**  |  **Spells Wizard/Priest**  |  **MT**  | **Treas. Type**  |  **XP Value**  |
+|  1  |  1-5  |  1-4  |  4  |  2d6+1  |  Nil  |  Nil  |  Nil  |  1,400  |
+|  2  |  5-14  |  4-12  |  3  |  4d6+2  |  Nil  |  Nil  |  Nil  |  2,000  |
+|  3  |  14-23  |  12-21  |  2  |  6d6+3  |  Nil  |  Nil  |  Nil  |  3,000  |
+|  4  |  23-32  |  21-28  |  1  |  8d6+4  |  Nil  |  Nil  |  E  |  5,000  |
+|  5  |  32-41  |  28-36  |  0  |  10d6+5  |  Nil  |  5%  |  E, O, S  |  7,000  |
+|  6  |  41-50  |  36-45  |  -1  |  12d6+6  |  1  |  10%  |  E, O, S  |  9,000  |
+|  7  |  50-59  |  45-54  |  -2  |  14d6+7  |  1  |  15%  |  E, O, S  |  10,000  |
+|  8  |  59-68  |  54-62  |  -3  |  16d6+8  |  2  |  20%  |  E, O, Sx2  |  11,000  |
+|  9  |  68-77  |  62-70  |  -4  |  18d6+9  |  2  |  25%   |  E, O, Sx2  |  13,000  |
+|  10  |  77-86  |  70-78  |  -5  |  20d6+10  |  3  |  30%  |  E, O, Sx2  |  14,000  |
+|  11  |  86-95  |  78-85  |  -6  |  22d6+11  |  3  |  35%  |  E, O, Sx3  |  15,000  |
+|  12  |  95-104  |  85-94  |  -7  |  24d6+12  |  4  |  40%  |  E, O, Sx3  |  16,000  |
+</WRAP>
+\\
+<WRAP col2 80em>
+White dragons, the smallest and weakest of the evil dragons. are slow witted but efficient hunters. They are impulsive, vicious, and animalistic, tending to consider only the needs and emotions of the moment and having no foresight or regret. Despite their low intelligence, they are as greedy and evil as the other evil dragons.\\
+<wrap indent>The scales of a hatchling white dragon are a mirror-like glistening white. which makes them virtually invisible against a snowy background. As the dragon ages. the sheen disappears. and by the time it reaches the very old stage, scales of pale blue and light gray are mixed in with the white.</wrap>\\
+<wrap indent>White dragons speak their own tongue. a tongue common to all evil dragons. and 7% of hatchling white dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> Regardless of a target's size, a white dragon's favorite method of attack is to use its breath weapon and special abilities before closing to melee. This tactic sometimes works to the dragon's detriment. as it can exhaust its breath weapon on smaller prey and then be faced with a larger creature it must attack physically. If a white dragon is pursuing creatures in the water. such as polar bears or seals. it will melee them in their element, lighting with its claws and bite.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Breath weapon special abilities:**</font> A white dragon's breath weapon is a cone of frost 70’ o , 5' wide at the dragon's mouth, and 25’ wide at the base. Creatures caught in the blast may Save versus Breath Weapon for half damage. A white dragon casts its spells and uses its magical abilities at 5th level, plus its combat modifier.\\
+<wrap indent>From their birth, white dragons are immune to cold. As they grow older. they gain the following additional abilities: //Juvenile: ice walking//, which allows the dragon to walk across ice as easily as creatures walk across flat, dry ground. //Mature adult: gust of wind// three times a day. //Very old: wall of fog// three times a day, this produces snow or hail rather than rain. //Wyrm: freezing fog// three times a day. This obscures vision in a 100' radius and causes frost to form, creating a thin layer of glare ice on the ground and on all surfaces within the radius.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> White dragons live in chilly or cold regions, preferring lands where the temperature rarely rises above freezing and ice and snow always cover the ground. When temperatures become too warm. the dragons become lethargic. White dragons bask in the frigid winds that whip over the landscape, and they wallow and play in deep snow banks.\\
+<wrap indent>White dragons are lackadaisical parents. Although the young remain with the parents from hatchling to juvenile or young adult stage, they are not protected. Once a dragon passes from its hatchling stage, it must fend for itself, learning how to hunt and defend itself by watching the parents.</wrap>\\
+<wrap indent>White dragons' lairs are usually icey caves and deep subterranean chambers: they select caves that open away from the warming rays of the sun. White dragons store all of their treasure within their lair, and prefer keeping it in caverns coated in ice. which reflect the gems and coins and make the treasure appear even larger. They are fond of gems. especially diamonds, because they are pretty to look at.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Although white dragons. as all other dragons. are able to eat nearly anything, they are very particular and will consume only food which has been frozen. Usually after a dragon has killed a creature with its breath weapon it will fall to devouring it while the carcass is still stiff and frigid. It will bury other kills in snow banks until they are suitably frozen.\\
+<wrap indent>White dragons' natural enemies are frost giants who kill the dragons for food and armor and subdue them to use for guards and mounts.</wrap>
+</WRAP>
+\\

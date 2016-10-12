@@ -1,0 +1,41 @@
+<fc #4169E1><fs xx-large>**<name>**</fs></fc>
+----
+\\
+<WRAP col2 80em em>
+|CLIMATE/TERRAIN:|
+|FREQUENCY:|
+|ORGANIZATION:|
+|ACTIVE TIME:|
+|DIET:|
+|INTELLIGENCE:|
+|TREASURE:|
+|ALIGNMENT:|
+|NO. APPEARING:|
+|ARMOR CLASS:|
+|MOVEMENT:|
+|HIT DICE:|
+|THAC0:|
+|NO. OF ATTACKS:|
+|DAMAGE/ATTACK:|
+|SPECIAL ATTACK:|
+|SPECIAL DEFENSE:|
+|MAGIC RESISTANCE:|
+|SIZE:|
+|MORALE:|
+|XP VALUE:|
+{{ :adnd2e:corerules:mc:mc1:<name>.png?direct&500|}}
+</WRAP>
+\\
+<WRAP col2 80em>
+<text>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font>
+</WRAP>
+\\

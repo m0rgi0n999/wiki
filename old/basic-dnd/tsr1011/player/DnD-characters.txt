@@ -1,0 +1,977 @@
+====== DUNGEONS & DRAGONS® Characters ======
+
+===== What comes next? =====
+
+You have now learned most of the details needed to play a character in DUNGEONS & DRAGONS games. You may now play more Solo Adventures, if you like. Several Solo Adventures are sold separately, including: adventure module M1, Blizzard Pass and M2, Maze of the Riddling Minotaur. \\ However, most of the fun of a DUNGEONS & DRAGONS game comes from playing in a group. To play in a group, one person must be the Dungeon Master (or DM). The DM is the person who plays the parts of the monsters and runs the game. A new DM should read the first section of the other booklet in this set, the DUNGEON MASTERS RULEBOOK, before starting the game. It explains all the information needed, and includes a step-bystep game for everyone to enjoy while learning. But a new DM should not try to run a game before looking at that book. \\ A group game is best with 3-6 players. Each player should know how to play. If there is time, each person should read through this booklet, just as you have. You may also teach someone yourself, by explaining what you have learned, giving them one of the simple characters in this booklet (the Fighter, or Dwarf for example), and helping them during the game. \\ When you play in a group, you may play your fighter, or you may choose any of the other six characters included in the center of this booklet. Before the game, be sure to read the description of the Character Class (pages 24-47), even if you are still playing your fighter. Several players can all have the same fighter character, if different names are used. Fighters are always needed. If you have 4-6 people in the group, try to play most of the characters given. \\ If you have time, read the rest of this booklet to see what other information is given. More details on group games are given on pages 53-58. Some additional rules, to add when you are familiar with playing in a group, are explained on pages 59-62. Don’t try to memorize everything, but try to remember the types of things explained. During a game, use the Index on page 64 to locate information you need. \\ == Character Classes == Most D&D characters will be humans. A human can be a Cleric, Fighter, Magic-User, or Thief. Humans are the most widespread of all intelligent beings. A character may also be a nonhuman: a Dwarf, Elf, or Halfling. Each of these classes is also a separate race of beings. They are all commonly known as "Demi-humans," because they seem to be partially human. The demi-human races are all distantly related to the human race. \\ One sample character for each of the seven classes is included in the center of this booklet. You may play those characters in group games, but before you do, be sure to read the full description of the class. \\ You may create a new character instead of using those in this booklet. When you do, you will roll dice to determine Ability Scores. If the scores are high enough, the character can be a demi-human; otherwise, the character must be human. The rules for creating characters are given on pages 48-52.
+
+==== Prime Requisite ====
+
+Each character class has a specialty. For example, a fighter’s specialty is Strength; a cleric’s is Wisdom. This specialty is called the Prime Requisite for the class (abbreviated "PR"). \\ If a character’s PR score is above average, the character gains a bonus every time Experience Points are earned. See \\ File: \\ the Prime Requisite Adjustment Table. If the PR is below average, a penalty is applied. \\ The Prime Requisite for each class is given in each class description. Finding the bonus or penalty is part of the procedure for creating new characters. You will not need it until then.
+
+----
+
+----
+
+|Prime \\   \\ Requisite \\  \\ Score||Adjustment to \\   \\ Experience|
+
+----
+
+|3-5  |- 20%  |
+|6-8  |- 10%  |
+|9-12|No adjustment|
+|13-15|+ 5%  |
+|16-18|+ 10%  |
+
+----
+
+==== Saving Throws ====
+
+Each character class will have a Saving Throw Table. Copy the numbers onto your character sheet. Your Dungeon Master will tell you when you need them. To make a Saving Throw, roll 1d20. If the result is equal to or greater than the number given your Saving Throw is successful.
+
+===== DUNGEONS & DRAGONS® characters (character class - human) =====
+
+==== Cleric ====
+
+**Description** \\ A cleric is a human character who is dedicated to serving a great and worthy cause. This cause is usually the cleric’s Alignment; for example, a cleric may be dedicated to spreading law and order. A cleric has good fighting skills, and can also learn to cast spells after gaining a Level of Experience. A first level cleric **cannot**  cast any spells. \\ In D&D games, as in real life, people have ethical and theological beliefs. This game does not deal with those beliefs. All characters are assumed to have them, and they do not affect the game. They can be assumed, just as eating, resting, and other activities are assumed, and should not become part of the game. \\ A cleric’s spell powers come from the strength of the cleric’s beliefs. The cleric sits and meditates, and mystically learns spells. These spells can then be used during an adventure. Most clerical spells are for curing, protection, and gathering information. Cleric spells are different from magic-user spells. Clerics can use only their own type of spells. \\ Your cleric also can fight monsters. A cleric can wear any type of armor, like a fighter, and must be ready for combat at any time. Unlike magic-users, whose spells are often used during battles, a cleric’s spells are usually needed after battles (such as cures) or for general exploring (such as detecting things). \\ If your party has enough fighters, your cleric should not need to fight often. But you are equipped for fighting if your combat skill is needed. Watch for ways that your spells can help, whether before, during, or after battles.
+
+----
+
+----
+
+Death Ray or Poison \\ Magic Wands \\ Paralysis or Turn to Stone \\ Dragon Breath \\ Rods, Staves, or Spells
+
+----
+
+**Explanation of Cleric \\ Experience Table****XP:**  When this number of Experience Points have been earned, the cleric automatically moves up to the next Level of Experience. **Title:**  Your cleric should use this title when talking with other characters. Instead of saying "I’m Clarion, a Second Level cleric," the character should say "I’m Clarion, the Adept." **Spells:**  The number of spells a cleric can cast, and their level of power, are given here. Spells are explained in detail below, under "Special Abilities."
+
+----
+
+----
+
+| \\   \\  \\  \\ XP| \\   \\  \\  \\ Level| \\   \\  \\  \\ Title|No. of \\   \\ Spells/ \\  \\ Spell Level|
+
+----
+
+|0  |1|Acolyte  |None  |
+|1500|2|Adept  |2 First|
+|3000|3|Priest (or \\   \\ Priestess)|2 First|
+
+----
+
+**Other Details:** \\ **Prime Requisite:**  A cleric’s PR is Wisdom. If a cleric has a Wisdom score of 13 or more, the character gains a bonus to Experience Points earned in every adventure.
+
+**Hit Dice:**  A six-sided die (1d6) is used to determine a cleric’s hit points. A cleric starts with 1-6 hit points (plus Constitution bonus, if any) and gains 1d6 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  A cleric may wear any kind of armor, and may use a shield.
+
+**Weapons:**  A cleric cannot use any weapon with a sharp edge; this is forbidden by the cleric’s beliefs. A cleric may only use a mace, club, war hammer, or sling.
+
+A cleric has two Special Abilities: Turning Undead monsters and casting Cleric Spells.
+
+A cleric has the power to force away certain monsters called the "Undead" (skeletons, zombies, ghouls, wights, and other more powerful types). No other class has any special effect on the Undead. This special ability is called "Turning" the Undead monsters. \\ When a cleric encounters an Undead monster, the cleric may either attack it normally (with a weapon or spell), or try to Turn it. The cleric cannot both attack and Turn Undead in one round. \\ When you want your cleric to try to Turn Undead, just tell your Dungeon Master ‘‘I’ll Turn the Undead." \\ The Undead monsters are //not//  automatically Turned by the cleric. When the encounter occurs, the player must refer to the Cleric Turning Undead Table to find the effect the cleric has.
+
+**Using the Cleric Turning \\ Undead Table:**
+
+When the cleric encounters an Undead monster, find the cleric’s Level of Experience on the left side of the chart. Then read across to the column under the name of the Undead monster, and apply the results immediately. If the attempt succeeds, one or more of the Undead monsters will retreat, but may soon return.
+
+**Explanation of Results**
+
+  * **7, 9 or 11:**  Whenever a number is given, the cleric has a chance to Turn the Undead monsters. The player rolls 2d6 (two six-sided dice). If the total is equal to or greater than the number given, the attempt at Turning Undead is successful. A cleric’s chances improve as more Levels of Experience are earned.
+**T:**  The attempt at Turning the Undead automatically succeeds.
+
+**N:**  No Effect. The cleric cannot Turn that type of undead.
+
+**Success:**  If the attempt at Turning Undead succeeds, the Dungeon Master will roll 2d6 to determine the number of Hit Dice of Undead monsters that turn away. You might not Turn all the monsters encountered, but if you succeed in Turning, at least one will be affected. A Turned monster will not touch the cleric and will flee as far from him as possible.
+
+When a cleric reaches the 2nd Level of Experience (having earned 1500 XP or more), the cleric can use spells.
+
+**Learning Spells:**
+
+To learn a spell, the cleric meditates. The memory and details of the spells appear in the cleric’s mind. The spells may be cast at any time thereafter. The cleric will remember each spell until it is cast, even if it is not used for days or weeks. \\ As a player, all you need to do is choose whatever spells you want your character to have. This can only be done at the start of an adventure. You may choose any of the spells described hereafter. You may //not//  choose any magicuser spells; they are a different type. \\ A 2nd Level cleric can cast one spell per adventure. A 3rd Level cleric can cast two spells per adventure. \\ In more advanced games, adventures may la-st more than a day. In such cases, a cleric can gain spells each morning, if completely rested. Any and all spells may be changed at this time, if desired.
+
+**Casting Spells:**
+
+In the game, when you want your character to cast a spell, just tell your Dungeon Master. The DM may ask for some details; for example, some spells are cast at a target, and you must tell the DM what the target is. The player does not have to learn any special words. //For example://  "I’m casting a Cure Light Wounds on Ruggin, the dwarf." \\ When the cleric casts a spell, the memory of that spell is forgotten. -Imagine that your cleric’s memory is like a blackboard. The knowledge of the spells appear on it, but each spell is erased as it is cast. If your character knows two of the same spells and casts one, the other still remains to be used. \\ The character //must//  be able to gesture and speak normally to cast a spell. While casting a spell, the cleric must stand and concentrate. Spells cannot be cast while the character is walking or running. If the cleric is disturbed while casting a spell, the spell will be ruined, and will still be "erased," just as if it had been cast. \\ Spells must be cast one at a time. If the character wants to cast more than one (for example, two Cure Light Wounds spells just after a battle), the fastest they can be cast is one each round.
+
+**Types of Spells:**
+
+Some spells have an instant effect. For example, a **Cure Light Wounds**  spell instantly cures damage. Other spells may be different; the cleric may cast a spell to gain special abilities for a short time, or give those abilities to a friend. For example, a **Remove Fear**  spell helps the recipient (the creature upon whom the spell is cast) to resist fear caused by magical effects or spells.
+
+**Saving Throws versus spells:**
+
+Some spells only have full effect if the victim fails a Saving Throw vs. Spells. If a Saving Throw is allowed, it is mentioned in the spell description.
+
+^colspan=5|**CLERIC TURNING UNDEAD TABLE** |
+|Cleric's  | |
+|Level  | |
+|1  | |
+|2  | |
+|3  | |
+
+Clerical Spell Explanations: Each spell has a listed Range, Duration, and Effect. Range: The character should be sure that the target is within range before casting the spell. If the description says "Range: 0," the spell may only be used by the cleric, and cannot be cast on others. If "Range: Touch" is given, the spell can be placed on any creature the cleric touches - including the cleric himself (or herself, as the case may be). Duration is given either in rounds (of 10 seconds each) or turns (of 10 minutes each). If the description says "Duration: Permanent," then the spell has an instant and permanent effect that does not go away after a given duration. Effect of the spell gives either the number of creatures or objects affected, or an area or volume of space. If an area is given, it is measured in square feet (a flat area). If a 3-dimensional volume is affected, it is either a round "ball" with a
+
+File:
+
+given diameter, or a square or rectangular "box" of a given size; both are measured in feet.
+
+**Spell Power:**
+
+When a cleric reaches 4th level, more powerful spells can be cast. These are given in the D&D EXPERT Set. The power of a spell is described in a way similar to the power of a character. \\ Spells of the lowest level of power are called "First Level" spells. The D&D EXPERT Set describes spells of the Second, Third, Fourth, and Fifth level, Sixth and Seventh level spells are described in the D&D COMPANION Set. \\ Clerical Spell Descriptions \\ FIRST LEVEL CLERIC SPELLS \\ 1. Cure Light Wounds* \\ 2. Detect Evil* \\ 3. Detect Magic \\ 4. Light* \\ 5. Protection From Evil \\ 6. Purify Food and Water \\ 7. Remove Fear* \\ 8. Resist Cold* \\ These spells may be "reversed" (that is, learned and cast with an effect exactly opposite from the original) in the D&D EXPERT Set. A cleric must reach the Fourth Level of Experience before learning how to reverse spell effects.
+
+**Cure Light Wounds***
+
+Range: Touch Duration: Permanent Effect: Any one living creature
+
+This spell will either heal damage or remove paralysis. If used to heal, it will cure 2-7 (1d6+ 1) points of damage. It will not heal any damage if used to cure paralysis. The cleric may cast it on himself (or herself) if desired. \\ This spell will never increase a creature’s total hit points above the original amount.
+
+**Detect Evil**
+
+Range: 120’ Duration: 6 turns Effect: Everything within 120’
+
+When this spell is cast, the cleric will see evilly enchanted objects within 120’ glow. It will also cause creatures that want to harm the cleric to glow when they are within range. The actual thoughts of the creatures cannot be heard. Remember that "Chaotic" does not automatically mean Evil, although many Chaotic monsters have evil intentions. Traps and poison are neither good nor evil, merely dangerous.
+
+**Detect Magic**
+
+Range: 0 Duration: 2 turns Effect: Everything within 60‘
+
+When this spell is cast, the cleric will see magical objects, creatures, and places within range glow. It will not last very long, and should be saved until the cleric wants to see if something found during an adventure is, in fact, magical. For example, a door may be held shut magically, or a treasure found might be enchanted; in either case, the magic item, creature, or effect will glow when it is within the effect.
+
+**Light**
+
+Range: 120’ Duration: 12 turns Effect: Volume of 30‘ diameter
+
+This spell creates a large ball of light, as if a bright torch were lit. If the spell is cast on an object (such as the cleric’s weapon), the light will move with the object. If cast at a creature’s eyes, the creature must make a Saving Throw. If the Saving Throw is failed, the victim will be blinded by the light until the duration ends. A blinded creature may not attack.
+
+----
+
+----
+
+**Protection from Evil**
+
+Range: 0 Duration: 12 turns Effect: The cleric only
+
+This spell creates an invisible magical barrier all around the cleric’s body (less than an inch away). All attacks against the cleric are penalized by - 1 to their Hit rolls, and the cleric gains a + 1 bonus to all Saving Throws, while the spell lasts. \\ In addition, "enchanted" creatures cannot even touch the cleric! If a magic weapon is needed to hit a creature, that creature is called "enchanted." However, a creature that can be hit by a silver weapon - a lycanthrope (were-creature), for example - is not an "enchanted" creature. Any creature which is magically summoned or controlled (such as a Charmed character) is also considered to be an "enchanted" creature. The barrier thus completely prevents all attacks from those creatures unless they use missile weapons. \\ This spell will not affect a Magic Missile (magic-user’s) spell. If the cleric attacks anything during the spell’s duration, the effect changes slightly. "Enchanted" creatures are then able to touch the magic-user, but the Hit roll and Saving Throw adjustments still apply until the spell duration ends.
+
+**Purify Food and Water**
+
+Range: 10’ Duration: Permanent Effect: See below
+
+This spell will make spoiled or poisoned food and water safe and usable. It will purify one ration of food (either Iron or Standard rations), or 6 waterskins of water, or enough normal food to feed a dozen people. If cast at mud, the spell will cause the dirt to settle, leaving a pool of pure, clear water. The spell will not affect any living creature.
+
+**Remove Fear***
+
+Range: Touch Duration: 2 turns Effect: Any one living creature
+
+When the cleric casts this spell and then touches any living creature, the spell will calm the creature and remove any fear. If the creature is running away due to magically created fear, the creature may make another Saving Throw vs. spells, adding a bonus to the roll equal to the cleric’s Level of Experience, up to a maximum bonus of +6. If the Saving Throw is successful, the creature may stop running. A roll of 1 will always fail. This Saving Throw, with bonus, may be made even if the fear was so powerful as to allow no Saving Throw at first!
+
+**Resist Cold**
+
+Range: 0 Duration: 6 turns Effect: All creatures within 30’
+
+When this spell is cast, all creatures within 30’ of the cleric can withstand freezing temperatures without harm. In addition, those affected gain a bonus of +2 to all Saving Throws against cold attacks. Furthermore, any damage from cold is reduced by - 1 per die of damage (but with a minimum of 1 point of damage per die). The effect will move with the cleric.
+
+File:
+
+==== Fighter ====
+
+**Description**
+
+A fighter is a human who studies combat. Fighters usually have greater Strength than other characters. They usually hit monsters more often, and inflict more damage. \\ In the D&D game, fighters protect the weaker characters. A party of all fighters would probably survive most dungeons, even where magic would be useful. Every group of explorers should have at least one or two fighters. \\ Strength is needed in many game situations. For example, a door may be stuck, or a huge boulder may block the party’s progress; a strong fighter can often solve these problems. Magic might also work, but magic is limited, and a fighter can use strength as often as needed. \\ Your fighter could probably survive a dungeon adventure when exploring alone. This is why your Solo Adventures have been designed for fighters. The other classes are not as self-sufficient as the fighter. Magic-users and thieves are much weaker, and although clerics can wear any type of armor, they are limited in other ways. \\ In group adventures, your fighter should stay in front. If there are three or more fighters in the party, one should stay in the back, in case a monster tries to sneak up on you. Whenever a battle occurs, don’t be afraid to move in; your character is better equipped for combat than any other type. \\ When a group is surprised, the monsters may damage the characters before they have a chance to react. Fighters have a better chance at surviving these dangers, since they have more hit points. \\ A fighter character should know more about the many weapons than other characters. Be sure to read the Combat section, on page 59, to learn how to use both hand-to-hand and missile weapons. Learn the forms of Defensive Movement described in the same section, so you can play your fighter most effectively when those rules are added to your game. \\ Fighters often look for magical healing potions, since they are usually hurt in battles. Magical weapons are also valuable, adding bonuses to Hit and Damage Rolls.
+
+----
+
+----
+
+  * Deat Ray or PoisonMagic WandsParalysis or Turn to StoneDragon BreathRods, Staves, or Wands
+
+----
+
+File:
+
+----
+
+----
+
+----
+
+----
+
+**Explanation of Fighter \\ Experience Table:**
+
+**XP:**  When this number of Experience Points have been earned, the fighter automatically moves up to the next Level of Experience.
+
+**Title:**  Your fighter should use this title when talking with other characters. Instead of saying "I’m Fleetwood, a Second Level fighter," the character should say "I’m Fleetwood, the Warrior."
+
+**Other Details:**
+
+**Prime Requisite:**  A fighter’s PR is Strength. If a fighter has a Strength score of 13 or more, the character gains a bonus to Experience Points earned in every adventure.
+
+**Hit Dice:**  An eight-sided die (1d8) is used to determine a fighter’s hit points. A fighter starts with 1-8 hit points (plus Constitution bonus, if any) and gains 1d8 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  A fighter may wear any kind of armor, and may use a shield.
+
+**Weapons:**  A fighter may use any kind of weapon.
+
+Fighters need no special abilities to survive and prosper. Their great strength, hit points, strong armor and many weapons make them a powerful character class.
+
+==== Magic-user ====
+
+**Description**
+
+A magic-.user is a human character who studies the powers of magic. Magic-users find spells, put them into books, and study those books to learn the spells. Magic-users have their own spells, entirely different from cleric spells. A magic-user has poor fighting skills, and should avoid combat. \\ In D&D games, magic is merely a part of the action of the game. The player can imagine how spells would be cast, using various mysterious items, but no special items are needed by the player. After the player has learned the effect each spell has in the game, a magic-user is as easy to play as any other character class. \\ A magic-user concentrates on learning and casting magic spells. A high Intelligence is needed, and the other Ability Scores are often low. However, a high Constitution score will help your magic-user survive longer, because it gives a bonus to hit points - a magicuser’s weak point. \\ Magic-users greatly fear damage. All the other character classes can use armor of some kind, but magic-users can only wear their robes or normal clothes. Thus, they are easy to hit. In addition, they have few hit points. Magic-users start as the weakest characters, but can become the most powerful! Their magic spells can be used for many things — from simple things like opening doors and locks, to impressive and dangerous magical attacks, such as lightning bolts (described in the D&D EXPERT Set). \\ Your Magic-user should never explore dungeons alone; one surprise could kill you. In groups, you should always stay in the middle of the party, protected from attacks. Watch for ways that you can help the battles, by casting spells, but never try to fight a monster hand-to-hand. Always carry a dagger, to be ready if you are forced to fight. Be sure to call for help if you get into a battle; other characters can fight the same monster, distracting it and (hopefully) keeping it from attacking you. \\ Beware of other magic-users! Some spells are designed specially to protect you from attacks, including other magic. When you encounter another magicuser, keep watch. If the enemy starts casting a spell, warn your friends. \\ As a player, you should study the spell descriptions on the next pages. Your greatest challenge will be keeping the character alive, to gain more Levels of Experience.
+
+**Explanation of Magic-User \\ Experience Table:**
+
+**XP:**  When this number of Experience Points have been earned, the magic-user automatically moves up to the next Level of Experience.
+
+**Title:**  A magic-user should use this title when talking with other characters. Instead of saying "I’m Felonius, a Second Level magic-user," the character should say "I’m Felonius, the Seer."
+
+**Spells:**  The number of spells a magicuser can cast, and their levels of power, are given here. Spells are explained in detail below, under "Special Abilities."
+
+**Other Details:**
+
+**Prime Requisite:**  A magic-user’s PR is Intelligence. If a magic-user has an Intelligence score of 13 or more, the character gains a bonus to Experience Points earned in every adventure.
+
+**Hit Dice:**  A four-sided die (1d4) is used to determine a magic-user’s hit points. A magic-user starts with 1-4 hit points (plus Constitution bonus, if any) and gains 1d4 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  A magic-user may not wear any kind of armor, and may not use a shield.
+
+**Weapons:**  A magic-user can only use a dagger for a weapon.
+
+A magic-user can cast magic spells, as described hereafter.
+
+**Spell Power:**  There are many spells for magic-users to use. The power of a spell is described in a way similar to the power of a character. Spells of the lowest level of power are called "First Level" spells, which can be used by beginning magic-users. Higher level spells are usable by higher level characters. Be careful not to confuse your character’s Level of Experience with the level of a spell’s power.
+
+----
+
+----
+
+  * Deat Ray or PoisonMagic WandsParalysis or Turn to StoneDragon BreathRods, Staves, or Wands
+
+----
+
+----
+
+----
+
+|XP  |Level|Title  |No. of Spells/ \\   \\ Spell Level|
+|0  |1  |Medium  |1 First  |
+|2500|2  |Seer  |2 First  |
+|5000|3  |Conjurer|2 First plus 1 Second  |
+
+----
+
+**Spell Books:**
+
+Your Medium (1st Level magic-user) starts with a spell book, containing two First Level spells. Your Dungeon Master will tell you what spells your character starts with. The spell book is a large bulky thing, and cannot be easily carried. A spell book is about 2 feet square, 2-6 inches thick, and weighs at least 20 pounds. It will not fit inside a normal sack of any size, but may be carried in a backpack or saddlebag. \\ When your character becomes a Seer, you will add another First Level spell to the book; again, your DM will tell you which spell. Upon reaching 3rd Level of Experience, a Second Level spell will be gained. When the 4th Level of Experience is reached, another Second Level spell is added to the book. (Magic-users of levels 4-14 are explained in the D&D EXPERT Set.) \\ Assume that your character is given these additional spells by a teacher, a powerful magic-user of 7th Level or greater. All magic-users of less than that level must have teachers. These teachers never go on adventures with characters. They will not affect most games. \\ Different magic-users often have different spells in their books. For example, you might start with the **Read Magic**  and **Sleep**  spells, and find another magic-user who knows **Read Magic**  and **Magic Missile**. But magic-users never trade spells, nor do they ever allow anyone (except their teachers) to read their spell books. The risk of losing the book or having it damaged, is too great. If a magic-user’s book is lost, the character cannot memorize any spells to cast! \\ One magical treasure which may be found during an adventure is a magic scroll. Some scrolls contain magic-user spells. If a new spell is found on a scroll, it may be added to the magic-user’s book — but this can only be done once for each scroll spell, and uses up the scroll in the process. If the spell is of too high a level to be cast, it cannot be put into the book. A spell on a scroll may be saved, to be put into a book at a future time. It may also be carried during adventures, to be cast as needed. Any magic-user can cast a spell found on a scroll as if it were memorized, regardless of the level of the spell. If the spell is cast, it disappears from the scroll. \\ You, the player, need only keep a list of which of the many spells are in your character’s book. Keep the list on your character sheet, under "Special Abilities." Scrolls are magic items, listed on the back of the character sheet.
+
+**Learning Spells:**
+
+To learn a spell, the magic-user must be completely rested. A good night’s sleep is enough. The character then gets out the spell book and studies the spells to be used, which takes an hour or less. The character is then ready for adventure, and is able to cast the spell or spells studied. \\ A Medium can cast one spell per adventure. A Seer can cast two First Level spells per adventure. A Conjurer can cast 3 spells per adventure, two of the First Level of Power and one of the Second Level. \\ In more advanced games, adventures may last more than a day. In such cases, a magic-user can study spells each morning, if completely rested. A mule should be brought along on long adventures, to carry the spell book along with normal equipment. But beware! If the book is lost, the character is in big trouble. If that happens, ask your Dungeon Master what you should do. \\ Don’t confuse the spells memorized with spells in a book! Your magic-user character will eventually have many spells in a spell book, but can still only memorize a few each day.
+
+**Casting Spells:**
+
+In the game, when you want your character to cast a spell, just tell your Dungeon Master. When the magic-user casts a spell, the memory of that spell is forgotten. Imagine that the magic-user’s memory is like a blackboard. When studying, the character "writes spells on the blackboard," but each spell is "erased" as it is cast. If your character has studied a spell twice and casts one, the other still remains to be used. The character must be able to gesture and speak without interruption to cast a spell. While casting a spell, the magic-user must concentrate, and may not move. A spell cannot be cast while the character is walking or running. If the magic-user is disturbed while casting a spell, the spell will be ruined, and will still be "erased," just as if it had been cast.
+
+**Types of Spells:**
+
+Most spells have an effect that lasts for a given time. //For example//, a Magic Missile spell creates a glowing arrow that follows the magic-user around, either until it is shot or until a turn passes (10 minutes). However, some higher level spells may have "instant" duration. A Fire Ball spell creates an explosion which causes damage. The damage remains until cured, but the spell itself only lasts part of a second, much less than a round. \\ File: \\ **Saving throws vs. Spells:**
+
+Many spells only have full effect if the victim fails a Saving Throw (vs. spells). If a Saving Throw is allowed, it is mentioned in the spell description.
+
+----
+
+----
+
+**Magic-user Spells:**
+
+Each spell has a given Range, Duration, and Effect.
+
+**Range:**  The character should be sure, before casting the spell, that the target is within range. If the description says "Range: 0," the spell may only be used by the magic-user, and cannot be cast on others. If "Range: Touch" is given, the spell can be placed on any creature the magic-user touches — including the magic-user himself (or herself, as the case may be).
+
+**Duration**  is given either in rounds (of 10 seconds each) or turns (of 10 minutes each). If the description says "Duration: Permanent," then the spell has an instant and permanent effect that does not go away after a given duration.
+
+**Effect**  of the spell gives either the number of creatures or objects affected, or an area or volume of space. If an area is given, it is measured in square feet (a flat area). If a 3-dimensional volume is affected, it is either a round "ball" with a given diameter, or a square or rectangular "box" of a given size; both are measured in feet.
+
+----
+
+----
+
+  - Charm Person
+  - Detect Magic
+  - Floating Disc
+  - Hold Portal
+  - Light
+  - Magic Missile
+  - Protection from Evil
+  - Read Languages
+  - Read Magic
+  - Shield
+  - Sleep
+  - Ventriloquism
+
+----
+
+**Charm Person**
+
+Range: 120’ Duration: See below Effect: One living "person" (see below)
+
+This spell will only affect humans, demihumans, and certain other creatures. The victim is allowed a Saving Throw vs. Spells. If the Saving Throw is successful, the spell has no effect. If it is failed, the victim will believe that the magic-user is its "best friend," and will try to defend the magic-user against any threat, whether real or imagined. The victim is "Charmed." \\ As a general rule, the "persons" affected by this spell are all creatures which look similar to humans in various ways. It will not affect animals, magical creatures (such as living statues), or human-like creatures larger than ogres. You will learn, through trial and error, which monsters can be charmed. \\ If the magic-user can speak a language that the Charmed victim understands, the magic-user may give orders to the victim. These orders should sound like suggestions, as if ‘)ut between friends." These orders will usually be obeyed, but orders that are contrary to the victim’s nature (alignment and habits) may be resisted. A victim will refuse to obey if ordered to kill itself. A Charm may last for months. The victim may make another Saving Throw every day, week, or month, depending on its Intelligence. If you are Charmed, your DM will tell you when to make the new Saving Throw. \\ The Charm is automatically broken if the magic-user attacks the victim, whether by spell or by weapon. The victim will fight normally if attacked by the magic-user’s allies.
+
+**Detect Magic**
+
+Range: 0 Duration: 2 turns Effect: Everything within 60’
+
+When this spell is cast, the magic-user will see all magical objects, creatures, and places within range glow. This effect will not last very long, and should be saved until the magic-user wants to see if something found during an adventure is, in fact, magical. Example: Shortly after casting this spell, a magic-user walks into a room containing a door locked by magic, a magical potion laying nearby, and a treasure chest containing a magic wand. All the magic will glow, but only the door and potion will be seen; the light of the glowing wand is hidden by the treasure chest.
+
+**Floating Disc**
+
+Range: 0 Duration: 6 turns Effect: Disc remains within 6’
+
+This spell creates an invisible magical horizontal platform about the size and shape of a small round shield. It can carry up to 5000 cn (500 pounds). It cannot be created in a place occupied by a creature or object. The floating disc is created at the height of the magic-user’s waist, and will always remain at that height. It will automatically follow the magic-user, remaining within 6’ at all times. It can never be used as a weapon, because it has no solid existence and moves slowly. When the duration ends, the floating disc will disappear, suddenly dropping anything upon it.
+
+**Hold Portal**
+
+Range: 10’ Duration: 2-12 (2d6) turns Effect: One door, gate, or similar portal
+
+This spell will magically hold shut any "portal" — for example, a door or gate. A **Knock**  spell will open the **Hold Portal**. Any creature 3 or more hit dice greater than the caster (including characters) may break open a held portal in one round’s time, but the portal will relock if allowed to close within the duration of the spell.
+
+----
+
+----
+
+**Light**
+
+Range: 120’ Duration: 6 turns + 1 turn per Level of the magic-user Effect: Volume of 30’ diameter
+
+This spell creates a large ball of light, as if a bright torch were lit. If the spell is cast on an object (such as a coin), the light will move with the object. If cast at a creature’s eyes, the creature must make a Saving Throw. If the Saving Throw is failed, the victim will be blinded by the light until the duration ends. A blinded creature may not attack. If the Saving Throw is successful, the Light appears in the air behind the intended victim.
+
+**Magic Missile**
+
+Range: 150’ Duration: 1 round Effect: Creates 1 or more arrows
+
+A **Magic Missile**  is a glowing arrow, created and shot by magic, which inflicts 2-7 (1d6+ 1) points of damage to any creature it strikes. After the spell is cast, the arrow appears next to the magicuser and hovers there until the magic-user causes it to shoot. When shot, it will automatically hit any visible target. It will move with the magic-user until shot or until the duration ends. The **Magic Missile**  actually has no solid form, and cannot be touched. A **Magic Missile**  never misses its target and the target is not allowed a Saving Throw. \\ For every 5 levels of experience of the caster, two more missiles are created by the same spell. Thus a 6th Level Magicuser may create three missiles. The missiles may be shot at different targets.
+
+**Protection from Evil**
+
+Range: 0 Duration: 6 turns Effect: The magic-user only
+
+This spell creates an invisible magical barrier all around the magic-user’s body (less than an inch away). All attacks against the magic-user are penalized by -1 to their Hit rolls, and the magic-user gains a +1 bonus to all Saving Throws, while the spell lasts. \\ In addition, "enchanted" creatures cannot even touch the magic-user! If a magic weapon is needed to hit a creature, that creature is called "enchanted." However, a creature that can be hit by a silver weapon — a lycanthrope (werecreature), for example — is not an "enchanted" creature. The barrier thus completely prevents all from attacks from those creatures unless they use missile weapons. \\ This spell will not affect a Magic Missile spell. If the Magic-user attacks anything during the spell’s duration, the effect changes slightly. "Enchanted" creatures are then able to touch the magic-user, but the Hit roll and Saving Throw adjustments still apply until the spell duration ends.
+
+**Read Languages**
+
+Range: 0 Duration: 2 turns Effect: The magic-user only
+
+This spell will allow the magic-user to read, not speak, any unknown languages or codes, including treasure maps, secret symbols, and so forth, until the duration ends.
+
+**Read Magic**
+
+Range: 0 Duration: 1 turn Effect: The magic-user only
+
+This spell will allow the magic-user to read, not speak, any magical words or runes, such as those found on magic scrolls and other items. Unfamiliar magic writings cannot be understood without using this spell. However, once a magic-user reads a scroll or runes with this spell, that magic can be read or spoken later (without) using a spell. All spell books are written in magical words, and only their owners may read them without using this spell.
+
+**Shield**
+
+Range: 0 Duration: 2 turns Effect: The magic-user only
+
+This spell creates a magical barrier all around the magic-user (less than an inch away). It moves with the magic-user. While the duration lasts, the magic-user becomes Armor Class 2 against missiles, and AC 4 against all other attacks. \\ If a **Magic Missile**  is shot at a magicuser protected by this spell, the magicuser may make a Saving Throw VS. Spells (one Saving Throw per missile). If successful, the **Magic Missile**  will have no effect.
+
+**Sleep**
+
+Range: 240‘ Duration: 4-16 (4d4) turns Effect: 2-16 Hit Dice of living creatures within a 40’ square area
+
+This spell will put creatures to sleep for up to 16 turns. It will only affect creatures with 4 + 1 Hit Dice or less — generally, small or man-sized creatures. All the creatures to be affected must be within a 40’ x 40’ area. The spell will not work against Undead or very large creatures, such as dragons. Any sleeping creature can be awakened by force (such as a slap or kick). A sleeping creature may be killed with a single blow of any edged weapon, regardless of its hit points. \\ Your Dungeon Master will roll to find the total Hit Dice of monsters affected, using 2d8. The victims get no Saving Throw. \\ File: \\ **Ventriloquism**
+
+Range: 60’ Duration: 2 turns Effect: One item or location
+
+This spell will allow the magic-user to make the sound of his or her voice to come from somewhere else, such as a statue, animal, dark corner, and so forth.
+
+----
+
+----
+
+**Continual Light**
+
+Range: 120‘ Duration: Permanent Effect: Volume of 60’ diameter
+
+This spell creates a globe of light 60‘ across. It is much brighter than a torch, but not as bright as full daylight. It will continue to glow forever, or until magically removed. It may be cast on an object,just as the first level **light**  spell. If cast at a creature’s eyes, the victim must make a Saving Throw vs. S,pells. If the Saving Throw is failed, the victim is blinded. If the Saving Throw is successful, the globe will still appear, but will remain in the place it was cast, and the intended victim will suffer no ill effects.
+
+**Detect Evil**
+
+Range: 60‘ Duration: 2 turns Effect: Everything within 60’
+
+When this spell is cast, the magic-user will see all evilly enchanted objects within 60’ glow. It will also cause creatures that want to harm the magic-user to glow when they are within range. The actual thoughts of the creatures //cannot//  be heard. Remember that "Chaotic" does not automatically mean Evil, although many Chaotic monsters have evil intentions. Traps and poison are neither good nor evil, merely dangerous.
+
+**Invisibility**
+
+Range: 240‘ Duration: Permanent until broken Effect: One creature or object
+
+This spell will make any one creature or object invisible. When a creature becomes invisible, all items carried and worn also become invisible. Any invisible item becomes visible again when it leaves the creature’s possession (dropped, set down, etc.). If the magic-user makes an object invisible that is not being carried or worn, it will become visible again when touched by any living creature. An invisible creature will remain invisible until he or she attacks or casts any spell. A light source (such as a torch) may be made invisible, but the light given off will always remain visible.
+
+----
+
+----
+
+  - Continual Light
+  - Detect Evil
+  - Detect Invisibile
+  - ESP
+  - Invisibility
+  - Knock
+  - Levitate
+  - Locate Object
+  - Mirror Image
+  - Phantasmal Force
+  - Web
+  - Wizard Lock
+
+----
+
+**ESP**
+
+Range: 60’ Duration: 12 turns Effect: All thoughts in one direction
+
+This spell will allow the magic-user to "hear" thoughts. The magic-user must concentrate in one direction for six rounds (1 minute) to **ESP**  the thoughts of a creature within range (if any). Any single living creature’s thoughts may be understood, regardless of the language. The thoughts (if any) of Undead creatures cannot be "heard" with this spell. If more than one creature is within range and in the direction concentrated on, the magic-user will "hear" a confused jumble of thoughts. The magicuser may only sort out the jumble by concentrating for an extra six rounds to find a single creature. The **ESP**  will not be hampered by any amount of wood or liquid, and will penetrate as much as 2 feet of rock, but a thin coating of lead will block the spell.
+
+**Detect Invisible**
+
+Range: 10‘ per Level of the Magic-user Duration: 6 turns Effect: The magic-user only
+
+When this spell is cast, the magic-user can see all invisible creatures and objects within range. The range is 10’ for each level of the magic-user. For example, a Conjurer can use this spell to see invisible things within 30’.
+
+**Knock**
+
+Range: 60’ Duration: See below Effect: One lock or bar
+
+This spell will open any type of lock. Any normal or magically locked door (by a **Hold Portal**  or **Wizard Lock**  spell), and any secret door, may be opened when found (but a secret door must be found before it can be **Knocked**  open). Any locking magic will remain, however, and will take affect once again when the door is closed. This spell will also cause a gate to open, even if stuck, and will cause any treasure chest to open easily. It will also cause a barred door to open, magically forcing the bar to fall to the floor. If a door is locked and barred, both will be opened.
+
+**Levitate**
+
+Range: 0 Duration: 6 turns + 1 turn per Level of the magic-user Effect: The magic-user only
+
+When this spell is cast, the magic-user may move up or down in the air without any support. This spell does not, however, allow the magic-user to move from side to side. For example, a magic-user could levitate to a ceiling, and then could move sideways by pushing and pulling. Motion up or down is at the rate of 20‘ per round. The spell cannot be cast on another person or object. The magicuser may carry a normal amount of weight while levitating, possibly another man-sized creature if not in metal armor. Any creature smaller than man-size can be carried, unless similarly heavily laden. \\ File: \\ **Locate Object**
+
+Range: 60’ + 10‘ per Level of the magic-user Duration: 2 turns Effect: One object within range
+
+For this spell to be effective in finding an object, the magic-user must know exactly what the object looks like. A common type of object, such as a flight of stairs, can also be detected by this spell. The spell will point to the nearest desired object within range, giving the direction but not the distance. The range increases as the magic-user gains Levels of experience. For example, a Seer can locate objects up to 80’ away; a Conjurer, up to 90‘.
+
+**Mirror Image**
+
+Range: 0 Duration: 6 turns Effect: The magic-user only
+
+With this spell, the magic-user creates 1-4 (1d4) additional images which look and act exactly the same as the magicuser. The images appear and remain next to the magic-user, moving if the magic-user moves, talking if the magicuser talks, and so forth. The magicuser need not concentrate; the images will remain until the duration ends, or until hit. The images are not real, and cannot actually do anything. Any successful attack on the magic-user will strike an image instead, which will merely cause that image to disappear (regardless of the actual damage).
+
+**Phantasmal Force**
+
+Range: 240’ Duration: Concentration (see below) Effect: A volume 2O’x2O’x20‘
+
+This spell creates or changes appearances within the area affected. The magic-user should create the illusion of something he or she has seen. If not, the DM will give a bonus to Saving Throws against the spell’s effects. If the magicuser does not use this spell to attack, the illusion will disappear when touched. If the spell is used to "create" a monster, it will be AC 9 and will disappear when hit. If the spell is used as an attack (a phantasmal magic missile, collapsing wall, etc.), the victim may make a Saving Throw vs. Spells; if successful, the victim is not affected, and realizes that the attack is an illusion. The phantasmal force will remain as long as the magicuser concentrates. If the magic-user moves, takes any damage, or fails any Saving Throw, the concentration is broken and the phantasm disappears. \\ This spell //never//  inflicts any real damage! Those "killed" by it will merely fall unconscious, those "turned to stone" will be paralyzed, and so forth. The effects wear off in 1-4 (1d4) turns.
+
+**Web**
+
+Range: 10’ Duration: 48 turns Effect: A volume 10’ x 10‘ x 10’
+
+This spell creates a mass of sticky strands which are difficult to destroy except with flame. It usually blocks the area affected. Giants and other creatures with great strength can break through a web in 2 rounds. A human of average Strength (a score of 9-12) will take 2-8 (2d4) turns to break through the web. Flames (from a torch, for example) will destroy the web in 2 rounds, but all creatures within the web will be burned for 1-6 (1d6) points of damage. Anyone wearing Gauntlets of Ogre Power (a magical treasure) can break free of a web in 4 rounds.
+
+**Wizard Lock**
+
+Range: 10’ Duration: Permanent Effect: One portal or lock
+
+This spell is a more powerful version of a **Hold Portal**  spell. It will work on any lock, not merely doors, and will last forever (or until magically dispelled). However, a **Knock**  spell can be used to open the **Wizard Lock**. A wizard locked door may be opened easily by the magicuser casting the **Wizard Lock**, and also by any magic-using character or creature of 3 or more Levels (or Hit Dice) greater than the caster. Any such opening does not remove the magic, and the lock will relock when allowed to close (just as the **Hold Portal**  spell). \\ File:
+
+==== Thief ====
+
+**Description**
+
+A thief is a human who specializes in stealth, lockpicking, trap removing, and other activities. Thieves are the only characters that can open locks and find traps without using magic. As the name indicates, however, thieves do steal, though rarely from members of their own groups. Any thief who steals from friends is usually not permitted to adventure with them ever again! \\ In the D&D game, all thieves belong to an organization (sometimes called a Guild). Every town has a building, called the Guild Hall, where thieves may live and eat (for a price, of course). Every thief learns "The Arts" (a thief‘s unique skills; see Special Abilities, below) from teachers at the Guild. Thieves are a normal part of D&D life, because of their unique skills, but they are not usually welcome in the better parts of towns. \\ While adventuring, your thief should avoid danger whenever possible. The thief’s job is to use the Special Abilities where needed. A thief’s skills can be very useful, as they can be used over and over. For example, a magic-user may use a spell to open a lock, but the spell only works once; a thief may try to open locks whenever desired. \\ When an encounter occurs, your thief should stay out of the way. You may try to sneak around a mons’ter, either to steal its treasure or to attack it from behind. You should not fight hand-to-hand unless you have to. A thief has few hit points, and although some light armor may be worn, it is not much protection.
+
+----
+
+----
+
+  * Death Ray or PoisonMagic WandsParalysis or Turn to StoneDragon BreathRods, Staves, or Spells
+
+----
+
+----
+
+----
+
+----
+
+----
+
+Most thieves have high Dexterity scores. Since this can affect missile fire (see Advanced Combat, page 58), you should learn the rules for missiles, and carry missile weapons. A sword or dagger will be needed in situations where you can’t avoid close combat. \\ Thieves are found in most groups of adventurers. The task of staying alive by sneaking and using your wits, instead of just fighting, can be an exciting game challenge.
+
+**Explanation of Thief \\ Experience Table:**
+
+**XP:**  When this number of Experience Points have been earned, the thief automatically moves up to the next Level of Experience.
+
+**Title:**  Your thief should use this title when talking with other characters. Instead of saying "I’m Greegan, a Second Level thief," the character should say "I’m Greegan, the Footpad."
+
+**Other Details:**
+
+**Prime Requisite:**  A thief’s PR is Dexterity. If a thief has a Dexterity score of 13 or more, the character gains a bonus to Experience Points earned in every adventure.
+
+**Hit Dice:**  A four-sided die (1d4) is used to determine a thief’s hit points. A thief starts with 1-4 hit points (plus Constitution bonus, if any) and gains 1d4 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  A thief may only wear Leather armor, and may not use a shield.
+
+**Weapons:**  A thief may use any missile weapon, and any other weapon usable with one hand (two-handed weapons are prohibited. For more information, see "Advanced Combat," page 58). \\ File:
+
+Thieves know how to Open Locks, Find and Remove Traps, Climb Walls, Move Silently, Hide in Shadows, Pick Pockets, and Hear Noise. They also learn the skill of "Backstabbing."
+
+Except for "Hear Noise," each number is the Percentage chance that the thief is successful in using that Special Ability. Your Dungeon Master will roll d%; if the result is equal to or less than the Percentage given, the thief’s attempt is successful. "Hear Noise" is determined in a similar way, using 1d6.
+
+**Explanation of Thief Special Abilities:**
+
+**OPEN LOCKS**  may only be tried once per lock, and only if "Thieves’ Tools" are carried. The thief may not try again’with that lock until gaining another Level of Experience.
+
+**FIND TRAPS**  may also be tried only once per trap. If a trap is found, the thief may attempt to remove it.
+
+**REMOVE TRAPS**  may only be tried if a trap is found. It may be tried only once per trap.
+
+**CLIMB WALLS**  applies to any steep surfaces, such as sheer cliffs, walls, and so forth. The chances for success are good, but if failed, the thief slips at the halfway point and falls. The DM will roll for success only once for every 100’ climbed. If failed, the thief takes 1-6 (1d6) points of damage per 10’ fallen. Failure during a 10’ climb will inflict 1 point of damage.
+
+**MOVE SILENTLY**  will always seem successful to the thief. However, the DM will know (based on the Percentage roll) whether the thief’s movement is actually heard by nearby enemies, who may then take appropriate action.
+
+**HIDE IN SHADOWS**  means that the thief moves into and remains in shadows, also using neutral concealment. Movement is possible while hiding, but not attacking. The attempt will always seem successful to the thief, but only the DM will know for sure.
+
+**PICK POCKETS**  may be risky. If the DM rolls a number greater than twice the given chance for success, the thief is not only seen by those nearby, but is caught in the act by the intended victim, who may (and often does) react unfavorably. **HEAR NOISE**  (checked using 1d6) applies both to listening at doors and hearing the footsteps of approaching monsters. However, there is too much noise during battles to hear anything unusual.
+
+**Using thief special abilities**
+
+Watch for opportunities to use Special Abilities, and simply tell your Dungeon Master when you want your thief to use one. Be sure iou understand how each automatically fail if improperly used. **For Example:**  An ogre is charging at the party, so you say "My thief will Hide in Shadows and get out a dagger." The DM replies, "The ogre sees the movement, and heads straight for your thief!"
+
+**Backstabbing:**  If a thief can sneak up on a victim, completely unnoticed, the thief may Backstab. If the intended victim sees, hears, or is otherwise warned of the thief‘s approach, a Backstab may not be taken, but the thief may still attack normally. \\ When Backstabbing, the thief gains a bonus of + 4 on the Hit Roll, and if the target is hit, the damage done is twice normal. When no battle is in progress, a Backstab attempt may require a "Move Silently" check. Your DM will make all the necessary rolls.
+
+----
+
+----
+
+|   ||colspan=3|Level of Experience|
+|Special Ability||1  | |
+
+----
+
+|Open Locks  |(d%)|15|20|25|
+|Find Traps  |(d%)|10|15|20|
+|Remove Traps  |(d%)|10|15|20|
+|   |   |   |   |   |
+|Climb Walls  |(d%)|87|88|89|
+|Move Silently  |(d%)|20|25|30|
+|Hide in Shadows|(d%)|10|15|20|
+|   |   |   |   |   |
+|Pick Pockets  |(d%)|20|25|30|
+|Hear Noise  |(1d6)|1-2|1-2|1-3|
+
+----
+
+File:
+
+===== DUNGEONS & DRAGONS® characters (character class - demi-human) =====
+
+==== Dwarf ====
+
+**Description**
+
+A dwarf is short and stocky, standing about 4' tall and weighing about 150 pounds. Male dwarves have long beards, and females have short beards. Their skin is earth-colored and their hair is dark brown, gray, or black. Stubborn but practical, dwarves are fond of good food and drink. They value craftsmanship, and love gold. Dwarves are sturdy fighters and are resistant to magic, as shown by their Saving Throws. A dwarf character //must//  start with a Constitution score of 9 or more. \\ Although the dwarf class is different from the fighter class in many ways, their tasks are the same. Both fight, and both shouls use the same strategy in combat. Read the description of the fighter class (page 28) for some tips on combat.
+
+**Explanation of Dwarf \\ Experience Table**
+
+**XP:**  When this number of Experience Points have been earned, the dwarf automatically moves up to the next Level of Experience.
+
+**Title:**  Your dwarf should use this title when talking with other characters. Instead of saying "I'm Rolf, a Second Level dwarven fighter," the character should say "I'm Rolf, the Warrior."
+
+**Other Details:**
+
+**Prime Requisite:**  A dwarf's PR is Strength. If a dwarf has a Strength score of 13 or more, the character gains a bonus to Experience Points earned in every adventure.
+
+**Minimum Scores:**  A dwarf character must have a Constitution score of 9 or greater when first played.
+
+----
+
+----
+
+  * Death Ray or PoisonMagic WandsParalysis or Turn to StoneDragon BreathRods, Staves, or Spells
+
+----
+
+**Hit Dice:**  An eight-sided die (1d8) is used to determine a dwarf’s hit points. A dwarf starts with 1-8 hit points (plus Constitution bonus, if any) and gains 1d8 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  A dwarf may wear any kind of armor, and may use a shield.
+
+**Weapons:**  A dwarf may use any weapon of small or normal size. Dwarves may not use two-handed swords or longbows (short bows and crossbows are permitted).
+
+A dwarf has special vision, knows several languages, and can detect certain things better than other characters.
+
+**Vision:**  Dwarves have Infravision in addition to normal sight and can see 60‘ in the dark. Infravision is the ability to see heat (and the lack of heat). Normal and magical light makes infravision useless. \\ With infravision, warm things seem red, and cold things seem blue. For example, an approaching creature could be seen as a red shape, leaving faint reddish footprints. A cold pool of water would seem a deep blue color. Even items or creatures which are the same temperature as the surrounding air (such as a table or a skeleton) can be dimly seen by infravision.
+
+**Languages:**  In addition to the languages of all characters — the Common and Alignment tongues, as explained on page 51 — a dwarf can speak dwarf, gnome, goblin, and kobold. The character may have problems reading and writing these languages, however, as explained on the same page.
+
+**Detection:**  All dwarves are experts at mining. They can sometimes detect traps, sliding walls, sloping corridors, and new constructions. If your dwarf character wants to search for such things in an area, tell your Dungeon Master. You have 1 chance in 2 to find them. Your DM will roll 1d6, and a result of 1 or 2 will indicate success f there is anything to find. You may check once for each type. You must tell your DM if you want to look for anything; the detection is never automatic.
+
+----
+
+----
+
+----
+
+—
+
+==== Elf ====
+
+**Description**
+
+An elf is slender and graceful, with delicate features and pointed ears. An elf is 5 to 5v2 feet tall, and weighs about 120 pounds. Elves are able to use all armor and weapons, and can cast magicuser spells. They can thus be valuable friends (or dangerous opponents), but usually prefer to spend their time feasting and frolicking in woodland glades. They rarely visit the cities of Man. Elves are fascinated by magic and never grow tired of collecting spells and magic items, especially if the items are beautifully crafted. An elf character must start with an Intelligence score of 9 or greater. \\ Elves are similar to both fighters and magic-users. Read the description of the fighter class for some tips on playing a fighter-type character, but remember that your elf does not have as many hit points as a fighter. Be sure your character is either undamaged or only slightly hurt before you enter a battle; otherwise, stay back and help with magic spells, as a magic-user does.
+
+**Explanation of Elf Experience Table:**
+
+**XP:**  When this number of Experience Points have been earned, the elf automatically moves up to the next Level of Experience.
+
+**Title:**  Your elf should use this title when talking with other characters. Instead of saying "I’m Belrain, a Second Level elf," the character should say "I’m Belrain, the Warrior Seer."
+
+**Spells:**  The number of magic-user spells an elf can cast, and their level of power, are given here. Spells are explained below, under "Special .Abilities."
+
+----
+
+----
+
+|   |   |   |No. of  |
+|   |   |   |Spells/  |
+|XP|Level|Title|Spell Level|
+
+----
+
+|0  |1|Veteran-Medium  |1 First  |
+|4000|2|Warrior-Seer  |2 First  |
+|8000|3|Swordmaster- \\   \\ Conjurer|2 First \\   \\ plus 1 Second|
+
+----
+
+**Other Details:**
+
+**Prime Requisite:**  Elves have two Prime Requisites: Strength and Intelligence. If an elf has a score of 13 or more in both Ability Scores, the character gains a 5% bonus to Experience Points earned in every adventure. If the Intelligence score is 16 or greater (along with Strength of 13 or more), the XP bonus is 10%.
+
+**Minimum Scores:**  An elf character must have an Intelligence score of 9 or greater when first played.
+
+**Hit Dice:**  A six-sided die (1d6) is used to determine an elf’s hit points. An elf starts with 1-6 hit points (plus Constitution bonus, if any) and gains Id6 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  An elf may wear any kind of armor, and may use a shield.
+
+**Weapons:**  An elf may use any weapon.
+
+An elf has special vision, knows several languages, and can detect certain things better than other characters. Elves can cast magic-user spells, and cannot be paralyzed by ghouls.
+
+**Vision:**  Elves have Infravision in addition to normal sight and can see 60’ in the dark. Infravision is the ability to see heat (and the lack of heat). Normal and magical light makes infravision useless. \\ With infravision, warm things seem red, and cold things seem blue. For example, an approaching creature could be seen as a red shape, leaving faint reddish footprints. A cold pool of water would seem a deep blue color. Even items or creatures which are the same temperature as the surrounding air (such as a table or a skeleton) can be dimly seen by infravision.
+
+**Languages:**  In addition to the languages of all characters — the Common and Alignment tongues, as explained on page 51 — an elf can speak elf, gnoll, hobgoblin, and orc.
+
+**Detection:**  All elves can find secret and hidden doors better than other characters. If your elf character wants to search for hidden doors in an area, tell your Dungeon Master. The DM will roll 1d6, and a result of 1 or 2 will indicate success if there is a door to be found. You may check once for each door. You must tell your DM if you want to look for anything; the detection is never automatic.
+
+**Immunity to Ghoul Paralysis:**  All elves are naturally immune to the paralyzing attacks of ghouls. Other types of paralysis, such as from a carrion crawler or gelatinous cube, may affect them.
+
+**Spells:**  Elves can use magic-user spells just as magic-users can. Read the descriptions of spell casting, spell books, etc. on pages 39 — 42. Elves must obey all the rules for using magic-user spells (but not the other rules for the magic-user class).
+
+----
+
+----
+
+  * Death Ray or PoisonMagic WandsParalysis or Turn to StoneDragon BreathRods, Staves, or Spells
+
+----
+
+==== Halfling ====
+
+**Description**
+
+A halfling is a short demi-human, and looks much like a human child with slightly pointed ears. A halfling stands about 3’ tall and weighs about 60 pounds. Halflings rarely have beards. They are outgoing but not unusually brave, seeking treasure as a way to gain the comforts of home, which they so dearly love. Halflings are woodland folk, and usually get along well with elves. They have special abilities in the outdoors. A halfling character must start with a score of 9 or greater in both Dexterity and Constitution. \\ Halflings behave similarly to fighters and dwarves. Read the description of the fighter class for some tips on playing your halfling. Remember your special abilities (see below), and use them whenever possible. A halfling’s Saving Throws are as good as those of dwarves, and you may survive where others fall to magic or poison attacks.
+
+**Explanation of Halfling \\ Experience Table:**
+
+**XP:**  When this number of Experience Points have been earned, the halfling automatically moves up to the next Level of Experience.
+
+**Title:**  Your halfling should use this title when talking with other characters. Instead of saying "I’m Touchberry, a Second Level halfling," the character should say "I’m Touchberry, the Warrior."
+
+----
+
+----
+
+  * Deat Ray or PoisonMagic WandsParalysis or Turn to StoneDragon BreathRods, Staves, or Spells
+
+----
+
+----
+
+----
+
+----
+
+----
+
+**Other Details:**
+
+**Prime Requisite:**  A halfling has two Prime Requisites: Strength and Dexterity. If either of these Ability scores is 13 or greater, the character gains a 5% bonus to Experience Points earned in every adventure. If both of these scores are 13 or greater, the XP bonus is 10%.
+
+**Minimum Scores:**  A halfling character must have a score of 9 or greater in both Dexterity and Constitution.
+
+**Hit Dice:**  A six-sided die (1d6) is used to determine a halfling’s hit points. A halfling starts with 1-6 hit points (plus Constitution bonus, if any) and gains 1d6 more hit points (plus bonus) with each Level of Experience.
+
+**Armor:**  A halfling may wear any kind of armor, and may use a shield. However, their armor and shields must be specially made for their small size. Even dwarfsized armor is too large for them.
+
+**Weapons:**  A halfling may use any small sized weapon (such as a dagger, short sword, or short bow). Halflings may not use two-handed swords, longbows, battle axes, pole arms, or other large weapons.
+
+A halfling gains several combat bonuses (some due to their small size) and can hide easily in woodlands.
+
+**Combat:**  Halflings often use missile weapons, and are better at dodging the attacks of large creatures than are other characters. All halflings gain the following bonuses when in combat.
+
+|-2|bonus to Armor Class when attacked y creatures larger than man-size;  |
+|+1|bonus to the Hit Roll when using any missile (see Additional Rules, page 59)|
+|+1|bonus to Individual Initiative (optional combat rule, page 59)  |
+
+**Hiding:**  Outdoors, halflings are difficult to spot, having the ability to seemingly vanish into woods or underbrush. In such cover, they can only be detected 10% of the time (the DM will roll). Halflings can even hide in dungeons, though not with as much success. In normal light, if a halfling finds some shadows or cover to hide in (remaining absolutely quiet and not moving), the attempt at hiding will succeed %half; of the time. To use this ability, tell your DM. The DM will roll 1d6; a result of 1 or 2 indicates success at hiding, as long as the character does not move or make any noise. \\ Magical light, such as a cleric’s Light spell, will ruin the attempt. If the character is carrying any light, it will be impossible to hide.
+
+===== DUNGEONS & DRAGONS® characters =====
+
+==== Making up a new character ====
+
+After you are used, to the rules of the game by playing your Fighter, you can try other characters by using the Character Sheets included in this booklet. But remember that they are not usable in the Solo Adventure! Th.at adventure was designed only for your first fighter. \\ Sooner or later you will want to make up your own new character. Before you start, get a pencil and all the dice. You will also need a blank Character Sheet (or a normal-size piece of paper) to keep track of the details. \\ If you are using a blank piece of paper, copy the form of the Character Sheet onto it - in other words, allow a space for your name and the character’s name at the top left, a place for Class, Level, Armor Class, and Hit Points below that, and so forth. \\ Your first try at creating a new character will probably take an hour or so. Even when you are used to the procedure, it will still take 10-30 minutes. You should not try to create a character after everyone gets together for a game. All the rolling, adjusting, buying, and so forth should be done beforehand. \\ Your Dungeon Master will be needed for part of the process, and should watch the creation of the character, including all dice rolls. You should get together with the DM before the game to work out the details. One good method is to have all the players make new characters together, with the Dungeon Master helping. \\ At the bottom of this page is a list of the steps to take when making a new character; each step is then explained in detail.
+
+=== 1. Roll for Ability Scores ===
+
+Instead of just making up numbers for your Ability Scores, you will roll dice to find each Score. This is done by rolling the six-sided die three times, and adding the results. Or, if you have other sixsided dice, roll 3 dice together. \\ For example, if you roll 1 each time, then the total score is 3, the least possible. If you roll all sixes, then the total is 18, the highest you can have. You should finish with six numbers, each between 3 and 18, which are your character’s Ability Scores. Write the Scores down as you roll them, next to the names of the Abilities. \\ Now find your highest Ability Score. If it is less than 9, you should roll all the Scores again. You may keep the character if you wish, but he or she probably won’t be suitable for dangerous adventuring! However, before you discard the character, ask your Dungeon Master what to do. Your DM might prefer that you play the character you rolled, especially if you are an experienced player. \\ If two or more Ability Scores are less than 6, the character may have problems later on. This type of character should also be discarded, unless the DM says otherwise. \\ You can adjust the’ Ability Scores in step 3 (Exchange Ability Points), but first you must decide what Class your character will be.
+
+=== 2. Choose a Class ===
+
+Each type of character is called a Class. Your first character’s Class was Fighter. You know now that there are other kinds of adventurers: clerics, magicusers, and thieves. You could play one of those, or even a character that’s not human: you can be a dwarf, an elf, or a short child-sized person called a halfling. Each of these seven adventurer types is a Character Class.
+
+----
+
+**CREATING A CHARACTER**
+
+----
+
+  - Roll for Ability Scores
+  - Choose a Class
+  - Exchange Ability Score points (ifdesired)
+  - Roll for Hit Points
+  - Roll for Money
+  - Buy equipment
+  - Figure out your: - Armor Class - Hit Roll Chart
+      - Saving Throws
+  - Note adjustments for Ability Scores
+  - Give your Character a Name and Alignment
+  - Get ready to play
+
+----
+
+Each Class has a specialty. Fighters are strong, Magic-Users are intelligent, Clerics are wise, and so forth. This specialty is called the Prime Requisite for the Class. For example, Strength is the Prime Requisite for Fighters. \\ If your character’s Prime Requisite is high enough, you will get a bonus on Experience Points. That is why your first Fighter got a bonus: your Strength, the Prime Requisite, was 17. You are allowed to play a Fighter with.any Strength score, but strong fighters are better at what they do (and get more XP) than weaker ones. \\ You are not forced to pick a Class on your highest Ability Score — but it helps. If you have two or more high scores, you may wish to consider a nonhuman character. \\ Look at the following chart, and compare your highest Ability Scores with the Prime Requisites for the Character Classes. Then, if you are playing a Human character, pick one Class that fits the Ability Scores you rolled.
+
+(Constitution and Charisma affect all the Classes, and are never Prime Requisites.)
+
+----
+
+|Prime Requisite|Class|
+
+----
+
+|Strength  |Fighter  |
+|Intelligence|Magic-User|
+|Wisdom  |Cleric  |
+|Dexterity  |Thief  |
+
+----
+
+**Dwarves, Elves, and Halflings**
+
+Any human character can be any of the four classes, but non-human characters are handled differently. If you wish to play a non-human character, you must have high Ability Scores in certain areas. \\ Elves have abilities similar to both fighters and magic-users, so they must have good Scores in both Strength and Intelligence. Both of these Ability Scores are Prime Requisites for Elves. Also, if your character has an 8 or less for Intelligence, the character //cannot//  be an Elf. \\ Halflings have some fighting abilities, and must have a good Strength and Dexterity. Both ofthese are Prime Requisites for Halflings. In addition, Halflings are also very healthy. If your character has an 8 or less in Dexterity or Constitution, the character //cannot//  be a Halfling. \\ Dwarves are always healthy, too. If your character has an 8 or less in Constitution, the character //cannot//  be a dwarf. Dwarves specialize in combat, similar to fighters, so their Prime Requisite is Strength.
+
+If you wish to play a non-human character, you may pick one of these if you have rolled the minimum Scores given, or if you can exchange ability points (see step 3) to meet the minimum Score(s) for the Class. Whichever Class you pick, you should read the full description of the Class on pages 23 - 47 before you get to step 6.
+
+**Prime Requisites**
+
+If you rolled well and chose well, the Ability Score of your Prime Requisite should be 9 or greater. But it can be fun to play characters with lower scores, too. Imagine a poor dwarf who is perfectly healthy (Constitution 16) but very weak (Strength 5); he does the best he can in combat, but doesn't do much damage. The fun in the game comes from role playing, and this could be a very interesting character to play. Remember that you can always start another character later. \\ For a very high Prime Requisite Score, your character gets a bonus to XP (Experience Points). At the end of each adventure, when the Dungeon Master gives out XP, you will add extra points. But if your Prime Requisite is low, you will be penalized, and must subtract XP from the number awarded by the DM. \\ The amount of XP added or subtracted is given in the following chart:
+
+=== 3. Exchange Ability Score Points ===
+
+At this point, it is possible to raise a Prime Requisite by lowering other Ability Scores. This is like practicing hard to learn your Class, but at the cost of not developing another Ability at the same time. (For example, a Magic-User might study hard and neglect his exercise for a higher Intelligence, and end up with a lower Strength.) The rules for exchanging Ability Points are:
+
+  - Your Prime Requisite (and //only//  that score) goes up 1 point for each 2 points that another Ability Score goes down.
+  - Constitution and Charisma points can never be exchanged with others.
+  - Dexterity cannot be lowered (but it may be raised if you have a Thief or Halfling character).
+  - No score can be lowered below 9. If it is already 10 or less, it cannot be lowered.
+
+A Cleric with Strength and Wisdom of 15 drops the Strength by 6 (to 9) and raises the Wisdom by 3 (to 18).
+
+If you want to exchange any Ability Score points, you must do that //now//  — before you go any further in making the character. No exchanges can be made later.
+
+=== 4. Roll for Hit Points ===
+
+Different Classes have different numbers of hit points. Fighters and Dwarves need many because they take damage in battle. Magic-Users and Thieves have less hit points, and should try to stay out of fights. Other Classes are in between, and can fight if they must, but often avoid it if possible. \\ Find your character’s Class on the chart below, and roll one die to find your starting Hit Points
+
+----
+
+Class
+
+----
+
+Fighter Dwarf Cleric Elf Halfling Magic-user Thief
+
+----
+
+Now find your Constitution Score on the Bonuses and Penalties for Ability Scores Table below, and apply the bonus or penalty to the number of hit points you rolled. But whatever the adjustments, your hit points cannot be lowered to zero; you will have at least 1 hit point for each roll.
+
+----
+
+----
+
+|Ability Score|Adjustment|
+
+----
+
+|3  |-3 Penalty  |
+|4-5  |-2 Penalty  |
+|6-8  |-1 Penalty  |
+|9-12|No adjustment|
+|13-15|+1 Bonus  |
+|16-17|+2 Bonus  |
+|18  |+3 Bonus  |
+
+----
+
+(This chart is used for adjustments for most of the Ability Scores, and you will refer to it later.)
+
+You can immediately see the benefit of having a good Constitution score. Your first character, the Fighter with a Constitution of 16, had a +2 bonus to hit points. Therefore, your starting roll for that character would have been a 6 (out of 8 possible), plus a bonus of 2, for a total of 8 hit p0int.s. Did you ever get badly hurt, down to 2 hit points in your adventures? If so, you could have been dead — but you were saved by the bonus for your high Constitution! \\ Each time you gain a Level of experience, you will roll for more Hit Points. And each time you roll, you adjust the roll according to your Constitution score.
+
+=== 5. Roll for Money ===
+
+Your character starts out with no possessions except for normal clothes and a little money, saved up over many years. You will need to go shopping for equipment, but first you must find out how much money you have. \\ Roll 3d6 (the total of 3 rolls of a sixsided die), and multiply the total by 10. (For example, if you roll 12, the total is 120.) This is the amount of gold pieces that you start with. Write that on the back of your character sheet in the "Money" box.,
+
+=== 6. Buy equipment ===
+
+Now you can spend your money on the equipment you need to go adventuring. There is a complete list of equipment in the center of this book. \\ There are restrictions on what items you are allowed to have, especially on armor and weapons. Before you go shopping, be sure you have read the full description of your Character Class (pages 39 - 47). For Example, a Magic-User cannot wear any armor at all, and can only use a dagger for a weapon! It would be a waste of money for this Class to buy a sword or shield; instead, money can be saved or spent on oil, torches, and other items. Thieves, on the other hand, must buy Thieves’ Tools to be able to Open Locks. \\ On a piece of scrap paper, write down all the equipment you want to buy and add up the cost. If it’s more than you have, you must put something back. When you can pay for your list of equipment, subtract the cost from your money, and write the equipment down on the back of the Character Sheet. \\ Be careful shopping! You may forget to buy rope, for example, and suddenly find a need for it during an adventure - and if you didn’t buy it, you don’t have it. But remember also that money can be saved for buying expensive equipment later. Only buy what you need.
+
+=== 7. Figure out your Armor Class, Hit Roll chart, and Saving Throws ===
+
+**a. Armor Class**
+
+**Armor Type**
+
+Your Armor Class is a combination of the type of armor you are wearing, plus any adjustments due to Dexterity. First, find your armor type on the chart below:
+
+----
+
+ARMOR CLASS
+
+----
+
+|Armor Type|Armor Class|
+
+----
+
+|No armor  |9  |
+|Leather  |7  |
+|Chain Mail|5  |
+|Plate Mail|3  |
+|Shield  |Bonus of 1*|
+
+&asterisk;If you bought a shield, subtract 1 from your Armor Class number. For example, Chain Mail alone is AC 5, but with a shield it drops to AC 4.
+
+**Dexterity Adjustments to Armor Class**
+
+Find your Dexterity Score on the Bonuses and Penalties Table and for every +1 bonus, subtract 1 from your Armor Class and for every -1 penalty, add 1 to your Armor Class.
+
+//Remember://  the lower the AC number, the harder you are to hit. A minus (Penalty) to Armor Class actually raises the number, making you easier to hit. \\ If your AC is even better than zero — for example, with a Dexterity Score of 18 and wearing Plate Mail and Shield — then "minus" numbers are used. In this case, the AC would be "minus one" (-1).
+
+----
+
+----
+
+|Target's \\   \\ AC|9|8|7|6|5|4|3|2|1|0|-1|
+
+----
+
+|Roll|10|11|12|13|14|15|16|17|18|19|20|
+
+----
+
+**b. Hit Roll Chart**
+
+Every starting character has the same chances to hit. You will not change the chart until your character gets at least to 4th level. You may find magic weapons as treasures, which help your chances to hit as well as the damage done. \\ Copy the numbers below into the boxes at the bottom of the Character Sheet (Hit Roll Needed):
+
+When you try to hit a monster, roll 1d20. Adjust the roll for your Strength, and find the total on the bottom line of the chart. You hit the Armor Class on the chartjust above the roll. Announce what Armor Class you hit, and the DM will tell you whether you hit or missed your target. For example, if your total is 15, you say "I hit AC 4." If the target was AC 4 or higher (AC 5, AC 6, etc.), then you have successfully hit. \\ If your adjusted total is 9 or less, then you miss, whatever the target is. If your adjusted total is 20 or more, then you hit, whatever the target is - as long as -it’s possible to hit it. (There may indeed be things you can’t hit; you will know this is the case if your Dungeon Master says you missed, even with a total of 20 or more.) \\ The adjustments to the roll are based on your Strength score, according to the "Bonuses and Penalties" chart above. If you have an adjustment, write it down now, next to "Strength," and remember to use it each time you make a Hit Roll.
+
+**c. Saving Throws**
+
+Your Saving Throws are based on your Character Class and Level of Experience. However, your Saving Throws will not change until you reach 4th level (or higher, for some Classes). All of your beginning Saving Throws are given in the description of your character’s Class. \\ When making a Saving Throw against a magic spell, your Wisdom score may cause an adjustment. Find your Wisdom score on the "Bonuses and Penalties" chart, and write the adjustment down on the Character Sheet.
+
+=== 8. Note adjustments for Ability Scores ===
+
+You should now have most of the adjustments for Abilitv Scores noted on your Character Sheet. Your Strength, Wisdom, Dexterity, and Constitution bonuses or penalties have been explained in the steps taken so far. You should double-check to be sure they are correct, using the Bonuses and Penalties Table. All of these adjustments (if any) should be written on your Character Sheet in the spaces provided for them, next to the Ability Scores. \\ Using the chart, fill in the bonus or penalty for your Intelligence Score. The Charisma Score uses a different chart.
+
+**Intelligence**
+
+A character of "average" Intelligence (a score of 9-12) knows 2 languages: the Common tongue and an Alignment tongue. The character can read and write those languages. \\ If the adjustment is a bonus, this is the number of additional languages the character can read and write. Your Dungeon Master will tell you what languages are available. You must choose your added languages before you play the character in a game. \\ If the adjustment is a penalty, then the character has trouble either writing or speaking, as given on the Languages Table:
+
+----
+
+----
+
+|Intelligence \\   \\ Score|Use of Languages|
+
+----
+
+|3  |Has trouble with \\   \\ speaking, cannot \\  \\ read or write|
+|4-5|Cannot read or write \\   \\ Common  |
+|6-8|Can write simple Common words.  |
+
+----
+
+Languages can be important when you are trying to talk to a monster, or talk in private with another character.
+
+**Charisma**
+
+Your Charisma will affect the reactions of others, whether monsters or characters, when you are talking to them (but not unless you are talking). If you try to hire retainers (bodyguards, assistants, and so forth), your Charisma will determine the number of them that you can hire, and how loyal they will be. Your Dungeon Master will tell you if any retainers are available, and will play the roles of the retainers you find and (possibly) hire. \\ Find your Charisma Score on the Charisma Adjustment Table, and note the details on your Character Sheet.
+
+Whenever you are talking to another creature in the game (whether monster or character), tell the Dungeon Master what your Reaction adjustment is. If your Dungeon Master allows the use of Retainers, you will need to give your Maximum number, as well as the Morale score (which is a measure of loyalty and courage). You will not need to adjust any of your rolls due to Charisma; only the Dungeon Master will need the information.
+
+----
+
+----
+
+|   |   |Retainers  |
+|Charisma \\   \\ Score|Reaction \\   \\ adjustment|Maximum \\   \\ numer|
+
+----
+
+|3  |-2  |1|4|
+|4-5  |-1  |2|5|
+|6-8  |-1  |3|6|
+|9-12|No adjustment|4|7|
+|13-15|+1  |5|8|
+|16-17|+1  |6|9|
+|18  |+2  |7|10|
+
+=== 9. Give your Character a Name and Alignment ===
+
+**Names**
+
+Your character may have a normal name, like "Gary" or "Candace," or may have a fantasy name like "Felonius," or just a nickname, like "Eagle-Eyes.’’ Your Dungeon Master might have some hints. For example, if your home town is in a forest, the DM may encourage fantasy names like "Silverglade" or "Whisperrain." \\ Choose a name carefully. It should represent the character in some way, or at least be a name you like. If you give a character a silly name, you might regret it later.
+
+**Alignment**
+
+Be sure you understand what Alignment is; it was explained briefly during your first adventure, and is covered in detail on page 59. Select an Alignment, and write it on your character sheet. Remember that Alignment is the way you actually want to play the character,
+
+File:
+
+not just the way the character should behave. \\ The other characters don’t need to know what your Alignment is, but they should be able to figure it out by the way you play the character.
+
+'''10. Get ready to play '''
+
+If your character can cast magic spells, you will need to select spells before starting your adventure. Magic-Users get 1 spell to start. Clerics do not get spells until they reach 2nd Level. Magic-User spells are explained on pages 39 - 42, and cleric spells are explained on pages 26 - 27. \\ Your character will be adventuring with others, so you should talk with the other players to find out something about their characters. Before starting, you should understand how to play in a group. This is explained on the following pages.
+
+----
+
+----
+
+It is important to remember that the player and the character are two different persons. The more the two are kept apart, the better your games can be. \\ The most obvious example of this is the dice rolls you make. All dice rolls are called "game mechanics," as are other details such as Armor Class, Hit Points, and so forth. These things would not be part of a character’s knowledge. The characters would talk about armor, health, and attacks, but never about Ability Scores, Hit Rolls, or other parts of the game. Everyone can usually tell whether the players are in the role of the characters or being themselves, handling game mechanics. \\ If there is any doubt, the player should clarify. \\ Suppose that a player has a Chaotic character (unusual, but not impossible). The character will act wildly at times, but the player should remain calm while dealing with the others. If the player acts Chaotic, the game will become very confusing and less fun. \\ There are many ways that this can affect the game, especially when a player knows something that the character doesn’t. For instance, if a character starts to fight a new, unknown monster, and the DM says "It hit you; save vs. Poison, please!" then all the players know that the monster is poisonous. But the better players will ignore that information. Their characters don’t know about the poison, and shouldn’t use that "player information." The characters will probably find out after the battle, when they talk to their wounded friend and discover that the wound "stung, like poison," or is discolored. (All of such descriptions are left to the DM’s imagination.) \\ A question like "What time is it?" could be answered two different ways: in "real time," which any player can find by looking at a clock, and "game time," of which the DM should be aware, but of which the characters might only have a general idea. The DM could reply, "Real time, it’s 7:30. Game time, it’s past noon, but you are not sure exactly." \\ When the players remember the difference between themselves and their characters, everyone can have more fun in Role Playing. If a character has low Intelligence and Wisdom scores, for example, and then does something stupid, the player can honestly say "I was playing my character," and others should remember not to get mad at the player. Their characters may indeed get mad at the stupid character, but it is very important to remember that the player is a different person. \\ This should not be used as an excuse for bad or selfish play. The DM should watch all the role playing closely to help everyone have the most fun. Since the object of the game is to have fun by playing roles, stupid or weak characters can be as much fun as smart, powerful ones — if the roles are played well. \\ The Dungeon Master may say, at any time in the game, "You don’t know that!" or "You wouldn’t think of that." Good players will learn to avoid this type of problem by keeping the character knowledge and player knowledge separate.

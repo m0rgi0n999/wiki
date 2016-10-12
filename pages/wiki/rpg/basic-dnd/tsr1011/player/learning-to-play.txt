@@ -1,0 +1,293 @@
+~~NOTOC~~
+====== Learning how to play DUNGEONS & DRAGONS® games ======
+
+<WRAP col3 justify>
+
+==== Start here ====
+
+A **dungeon** is a group of rooms and corridors in which monsters and treasures can be found. And you will find them, as you play the role of a character in a fantasy world. There are many kinds of monsters, but dragons are the biggest and most dangerous — and have the most treasure.\\
+<wrap indent>You can start playing this game right now — without learning any rules, and without anyone else to play with! Just start reading, and you will discover the basics of the game in a matter of minutes.</wrap>\\
+<wrap indent>During your first adventure, you will only need one of the dice in the box. The others will be used later, for now all you need is the roundish one with the numbers 1 to 20 on it. Use the crayon to fill in the numbers, and rub off extra wax with a tissue so only the numbers are colored in.</wrap>\\
+<wrap indent>After you do that, get a pencil and paper — and you’re ready to start!</wrap>\\
+<wrap indent>Read this booklet just like any book. //Don’t// skip around! This edition has been completely revised to introduce the game to you, step by step. While you are reading the next sections, you will learn many things about the game. You do not have to memorize everything as you go along.</wrap>\\
+<wrap indent>By the time you have played the **Solo Adventure** (pages 13-22), you will know how to play the basic game. The rest of this booklet gives other details that you will need when playing the game with others.</wrap>\\
+<wrap indent>In group games, one person is the Dungeon Master, and everyone else is a player. The Dungeon Master (or DM, for short) runs the game, while the others play the roles of characters. The other booklet in this set, **DUNGEON MASTERS RULEBOOK**, gives all the information needed for running group games.</wrap>
+
+=== What is "role playing"? ===
+
+This is a role-playing game. That means that you will be like an actor, imagining that you are someone else, and pretending to be that character. You won’t need a stage, though, and you won’t need costumes or scripts. You only need to imagine.</wrap>\\
+<wrap indent>This game doesn’t have a board, because you won’t need one. Besides, no board could have all the dungeons, dragons, monsters, and characters you will need!</wrap>\\
+<wrap indent>For now, while you are learning, you will play a role in your imagination. Later, when you play the game with others, you will all be playing different roles and talking together as if you were the characters. It will be easy, but first you need to get ready.</wrap>
+
+=== What role will I play? ===
+
+Imagine: it is another place, another time. The world is much like ours was, long ago, with knights and castles and no science or technology - no electricity, no modern comforts of any kind.\\
+<wrap indent>Imagine: dragons are real. Werewolves are real. Monsters of all kinds live in caves and ancient ruins. And magic really works!</wrap>\\
+<wrap indent>Imagine: you are a strong hero, a famous but poor fighter. Day by day you explore the unknown, looking for monsters and treasure. The more you find, the more powerful and famous you become.</wrap>
+
+**Your character’s basic abilities**
+
+In the game, we need some way of describing your character, the fighter you will pretend to be. We can say the fighter is "strong, fairly nimble, not too smart" — but we need to describe the character a little better than that.\\
+<wrap indent>We call these descriptions **abilities** (Strength, Intelligence, and others). We measure each one with a number, called an "Ability Score." The highest score possible is 18, and the least is 3 (for reasons we’ll discuss later).</wrap>\\
+<wrap indent>You are a strong fighter; your Strength score is 17, nearly the highest possible!</wrap>\\
+<wrap indent>You are "fairly nimble," which means that you can move swiftly. The name for this ability is Dexterity. As a fighter, you don’t need a high Dexterity score. Your Dexterity is 11 (which is a little above average).</wrap>\\
+<wrap indent>A fighter often isn’t very smart. Your character isn’t as smart as you are, but isn’t stupid, either. Let’s say your Intelligence is 9 (which is a little below average).</wrap>\\
+<wrap indent>Now make a note of your Scores. Anywhere in the middle sheet of paper, write:</wrap>
+
+|17|Strength  |
+|11|Dexterity  |
+|9|Intelligence|
+
+You also need equipment for adventuring. You are carrying a backpack and other items, very similar to what you would carry when camping. Some of these items include food, water, rope, a lantern, and so forth; for now, just assume you have everything you need to survive in the wilderness.\\
+<wrap indent>With monsters around, you need protection! You are wearing armor made of links of chain (called chain mail) and a helmet. You own a beautiful sword, and have a dagger tucked into one boot,just in case. You know how to use all of your equipment properly.</wrap>\\
+<wrap indent>If you like, you can give your fighter a name. It doesn’t matter whether you are male or female.</wrap>\\
+<wrap indent>All set? Let’s go!</wrap>
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic1.jpg?nolink&236x493  }}
+
+----
+----
+
+==== Your first adventure ====
+
+----
+
+Your home town is just a small place with dirt roads. You set off one morning and hike to the nearby hills. There are several caves in the hills, caves where treasures can be found, guarded by monsters. You have heard that a man named Bargle may also be found in these caves. Bargle is a sort of bandit, who has been stealing money, killing people, and terrorizing your town. If you can catch him, you can become a hero!\\
+<wrap indent>As you approach the entrance, you look around. It’s a nice day, and everything seems peaceful. You know that things aren’t usually peaceful in caves where monsters live, and it’s usually dark, too. So you get out your lantern and a tinderbox (matches haven’t been invented yet, so the box has flint and steel), and carefully light the wick. The flame sputters a bit, but the oil soon burns with a soft glow. With your sword ready, you step into the cave.</wrap>\\
+<wrap indent>It’s dark and musty inside. A passage leads inward from the entrance, going deeper into the hill. It looks like the only way to go, so you head in that direction, watching carefully for bats and other nasty creatures.</wrap>\\
+<wrap indent>Suddenly, you see a goblin! He is smaller than you are, and looks like an ugly little man with gray skin. He sees you, gives a scream, waves his sword, and attacks! You dodge his blow, and raise your sword to swing.</wrap>\\
+<wrap indent>If the goblin hadn’t attacked right away, you might have tried talking to him; but now you have no choice. You must fight for your life.</wrap>
+
+----
+
+**How to hit** \\
+In the game, whenever you try to hit a monster there is a chance that you will miss - and, of course, a chance that you will hit. It is very hard for monsters to hit your fighter, because of your fine chain mail armor. The goblin isn’t as hard to hit, because his armor is not nearly as good.\\
+<wrap indent>To swing at the monster, you must make a Hit Roll. Roll the twenty-sided die. If you roll an 11 or less, your character misses the goblin. If you roll a 12 or higher, you hit! (This number is part of the Combat Rules. You will learn more about it as you continue.)</wrap>\\
+<wrap indent>If you miss, the goblin tries again, but misses. You can swing again; roll again to see if you hit.</wrap>\\
+<wrap indent>If you hit the goblin, he screams and runs away, down the corridor and into the darkness. (Goblins can see in the dark.) You have wounded him.</wrap>\\
+<wrap indent>If you keep missing, keep rolling! The goblin is trying to hit you, but you keep dodging the blows. Remember: if you hit the goblin, he runs away.</wrap>
+
+**Damage and hit points** \\
+In the game, when any creature is hit (either monster or character), damage is caused. There is a way of keeping track of damage, called **hit points**.\\
+<wrap indent>The number of hit points is the amount of damage that a creature can take before being killed. Hit points can be any number; the more hit points a creature has, the harder it is to kill. We often use an abbreviation for hit points: it is **hp**.</wrap>\\
+<wrap indent>Your fighter starts with 8 hp (hit points) and still has all 8, since the goblin never hit you. He may have hit your armor or shield, but never got through your protection, so these attacks are still called "misses" - they didn’t actually damage your character.</wrap>
+
+**Constitution: Your health** \\
+Your fighter is healthy, and can fight a long time without tiring. This ability is measured by another Ability Score, called Constitution. Your Constitution is 16, well above average but not perfect.\\
+<wrap indent>Your Constitution affects your hit points. If you have a low score, you might only have 2 or 3 hit points. On the other hand, if you had an 18 Constitution, you might have as many as 10 hp, or more!</wrap>\\
+<wrap indent>Write your new Ability Score under the others on your sheet.</wrap>
+
+<WRAP center>16 Constitution</WRAP>
+
+Near the top of the page, above the Ability Scores, make a note of your hit points:
+
+<WRAP center>Hit Points 8</WRAP>
+
+Now back to your adventure:
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic2.jpg?nolink&455x480  }}
+
+----
+
+You stop for a moment to be sure that you are all right, and then continue down the corridor. There are no side passages, no other way to go.\\
+<wrap indent>Ahead, the corridor leads into a wider area, which we will call a "chamber". You carefully approach the chamber, shining your lantern around to see if anything is there. A hiss comes from a corner of the room to your left, and there you see a huge rattlesnake, almost ten feet long! Near it, on the floor, are hundreds of gold and silver coins.</wrap>
+
+----
+
+Talking to a snake will do no good at all, and you can’t just sneak past it. Again, you must fight. For this battle, you will keep track of hit points. The snake has 3 hp. On your sheet of paper, near the bottom, write "Snake 3," leaving some room to keep track of the snake’s damage.\\
+<wrap indent>This time, you will need to roll an 11 or higher to hit the snake. It’s slower and easier to hit than the goblin was. But the snake has a better chance of hitting you than the goblin did, because it’s bigger and tougher.</wrap>\\
+<wrap indent>If you hit the snake, cross off the 3 and write a 2 next to it; you have damaged the snake. If you miss, don’t do anything.</wrap>\\
+<wrap indent>The snake then bites at you, and hits! At the top of the sheet, cross off the 8 after the words "Hit Points," and write a 7 next to it.</wrap>\\
+<wrap indent>While playing a D&D game by yourself, you should use this method to keep track of your hit points, and the hit points of the monster you meet.</wrap>
+
+\\
+**Poinsoned?**
+
+This is a poisonous snake, which can be very dangerous. In the game, there is a way of finding our whether the poison hurt you or not. Roll the twenty-sided die again. If you roll a 12 or higher, that means that you dodged before the snake could inject its poison (but you still take damage from the bite). If you roll an 11 or less, your fighter takes 2 more points of damage from the poison (cross off the 7 hp and write 5).\\
+<wrap indent>You made this roll to see if you saved yourself from trouble; this roll is called a Saving Throw, and will be used later in many other situations in the game.</wrap>\\
+<wrap indent>Your fighter swings again. Remember, if you roll an 11 or higher, you hit, and can subtract 1 hit point from the snake. If you miss, do nothing.</wrap>\\
+<wrap indent>The snake bites your fighter again! You lose one more hit point, and must make another saving throw; remember, if you roll 12 or higher, you don’t lose extra points. If you roll an 11 or less, you lose another 2 hit points from poison damage.</wrap>\\
+<wrap indent>You can now swing again. If the snake still lives, it bites and misses. (In this battle, the snake won’t hit any more; in a regular game, it might kill your fighter before you hit it at all!)</wrap>\\
+<wrap indent>The snake will keep attacking, but it will keep missing. Your fighter may have to swing many times, but sooner or later you will kill the snake. Make all the practice rolls you need.</wrap>\\
+<wrap indent>When the snake’s hit points become zero, the snake is dead. (If your hit points ever reach zero, you’re dead!)</wrap>
+
+----
+
+You are hurt, but there is nothing you can do about it right now. The damage your fighter has taken can be healed by a few days’ rest.\\
+<wrap indent>The dead snake is not dangerous, so you get to work. You pick up the many coins and put them in cloth sacks you brought with you. As you are doing this, you notice that, besides the gold, there are three types of silvery coins. Most are silver, but others are more valuable metals called electrum and platinum!</wrap>\\
+<wrap indent>This is a rich treasure; snakes usually have none. The treasure probably belonged to someone else who tried to kill the snake - but failed.</wrap>\\
+<wrap indent>Sometimes treasure could be hidden. Looking carefully around the room, you find a small gem, a pearl, in one corner. It may be worth 100 gold pieces itself!</wrap>\\
+<wrap indent>After resting a bit to catch your breath, you shine the lantern around, and see another corridor leading further into the darkness. Looking back the way you came, you see the light of day shining in the cave entrance in the distance. It looks tempting, but you remind yourself that you are a courageous fighter, and shouldn’t run away just because of a little fighting.</wrap>\\
+<wrap indent>Remember, though, that you are hurt; if you continue on, beware! If you see another snake, or something else that looks as dangerous, you should probably go back. Don’t get killed! Live to fight another day; the treasure will wait.</wrap>\\
+<wrap indent>You carefully start down the corridor into the unknown, your lantern held high and sword ready.</wrap>\\
+<wrap indent>The corridor leads to another small cave. As you approach, you hear a voice, and see a light.</wrap>\\
+<wrap indent>You pull the shutters closed on your lantern, so you can hide better, and carefully peek around the corner. To your right, sitting by the cave wall, is a beautiful woman, wearing armor like yours. She has no sword, but has a rod with a metal ball on one end; this is a weapon called a mace. A lit lantern is on the floor next to her. She seems to be meditating or praying.</wrap>\\
+<wrap indent>You decide she might not wish to be disturbed. But as you try to quietly tiptoe past, she looks up and says:</wrap>\\
+<wrap indent>"Greetings, friend! Looking for the goblin? You might - Oh! You are hurt! May I help?" She watches you carefully, in case you are dangerous, but seems to want to help.</wrap>\\
+<wrap indent>You apologize for disturbing her, but you wonder what she knows about the goblin, and - most of all - how she could help you. But wait; she might be an enemy. Keeping your sword ready, you move closer. She stands, and says:</wrap>\\
+<wrap indent>"My name is Aleena. I’m a cleric, an adventurer like yourself. I live in the town nearby, and came here seeking monsters and treasure. Do you know about clerics?"</wrap>\\
+<wrap indent>Stop and imagine what your character would say. Back in town, she might be one of your neighbors, you are not sure, but you don’t know about clerics.</wrap>\\
+<wrap indent>After listening to you, she says, "Well, the goblin went that-a-way,’’ and points toward a corridor leading out of the room. "He came through here so fast I almost didn’t see him. You hit him? Good for you! Goblins are nasty.</wrap>\\
+<wrap indent>"Since you don’t know about clerics, let me explain. Clerics are trained in fighting like you, but we can also cast spells. I meditate, and the knowledge of spells enters my mind. One of the spells I can cast right now is a curing spell, and you look like you need it!"</wrap>\\
+<wrap indent>Spell casting! You’ve heard of it, but know nothing about it. You are still cautious, but you watch as the cleric says a few words and touches you lightly on the arm. Magically, your wounds are healed!</wrap>\\
+<box 80% #A5A5A5>On your sheet, cross out your Hit Points and write down 8 – the full amount you started with</box>\\
+<wrap indent>"Feel better?" she asks. "Would you care to sit and rest a bit? I’d like to tell you a few things that you will need to know later." You sit down, happy to rest, but keeping your sword handy in case of trouble. She sits down next to her lantern.</wrap>\\
+<wrap indent>"If you didn’t know about clerics, you probably don’t know about magic-users. They are adventurers, like you and me, but they study only spells, and rarely fight. They have different spells than we clerics do, and instead of meditating, they learn their spells from books. There are a few magic-users living in town, but not many.</wrap>
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic3.jpg?nolink&356x446  }}
+
+----
+
+"If you are attacked by a bad magicuser, you might be able to avoid the magic, but it’s harder than avoiding poison. Spells can be helpful, but they can be very dangerous, too.\\
+<wrap indent>"By the way, that looked like a snake bite that I cured. That can be very bad, because most poison is deadly; you were lucky that it didn’t cause more damage. Some other creatures also have special attacks, like poison. Some can paralyze, and some can even turn you to stone by just looking at you — unless you look away in time. And dragons are the worst! They can breathe fire, acid, or other deadly things. You can never avoid all the damage from their breaths, but you can lessen it if you cover up in time.</wrap>\\
+<box 80% #A5A5A5>Your character has different Saving Throws for each of the special attack forms; these will be explained later.</box>
+
+----
+
+**Charisma: Your personality**
+
+Your fighter gets along fairly well with the cleric; she was friendly right away. This is the effect of another Ability Score: your Charisma. Since your fighter is a likeable person, your Charisma score is above average, 14 (remember, 18 is the best possible). If you had a low score, the cleric would have been very cautious, and might not have offered to cure you at all.
+
+**Wisdom, Your common sense**
+
+A cleric is very wise. This is another Ability Score, different from intelligence. For example, imagine that you feel wet drops on your arm. Your Intelligence would tell you that it’s raining; your Wisdom would tell you to go indoors to avoid catching a cold.\\
+<wrap indent>Your fighter is not very wise; your Wisdom score is 8. The cleric has a Wisdom of 17, but is fairly weak, with a Strength of 9. Each type of adventurer has a different specialty; magic-users, for example, have high Intelligence, but often low Strength.</wrap>\\
+<wrap indent>Put these two Ability Scores on your sheet:</wrap>
+
+<WRAP center>8 Wisdom</WRAP>\\
+<WRAP center>14 Charisma</WRAP>
+
+**Sharing adventures**
+
+As your fighter talks with the cleric, you get to know each other a little better. She offers to come along, to help in the adventure. Although this means that the treasure should be split between you, it also means that together you can defeat more dangerous monsters, and find more treasure. And two adventurers have a better chance of success than either does alone. You decide that it would be a good idea, and together you set off down the next corridor.
+
+----
+
+Side by side, you quietly walk down the dark passageway. You see another corridor branching off to the right, about twenty feet ahead. Keeping your lanterns half-shuttered, so you can see what you are doing without attracting much attention, you move up to the corridor and peek around the corner.\\
+<wrap indent>Four beast-like humans in tattered clothes are standing in a group about ten feet away, down the side corridor. But they make no noise at all - quiet as the dead. They look like they are waiting for some poor victim to come along.</wrap>\\
+<wrap indent>Before you can speak, the cleric touches your arm, and points back the way you came. The two of you back up a few feet so the creatures won’t hear you.</wrap>\\
+<wrap indent>"They’re ghouls!" she whispers. "If one hits you, it could paralyze you! Ghouls are undead monsters, very nasty things; neither dead nor alive, but something horribly in between. We clerics have some power over these creatures of darkness. Follow me, and wish for luck."</wrap>\\
+<wrap indent>You move forward again, but with the cleric leading the way. Peeking around the corner, you see the ghouls. Luckily, they don’t seem to have heard your whispers. The cleric pulls a necklace out from under her armor, and you see that there is a symbol of one of the town churches on her silver chain. She boldly steps out, holds up the symbol, and says harshly "BEGONE, vile things!"</wrap>\\
+<wrap indent>When she steps out, the ghouls quickly turn to attack. But now, as she thrusts the symbol out, the ghouls pause; and suddenly, in a rush, they scramble away down the side corridor, into the darkness, and all in dead silence.</wrap>\\
+<wrap indent>"‘Don’t bother to chase them," she mutters. "As I said, they can be quite dangerous, and we should continue on our way. I was lucky to Turn them, and it might not work again."</wrap>\\
+<wrap indent>As you continue down the corridor together, she explains. "We call this ‘Turning Undead’, you see. Only clerics can do it, and sometimes it doesn’t work. Ghouls are only one of many kinds of undead monsters; there are also skeletons, zombies, and much worse. If you had been alone, you could easily have been ambushed, and probably slain.</wrap>\\
+<wrap indent>"Let’s hurry, because the Turning only lasts for a few minutes. There are too many of them for us to handle."</wrap>
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic4.png?nolink&242x280  }}
+
+You see a door ahead, to the right. This is unusual in caves, and you approach it slowly and quietly. The corridor continues past it, into the darkness.\\
+<wrap indent>Together you examine the door. It is made of wood, with heavy iron bands across it; the hinges seem to be on the other side. A large keyhole is below the curved metal handle.</wrap>\\
+<wrap indent>"I don’t see anything dangerous," says the cleric, "but then, I don’t know much about the traps you sometimes find on doors. It’s worth a try." She tries to open it, but the door seems to be locked. "Could you try to force it open?" she asks.</wrap>\\
+<wrap indent>You back up a bit and, with a short run, slam into the door. But try as you might, you can’t break it open.</wrap>\\
+<wrap indent>"What a pity!" murmurs Aleena. "There is probably some nice treasure in there, but we can’t get to it. We need a thief!"</wrap>\\
+<wrap indent>Seeing the puzzled look on our face, she explains. "You may think that thieves are bad, but many of them aren’t. Thieves are adventurers too; some of them are quite nice folks, really. You do have to keep an eye on your coin purse, but a thief can be very helpful finding traps, opening locks, climbing walls, and doing other things.</wrap>\\
+<wrap indent>"I’m sure we could do better if we had a thief along, and a magic-user could help, too. I usually go adventuring with those types, plus a couple of big fighters like you to handle the rough stuff. Unfortunately, nobody else wanted to come along this time.</wrap>\\
+<wrap indent>You try the door again, but it won’t open. So, with a sigh of regret, the two of you continue down the corridor.</wrap>\\
+<wrap indent>The corridor curves to the left, and you see a light ahead. You stop and listen, and hear voices. One sounds like a man, but the other sounds like a goblin.</wrap>\\
+<wrap indent>"Get UP, you wimpy weakling!" growls the man. "Who else did you see, besides this fighter and a cleric!"</wrap>\\
+<wrap indent>"Please, master! Don’t hurt!" whimpers the goblin. "Nobody else, nobody. I hurt the fighter real bad. I come to tell you right away!"</wrap>\\
+<wrap indent>The goblin’s lies don’t seem to fool the human. "Get UP, I say, or I’ll turn you into a toad. You probably ran away without even trying. Nobody else, you’re sure?"</wrap>\\
+<wrap indent>"Nobody else, master, I swear!"</wrap>\\
+<wrap indent>"Hrmph. They could still mean trouble. Perhaps we can trick them, and kill them without a fight. . ."</wrap>\\
+<wrap indent>Aleena taps your arm once again, and you back up to discuss the situation.</wrap>\\
+<wrap indent>"I recognize that man’s voice!" she says. "It’s Bargle, one of those bad magic-users. He has probably cast a spell on the goblin to force it to serve him.</wrap>\\
+<wrap indent>"If we go back, we should be safe. Oh! I almost forgot. The ghouls are back there. If Bargle only has one goblin, we should risk this battle, rather than face all those Undead. Besides, he’s not ready for us — yet."</wrap>\\
+<wrap indent>Listening carefully, you hear the magic-user and the goblin planning how to trick you and Aleena. The two of you also make plans. The magic-user is the most dangerous, and Aleena will try to fight his spells with hers. Your job is to fight the goblin.</wrap>\\
+<wrap indent>As your return, you hear a spell being cast up ahead. You peek around the corner, and see a tall bearded human in a black robe standing in a room. A goblin is crouched by one wall, watching. The robed magic-user is moving his hands and saying works you don’t understand — and suddenly he disappears!</wrap>\\
+<wrap indent>The goblin crackles with glee, and says "Ah, master, it worked! Nobody can see you now, and what a surprise those nasty people will have. And I’m next! Make me invisible too, master!"</wrap>\\
+<wrap indent>The cleric whispers, "Now! Before they can do any more!" And you charge into the room together.</wrap>\\
+<wrap indent>The goblin jumps up and meets your charge with a swing of its sword. It misses!</wrap>\\
+<box 80% #A5A5A5>The goblin has 2 hit points, and you still need to roll a 12 or better to hit. Roll the die and keep track of the battle in the same way as you did with the snake.</box>\\
+<wrap indent>As you battle the goblin, Aleena looks wildly around for the invisible magicuser, waving her mace to and fro in the air. It seems to hit something, and you hear a deep grunt. She keeps waving her mace, but without further success, so she stops and casts a spell. You don’t see what her spell does, so you concentrate on fighting.</wrap>\\
+<box 80% #A5A5A5>The goblin hits your fighter for 2 points of damage. (You only do 1 point of damage when you hit, compared to the goblin's 2; but the goblin only has 2 hit points, so it's a fair fight. Roll again to see if you hit the goblin. If you miss, the goblin swings again and misses,</box>\\
+<wrap indent>Aleena can’t find Bargle, and is starting to look worried. Suddenly, the sound of a spell comes from a far corner of the room! The cleric turns and runs in that direction, waving her mace and shouting. the black-robed magic-user appears in the same corner as the spell noise, with a glowing arrow floating in the air beside him. He points at Aleena; the arrow shoots out, and hits her! She wails and falls with a sigh, collapsing in the middle of the room. The glowing arrow disappears.</wrap>
+
+----
+
+If your fighter hasn’t slain the goblin yet, roll again. But while you are swinging, the goblin hits you again, causing 2 more points of damage. Remember to keep track of hit points for both the goblin and your fighter. If your hit points reach zero, the enemies win this battle. You will not see home again.\\
+<wrap indent>If you are still fighting, the magic-user stays back in the corner, thinking about what spell to throw next. Roll again; the goblin keeps missing.</wrap>\\
+<wrap indent>The goblin started the battle with 2 hit points. So the second time you hit the creature, his hit points reach zero, and he shrieks and falls dead on the floor. You have overcome one enemy, but the magic-user remains!</wrap>\\
+<wrap indent>When the goblin falls, the magic-user starts looking worried. Watching you carefully, he starts saying magic words and waving his hands. He’s casting a spell at you.</wrap>\\
+<wrap indent>You run at him, hoping for a chance to swing before he can complete the spell. But it’s too late - a magical force touches your mind.</wrap>\\
+<wrap indent>Roll the die once again. You must make a Saving Throw against the spell. If you roll a 16 or less, the magic takes effect; read the next section, **Ending #1** for this adventure. If you roll a 17 or higher, your fighter avoids the spell; skip to **Ending #2** on page 8.</wrap>
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic5.png?nolink&229x368  }}
+
+**Ending #1: YOU MISS THE SAVING THROW**
+
+----
+
+As you get near the magic-user, a funny feeling comes over you. Why, he doesn’t look so bad; in fact, Bargle seems to be a pretty nice guy! You think you used to be friends, but you are not sure just where or when.\\
+<wrap indent>"Feeling better?" he asks. "You were overcome with rage for a moment. Are you okay now?"</wrap>\\
+<wrap indent>"Sure," you reply, somewhat confused. "You seem to be okay, Bargle old pal, and I only took a little damage from that goblin. Say, I saw some ghouls back there; we should get moving."</wrap>\\
+<wrap indent>"Indeed?" replies Bargle. "Well, let’s pack up the goodies, and move on." Together you collect the treasure: a small bag from the goblin, and a larger one from the cleric. Bargle picks up a black velvet bag, explaining that he dropped it while he was fighting the goblin.</wrap>\\
+<wrap indent>As you get ready to leave, you blurt out "Shouldn’t we take the cleric’s body back? She helped me out, earlier."</wrap>\\
+<wrap indent>"That would be nice," Bargle replies, "but we’re carrying all we can. We all take our risks, here in the dungeon."</wrap>\\
+<wrap indent>Something seems wrong about that. You argue with Bargle a bit, but he convinces you that nothing could be done for her, and bringing her along could slow you down - maybe enough that the ghouls would catch up. So you head off down the corridor, as if the best of friends.</wrap>\\
+<wrap indent>The corridor leads to another room, which is empty. You search it together; nothing can be found. But looking down the next passage, you see a light!</wrap>\\
+<wrap indent>"Bargle!" you exclaim. "Look here!"</wrap>\\
+<wrap indent>"Ah, I see," he says. "That must be a way out! We’re in good shape now. Lead on, fierce fighter! I shall watch for the ghouls."</wrap>\\
+<wrap indent>You head down the corridor towards the light. Sure enough, it’s a side passage, leading out of the hill into the sunlight. As your stomach grumbles, you remember that it’s after noon. You missed lunch in all the excitement.</wrap>\\
+<wrap indent>"Shall we head back?" you ask, as you squint out into the daylight, much brighter than your lantern.</wrap>\\
+<wrap indent>"Surely!" he replies. As you head outside, you start to talk about how hungry you are. Bargle’s reply isn’t in a language you can understand; you stop and turn, and see him softly chanting a spell, waving his hands at you. Before you can ask what’s going on, you begin to feel very sleepy. Everything goes black.</wrap>
+
+<WRAP center>* * *</WRAP>
+
+Something lands on your face, and you start to wake up. Opening your eyes, you see - a leaf, apparently fallen from the tree above you. You are lying by a cave, and it’s late afternoon. You can make it back to town if you hurry. But suddenly, you remember what happened - BARGLE! The fight with the goblin, Aleena falling, the strange bad-but-nice feeling about the magic-user — Horrors! You were ENCHANTED! And where is the treasure?\\
+<wrap indent>You get up quickly, brushing the leaves off your face and equipment. Perhaps Bargle was afraid to kill you, and just stole all that he could find. Or, more likely, Bargle was scared away by something before he could slit your throat.</wrap>\\
+<wrap indent>Your dagger is missing, and some food, but your sword is in its sheath and your pack is still there. One sack remains, and from the pain in your back, you must have been sleeping on it. It contains some of the coins you found by the snake and the tiny gem. The rest is missing.</wrap>\\
+<wrap indent>You remember what happened to poor Aleena. You should take her back to town; they might be able to help, and even if it’s too late, she should get a proper burial. As you prepare to return to the caves, you find that your lamp has gone out, the oil all burned away. There is still one oil flask in your pack, so you refill the lantern, light it with your tinderbox, and head back into the darkness.</wrap>\\
+<wrap indent>You pass through one empty room, and then find the bodies of the cleric and the goblin in the next. But you see dark, quiet shapes in the darkness beyond; it’s the ghouls! Quickly, you put the cleric’s body over your shoulder and run for your life.</wrap>\\
+<wrap indent>The ghouls follow, snapping at your heels. You can’t move as fast as usual with the weight of the cleric on your shoulder. But you win the desperate race, and get outside once again!</wrap>\\
+<wrap indent>You pause for a moment, out of breath. Looking back, you see the ghouls in the cave - but they don’t seem to be coming out. Then you remember Aleena’s words, "creatures of darkness." Maybe they hate the sunlight, and only come outside at night. You’d better hurry, to get back to town before dark.</wrap>
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic6.png?nolink&253x281  }}
+
+It’s hard to run with the cleric across your shoulder, but you finally get back just as the sun goes down. Once there, you take her body to her church. It’s too late to help her, but they can give her a proper burial. They thank you for your kindness, and offer a small bottle as a reward.\\
+<wrap indent>"What is it?" you ask.</wrap>\\
+<wrap indent>"It’s a magical potion, of course!" he exclaims. "It’s a Potion of Healing. If you are hurt, you can drink this and be cured, somewhat like our magical curing spells. It’s a nice magical treasure; save it for an adventure in your future, in case a cleric you are traveling with runs out of spells. It’s the least we can do."</wrap>\\
+<wrap indent>The clerics thank you again for your help, and you thank them for theirs. You leave the church and head for your home on the other side of town, thinking about your adventure and all you have learned.</wrap>
+
+----
+
+Now pretend that you made the Saving Throw, and read the next section to see what might have happened.\\
+<wrap indent>If you have already read the next section, skip to the **Winning** section afterward.</wrap>
+
+----
+
+**Ending #2: YOU MAKE THE SAVING THROW**
+
+----
+
+Bargle’s magic doesn’t seem to work! He pauses, surprised, as you swing. If you hit, the magic-user gives a cry and falls, dead. You have won!\\
+<box 80% #A5A5A5>Roll the die. If you roll 8 or higher, you hit. A roll of 7 or less means that you missed. If you can get close to them, magic-users are often easy to hit. They are not very dangerous in a close fight.</box>\\
+<wrap indent>If you miss, Bargle screams and runs down the next corridor, into the darkness. You start after him, but then you stop. Who knows what magical powers the man might have, waiting there to trap you? Better to see if Aleena is alive, and rest a bit.</wrap>\\
+<wrap indent>You kneel by the cleric, and gently turn her over. Alas, Bargle’s magical spell has taken her life. Mourning the loss of your new-found friend, you decide to take her back to town for a proper burial. You tidy her up while keeping an eye out for monsters and listening carefully in case Bargle come: back; but nothing happens.</wrap>\\
+<wrap indent>The goblin had very little treasure, just a few copper pieces in a small bag. Searching the room, you find another bag, a finer one of black velvet. It must be Bargle’s, dropped in the heat of the battle! Opening it, you find several valuable gems and a small bottle. You put the treasure away, planning to examine the bottle later.</wrap>\\
+<wrap indent>Nothing else of value is in the room. You pick up the poor cleric and carry her on one shoulder. Should you continue down the dark corridor, or head back the way you came?</wrap>\\
+<wrap indent>You suddenly see shadowy shapes approaching from the way you came. The ghouls must have returned! Now there is no choice; you must hope that the magic-user ran away, and that a way out lies in that direction. Fighting the ghouls would mean your death.</wrap>\\
+<wrap indent>You stagger under the weight, but manage to run down the corridor, holding your lantern shakily with one finger. You enter a room, but it looks empty. No time to search; you continue onward. As you head into the next corridor, you see light ahead! And as you approach, you see that it’s coming from a side passage.</wrap>
+
+{{  :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic7.png?nolink&245x500  }}
+
+Peering into it, you find that the corridor leads outside, into the midday sun. Carefully, in case Bargle is waiting to ambush you, you walk outside - and all is clear and calm.\\
+<wrap indent>You rest a bit, pick up the cleric, and head back to town. Once there, you take her body to her church. It’s too late to help her, but they can give her a proper burial. They thank you for your kindness, and offer a favor in return. You remember the strange small bottle in Bargle’s bag, and get it out, asking whether they can tell you what it is.</wrap>\\
+<wrap indent>One of the clerics opens the bottle, and sniffs at it. "Why, it seems to be a magical potion!" he exclaims. "Let me see, now, I’m sure I’ve smelled that before. Ah! I remember. It’s a potion of Growth! If you drink it, you will become a giant for a short time, for one to two hours - and can do double normal damage when you hit a monster. Congratulations, it’s a nice magical treasure! It won’t spoil; save it for an adventure in your future."</wrap>\\
+<wrap indent>The clerics thank you again for your help, and you thank them for theirs. You leave the church and head for your home on the other side of town, thinking about your adventure and all you have learned.</wrap>
+
+----
+
+If you haven’t read **Ending #1, "You Miss The Saving Throw"** go back and do that now, pretending that you were enchanted by Bargle’s spell.
+
+**Winning**
+
+You have just played a D&D game!\\
+<wrap indent>This adventure was designed to show you some of the basic parts of the game. You played a fighter, who tried to survive in the dungeon, while finding monsters and treasures. You succeeded — so your character "wins."</wrap>\\
+<wrap indent>Think a moment. Why do we play games? To have fun. Each player "wins" by having fun — so if you had a good time, you win! You can have fun even if your character gets killed - and if that happens, don’t worry. You can always make up another one!</wrap>\\
+<wrap indent>Winning a role playing game is like "winning" in real life; it’s just succeeding in doing what you wanted to do, and living through it. The fun comes from doing it, not ending it! This is why we say that in this game, everybody wins and nobody loses.</wrap>\\
+<wrap indent>Is this a game or a story, you ask? It’s a little of both. As you learn more about it, it will become more and more like a game. You still have many game details to learn, so continue reading.</wrap>\\
+<wrap indent>You have met some monsters, and won the battles. You have found some treasures — not only coins and gems, but a magical potion.</wrap>\\
+<wrap indent>Most important, you have learned how to use your own imagination, while using the rules of the game. Could you see, in your mind, the wicked magic-user Bargle? Or the kind, wise cleric Aleena? Can you imagine the gold and silver scattered on the floor by the huge, deadly rattlesnake — and the fierce battle afterward?</wrap>\\
+<wrap indent>This is another part of the fun in a DUNGEONS & DRAGONS game.</wrap></WRAP>
+
+----

@@ -1,0 +1,99 @@
+== Beholders: What They Are ==
+
+=== Arrangement of the Basic Beholder ===
+
+The illustrations show the inner and outer wokings of the beholder. Compare that diagram to the following key.
+
+==== Beholder Exterior ====
+'''(1) Smaller Eyes.''' These magical eyes are about two inches in diameter. Each has its own magical power.<br>
+'''(2) Eyestalks.''' In most beholder species, the eyestalks are flexible tentacles about half of the body's diameter in length (usually two or three feet in length). In some species, however, they are articulated, jointed stalks covered in flexible chitin.<br>
+'''(3) Skin.''' The beholder's skin is a though, stony substance about as durable as metal. When a beholder dies, its skin gradually hardens to the approximate consistency and density of stone. Certain preservative spells can counteract this process. Small, almost invisible ari vessels dot the beholder's skin; these vessels lead to the beholder's lung.<br>
+'''(4) Central Eye.''' This organ is about one-third the diameter of the beholder and possesses powerful anti-magic abilities. The central eye does have an eyelid, though beholders do not typically have to blink.<br>
+'''(5) Nostrils.''' Nostrils are not present in all species; many beholders are mouth-breathers.<br>
+'''(6) Mouth.''' The beholder mouth performs many of the same functions as the human mouth. It has a tongue, soft upper and lower palates, and upper and lower teeth. A beholder's bite is dangerous as its teeth are well designed for ripping, tearing, and grinding.<br>
+'''(7) Tympanic Membranes.''' Most beholders do not possess ears. Instead, they have thick hide coverings that conceal their auditory mechanism. Beholder hearing is inferior to that of humans.<br> Thieves receive a +15% bonus to their Move Silently rolls when attempting to sneak around a beholder. Unfortunately, the beholder's range of vision more than makes up for this fact. Thieves attempting to Hide in Shadows do so with a -20% penalty.<br>
+
+==== Beholder Interior ====
+Most beholder internal organs are flat, bladder-like, and lined with muscle so they can expand and contract to perform their functions.
+
+'''(8) Skull.''' Though outwardly it appears to be a simple sphere, the beholder skull actually consists of two pieces--the skull proper and a hinged jaw. Notice the small gap from the ocular orbit (the depression for the central eye) tot the main body.
+The skull itself does not consist of bone. Its actually a leathery cartilaginous material formed with two layers--outer and inner; connective material divides the open area into innumerable small compartments. Its resilience is one of the reasons beholders are so durable. The compartments between the two skull layers are filled with a sort of gas that allows the beholder to levitate. The beholder produces this gas within its body; it is not otherwise found in nature.<br>
+'''(9) Brain.''' The beholder brain resembles the human brain in size, though it is much broader. Scholars have observed that the beholder brain becomes ridged with age.<br>
+'''(10) Central Eye in Ocular Orbit.'''<br>
+'''(11) Diaphragm.''' Beholders do not have hearts. Instead, they have oversized diaphragm muscles that perform the duties of the heart muscle. Rhythmic contractions of the diaphragm pump blood through the beholder's body, control its breathing, and even allow it to give birth. Intact beholder diaphragms (which are rare) are useful components in some wizard spells.<br>
+'''(12) Blood Sac.''' This is the central depository of blood in the beholder body. Contraction of the diaphragm pushes it back into the blood vessels.<br>
+'''(13) Air Sac.''' The beholder has a single lung.<br>
+'''(14) Windpipe.''' This is a heavy pipe-like structure that carries oxygen to the beholder's lung; it also houses the vocal cords.<br>
+'''(15) Tongue.''' This heavy, muscular mass helps wrestle living prey into the beholder's first stomach. Some beholder breeds use their tongue as pointing mechanism; these breeds do a lot of tongue-waving during conversation. The beholder tongue also unhinges, allowing access to the reproductive organs during mating and birth.<br>
+'''(16) Reproductive Organs.''' A beholder is a self-sufficient organism that possesses both male and female reproductive organs. Most beholders are solitary and are capable of self-fertilization. This allows the creatures to foster "true" breeds by preventing any sort of contamination with flawed beholders. However, some scholars theorize that a few types of beholders actively mate with one another; these sages cite unconfirmed reports of aberrant beholder breeds mating with beholder-kin.
+The beholder gives birth to live young--usually three to six at a time. Newborn beholders can levitate, and they emerge from their progenitor's mouth in a flurry of activity. The few surviving human witnesses to these births have described them as "appalling".<br>
+'''(17) First Stomach.''' Food and living prey are pulled into the first stomach by the beholder's tongue. This stomach is a large, shallow "bag" with a muscle-valve at either end. The stomach bathes consumed prey in a bath of digestive acid. The victim marinates in this stomach for about a half an hour. After this time period, the prey passes into the second stomach. Wholly swallowed adventurers--usually halflings and gnomes--have been known to fight their way free of the first stomach.<br>
+'''(18) Second Stomach.''' Strong acidic juices in this baglike chamber finish the process of digestion.<br>
+
+=== Variations On the Standard Form ===
+
+The illustration shows a beholder with a specific set of markings, a specific type of eyestalk, and a specific central-eye-to-total-diameter ratio. All immediate relatives of this beholder look exactly the same. They constitute a ''breed'' of beholder. Although we will discuss exactly what it means to be of the same breed, it is enough to understand that each of these creatures believes in the purity of its own breed and seeks to destroy any member of a different breed.
+
+=== Physical Manipulation ===
+
+Beholders can manipulate physical objects in three ways: with their eyestalks, with their tongue, and with their ''telekinesis''. Beholder tongues are long (3' to 4'), thick, heavy organs. Although they are strong, beholder tongues cannot pull a victim into the beholder's mouth. Beholder tongues can, however, push objects across the floor.
+Beholder eyestalks are similar in length to their tongues, averaging about 3' long. A beholder can carry simple objects by wrapping them in its stalks. These stalks also enable the beholder to use some magical items--such as rings and wands. Magical rings must be at least an inch and a half in diameter in order to fit over a beholder's eyestalk. Large magical items--including rods and staves--are beyond the stalk's ability to manipulate. A beholder can also carry books or scrolls with its stalks; however, it cannot open or page through them.
+Note that while it is possible for a beholder to carry objects around, actually picking them up in the first place presents a challenge. Lifting objects off the floor can be quite a trial for a beholder that has lost the use of its ''telekinesis''. The sight of a frustrated beholder pushing a child's toy across a rough stone floor with its tongue is almost pitiful as it is humorous.
+
+=== The Beholder Diet ===
+
+Beholders are omnivorous and eat just about anything. The typical beholder must consume about ten pounds of food, and drink about two gallons of water per day (on the average). However, unlike humans, beholders can eat and drink mass quantities and then go for many days without further consumption. For example, a beholder could eat a large fallen foe, constituting some 130 lbs. of meat and several pints of blood. This obviously exceeds its daily nutritional need of 10 lbs. of food. However, the meal does not provide the necessary amount (two gallons) of fluid; it still needs to get something to drink.
+
+==== Beholder Foods ====
+If you are having a beholder over for dinner, keep these treats in mind:
+
+
+{| class="wikitable"
+| '''Favorite Foods'''
+|-
+| |Small live mammals and rodents.
+|-
+| |Exotic mushrooms and other fungus.
+|-
+| |Roast beef, lamp, and pork.
+|-
+| |Colorful leafy vegetables, leaves, and flower petals.
+|-
+| |Liver or brain paté.
+|}
+
+
+
+{| class="wikitable"
+| '''Favorite Drinks'''
+|-
+| |Wine (Note that a beholder has four times the mass of an average man; thus, it takes at least four times as much wine to get it drunk. Unfortunately, most beholders know when someone is attempting to inebriate it).
+|-
+| |Water (mixed with food coloring)
+|-
+| |Blood (particularly of small live mammals and rodents)
+|}
+
+
+
+{| class="wikitable"
+| '''Least Favorite Foods'''
+|-
+| |Hard-boiled eggs.
+|-
+| |Grapes, citrus fruit, and melons.
+|-
+| |Eyes.
+|-
+| |Mountain oysters.
+|-
+| |Anything batter-fried.
+|-
+| |Any shellfish still in the shell.
+|}
+
+
+Beholders always appreciate a visually stimulating meal; colorful food arrangements are always a good idea.
+If indeed the beholder eats more than it needs, it can store the extra food. The beholder's digestive system can process these leftovers at a rate of 20 lbs. per day. The creature has no need to eat during the digestive process. A healthy beholder can go for about three weeks without consuming food or water before dying.
+
+=== Beholder Respiration ===

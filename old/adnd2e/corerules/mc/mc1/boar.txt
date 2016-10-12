@@ -1,0 +1,52 @@
+<fc #4169E1><fs xx-large>**Boar**</fs></fc>
+
+{{ :adnd2e:corerules:mc:mc1:boar.png?direct&300|}}
+
+| |**Wild**|**Giant** //(Elothere)//|**Warthog**|
+|CLIMATE/TERRAIN:|Any land|Any land|Tropical land|
+|FREQUENCY:|Common|Uncommon|Common|
+|ORGANIZATION:|Family|Family|Family|
+|ACTIVE TIME:|Day|Day|Day|
+|DIET:|Omnivore|Omnivore|Omnivore|
+|INTELLIGENCE:|Semi- (2-4)|Animal (1)|Animal (1)|
+|TREASURE:|Nil|Nil|Nil|
+|ALIGNMENT:|Neutral|Nil|Nil|
+|NO. APPEARING:|1-12|2-8 (2d4)|1-6|
+|ARMOR CLASS:|7|6|7|
+|MOVEMENT:|15|12|12|
+|HIT DICE:|3+3|7|3|
+|THAC0:|17|13|17|
+|NO. OF ATTACKS:|1|1|2|
+|DAMAGE/ATTACK:|3-12 (3d4)|3-18 (3d6)|2-8 (2d4)/1-8 (1d8)|
+|SPECIAL ATTACK:|Nil|Nil|Nil|
+|SPECIAL DEFENSE:|Nil|Nil|Nil|
+|MAGIC RESISTANCE:|Nil|Nil|Nil|
+|SIZE:|S (3' at shoulder)|M (5' at shoulder)|S (2.½' at shoulder)|
+|MORALE:|Average (8-10)|Average (8-10)|Average (8-10)|
+|XP VALUE:|175|650|120|
+
+Boars. a type of wild swine. are the ancestors of our domesticated hogs. Boars are, of course. more aggressive than the barnyard animal, and an unexpected encounter with a family of these creatures or one large individual can be fatal.\\
+Boars look much like hogs. but have slightly shorter snouts, coarser and darker hair, and straighter tails. Some varieties have small tusks at each side of the face.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> ears are dangerous foes when angered. They have a vicious bite and those with tusks can employ them to rip at unprotected flesh with great effectiveness.\\
+The boar will fight for 2-5 (1d4 + 1) melee rounds after reaching 0 to -6 hit points but dies immediately at -7 or fewer hit points.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> Boars live in family units as a rule. If more than one wild boar is encountered the others will be sows (3 hit dice, 2-8 (2d4) hit points damage/ attack) or sounders, with a 1:4 (sows:sounders) ratio. Thus if 12 are encountered there will be 1 boar, 3 sows, and 8 young.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Boars are true omnivores who will eat virtually anything. While eating a variety of foods is generally considered healthy, in the case of the wild boar this can lead to problems. A small roundworm, //Trichinella spiralis//, is a parasite that can inhabit a boar's body. This creates a problem when a human eats the boar without cooking it properly, as trichinosis, the disease caused by this parasite, is easily transmissible to humans. Once infected with the parasite, the host suffers fever, sweating, and sore muscles until a //cure disease// spell is cast.\\
+Whether domesticated or not, the boar provides a number of products useful to man. All three varieties listed here are edible. Boar lard can be used interchangeably with domesticated swine lard. Leather from the wild species can be used for gloves and comfortable leather armor. The stiff bristles can be used for brushes.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Giant Boar**</font>
+\\
+This prehistoric forerunner of the wild boar is also very aggressive. If 3 or more are encountered there is only a 25 % chance that there will be young (2—6 hit dice, 1-4/2-5 (1d4 + 1)/2-7 (1d6 +1)/2-8 (2d4)/3-12 (3d4) points of damage/attack) numbering from 1-4 of the total herd. The boars and sows fight equally. and either will fight for 1-4 melee rounds after reaching 0 to —10 hit points but die immediately upon reaching -11 or fewer hit points.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Warthog**</font>
+\\
+These tropical beasts are aggressive only if their territory is threatened or if cornered. They make two slashing attacks with their large tusks. Male and female fight equally. If more than 2 are encountered the balance will be young (1—2. hit dice’ 1-3/2-5 (1d4 + 1) points of damage! attack). The warthog will continue to fight for 1-2 melee rounds after reaching 0 to -5 hit points but at -6 or fewer points it dies immediately.
+
+\\

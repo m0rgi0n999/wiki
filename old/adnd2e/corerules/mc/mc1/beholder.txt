@@ -1,0 +1,67 @@
+<fc #4169E1><fs xx-large>**Beholder**</fs></fc>
+
+{{ :adnd2e:corerules:mc:mc1:beholder.png?direct&300|}}
+
+| |**Beholder**|**Eye of the Deep**|
+|CLIMATE/TERRAIN:|Subterranean|Any deep ocean|
+|FREQUENCY:|Very rare|Very rare|
+|ORGANIZATION:|Solitary|Solitary|
+|ACTIVE TIME:|Any|Day|
+|DIET:|Omnivore|Omnivore|
+|INTELLIGENCE:|Exceptional (15-16)|Very (11-12)|
+|TREASURE:|I,S,T|R|
+|ALIGNMENT:|Lawful evil|Lawful evil|
+|NO. APPEARING:|1|1|
+|ARMOR CLASS:|0/2/7|5|
+|MOVEMENT:|Fl 3 (B)|Sw 5
+|HIT DICE:|45-75 hp|10-12|
+|THAC0:|45-49 hp:11 \\ 50-59 hp: 9 \\ 60-69 hp: 7 \\ 70 + hp: 5|10 HD: 11 \\ 11-12 HD: 9|
+|NO. OF ATTACKS:|1|3|
+|DAMAGE/ATTACK:|2-8|2-8/2-8/1-6|
+|SPECIAL ATTACK:|Magic|See below|
+|SPECIAL DEFENSE:|Anti-magic ray|Nil|
+|MAGIC RESISTANCE:|Nil|Nil|
+|SIZE:|M (4'-6' diameter)|S to M (3'-5' diameter)|
+|MORALE:|Fanatic (18)|Champion (15)|
+|XP VALUE:|14,000|4,000|
+
+The beholder (also known as the //eye tyrant// or //sphere of many eyes//) is most frequently found underground, although it will lair in desolate wildernesses from time to time.\\
+The globular body of this monster is supported by levitation, allowing it to float slowly about as it wills. Atop the sphere are 10 eye-stalks, while in its central area are a great eleventh eye and a large mouth filled with pointed teeth.\\
+Beholders can speak their own language and will often know tongues of other lawful evil creatures.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> The body is protected by a hard chitinous covering with an Armor Class of 0. The creature's eyestalks and eyes are also protected, although less well, having armor classes of 2 and 7 respectively.\\
+The various eyes of a beholder each have a different function. Typically only the central eye, plus 1-4 of those on stalks, are able to function considering that an attack usually comes from an are 90 degrees before the monster. If attacks come from 180 degrees double the number of eyestalks able to function, and for 270 degrees or 360 degrees triple or quadruple the number. Attacks from above enable all 10 eye-stalks to function. but the central eye cannot. Functions of the eyes
+are:\\
+
+|  1  |//Charm person//|
+|  2  |//Charm monster//|
+|  3  |//Sleep//|
+|  4  |//Telekinese// 250 pound weight|
+|  5  |//Flesh to stone ray// (30 yard range)|
+|  6  |//Disintegrate ray// (20 yard range)|
+|  7  |//Fear// (as a wand)|
+|  8  |//Slow//|
+|  9  |//Cause serious wounds// (50 yard range)|
+|  10  |//Death ray// (40 yard range)|
+|  Central eye  |//Anti-magic ray// (140 yard range)|
+
+The anti-magic ray covers a 90° arc. All magic within the area ceases to function as long as it remains in the area. Spells cast from within the area or passing through it automatically fail.\\
+Because of its particular nature the beholder is able to withstand the loss of its eyestalks, each taking from B to 12 hit points before being lost. These members are not computed as part of its hit point damage potential, and lost eyestalks will eventually grow back (one week per lost member). The body of the monster can withstand two-thirds of its total damage potential, while the great central eye can withstand one-third this total. Thus, a beholder with 45 hit points can withstand 30 hit points of damage to its body before being killed and the eleventh eye could withstand 15 points before ceasing to function. The body of a beholder represents 75% of potential hit area, the central eye and the eyestalks 10% each, and the 10 small eyes 5%.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> he beholder is hateful, aggressive, and avaricious. It will usually attack immediately, If confronted by a particularly powerful party there is a 50% chance it will listen to negotiations (either being bribed not to attack or paying a ransom to not be at-
+tacked, depending on the strength of the opposing party).
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> An eye from a stalk is an important ingredient in some potions of levitation, and as such can be sold to mages or alchemists for as much as 50 gp each.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Eye of the Deep**</font>\\
+The evil eye of the deep dwells only at great depths, floating slowly about, and stalking prey.\\
+They have two crab—like pincers which inflict 2-8 (Eda!) points of damage each and a wide mouth full of sharp teeth that does 1-6 points of damage.\\
+Its primary weapons. however, are its eyes. The creature's large central eye emits a cone of blinding light 5’ wide at its start, 30’ long, and 20’ wide at its base. Those in this cone must save versus poison or be stunned for 2-8 (2d4) rounds.\\
+The eye of the deep also has two smaller eyes on long stalks with which it is able to create an illusion. Acting independently, the small eyes are able to cast hold person and hold monster spells respectively.\\
+This monster has an Armor Class of 5 everywhere, including its eyes and eye stalks. If its eyestalks are severed they will grow back in about a week.
+
+\\

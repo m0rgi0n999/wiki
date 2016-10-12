@@ -1,0 +1,50 @@
+<fc #4169E1><fs xx-large>**Bat**</fs></fc>
+
+| |Common|Large (giant)|Huge (mobat)|
+|CLIMATE/TERRAIN:|Any land|Any land|Warm caves|
+|FREQUENCY:|Common|Uncommon|Rare|
+|ORGANIZATION:|Swarm|Flock|Flock|
+|ACTIVITY CYCLE:|Night|Night|Night|
+|DIET:|Omnivore|Omnivore|Omnivore|
+|INTELLIGENCE:|Animal (1)|Animal (1)|Low (5- 7)|
+|TREASURE:|Nil|Nil|C|
+|ALIGNMENT:|Nil|Nil|Neutral evil|
+|NO. APPEARING:|1-100|3-18 (3d6)|(3d6) 1-8|
+|ARMOR CLASS:|8 (see below)|8|7 (see below)|
+|MOVEMENT:|1, Fl 24 (B)|3, Fl 18 (C)|3, Fl 15(C)|
+|HIT DICE:|1-2 hp|1-4 hp or 1|4-6|
+|THAC0|20|20 or 19|17 (4 HD) or 15 (5 and 6 HD)|
+|NO. OF ATTACKS:|1|1|1|
+|DAMAGE/ATTACK:|1|1-2 or 1-4|2-8|
+|SPECIAL ATTACKS:|See below|Nil|See below|
+|SPECIAL DEFENSES:|Nil|See below|See below|
+|MAGIC RESISTANCE:|Nil|Nil|Nil|
+|SIZE:|T (1')|M (5'-6')|H (12'-16')|
+|MORALE:|Unreliable (2-4)|Unsteady (5-7)|Steady (11-12)|
+|XP VALUE:|15|35|420 (4HD)|
+
+Bats are common animals in many parts of the world. While ordinary bats are annoying but harmless, larger varieties are deadly.\\
+With almost 2,000 different species of bats, one can find wingspans from less than two inches across to 15 feet and more. The small body of the ordinary bat resembles a mouse, while the wings are formed from extra skin stretched across its forelimbs. The larger bats are scaled up but otherwise similar in appearance.\\
+Despite the common belief that bats are blind, nearly all known species have rather good eyesight. In the dark, however, they do not rely on their visual acuity, but navigate instead by echo-location. Thus, by emitting a high-pitched squeal and listening for it to bounce back to them, they detect their surroundings by a natural form of sonar.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> Ordinary bats will attack only if cornered and left with no other option. If startled, bats tend to become frightened and confused. This causes them to begin swarming around and often fly into things. Thus, the typical bat swarm ends up putting out torches, confusing spell casting, and otherwise getting in the way. Under ideal flying conditions, a bat's Armor Class rating rises from 8 to 4.\\
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> While bats can be found almost anywhere, they prefer warmer climes. Some species hibernate during the cold season and a few are known to migrate. Bats live in caves or dark buildings, hanging by their feet during the day, and leaving at dusk to feed during the night. In certain large caverns there may be thousands of bats.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font>  Most bats are fruit- or insect-eaters, though some include small animals or fish in their diets. The rare vampire bat travels at night to drink the warm blood of living creatures, but its victims are never humans or demihumans, and care must be taken not to confuse the vampire bat with the true vampire in this regard.
+
+\\
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Giant Bat**</font> \\
+These creatures, which are giant versions of the carnivorous variety of the ordinary bat, have bodies 3’ long and a wingspan of 5'-6'. They dwell in dark caverns, usually underground, and depend on their sonar in flight to compensate for their poor eyesight. Only 10% of giant bats are of the more powerful 1 hit die variety.\\
+Giant bats are so highly maneuverable in flight that anyone with a dexterity of less than 13 who fires a missile at a flying giant bat suffers a -3 penalty to their attack roll. The creature must land (usually on its victim) to attack with its bite. The typical example of this species inflicts 1-2 points of damage with its teeth while the larger does 1-4 points of damage. Anyone bitten by a giant bat has a 1 % chance per point of damage done of contracting rabies.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Mobat**</font> \\
+Mobats prefer warm-blooded prey which they bite to death with their fangs. They have a dim and evil intelligence which gives them a desire for shiny objects. Because the typical mobat has a wingspan of 12-16 feet they must have a large area in which to take off.\\
+Because mobats' flight is so rapid and silent, their victims suffer a -3 on their surprise rolls. They can also give a piercing screech which will cause such pain to prey that the victims seek to cover their ears rather than fight unless a saving throw versus paralysis is successful. This screech is always used if their prey resists and is effective in a 20-foot radius about the mobat. Note that mobile mobats have a normal Armor Class of 2. Under crowded flying conditions, however, their Armor Class suffers and is raised to 7. When not in flight, mobats are Armor Class 10.
+
+\\

@@ -1,0 +1,65 @@
+<fc #4169E1><fs xx-large>**Dragon, Red**</fs></fc>
+----
+\\
+<WRAP col2 80em em>
+|CLIMATE/TERRAIN:|Tropical, sub-tropical, and temperate hills and mountains|
+|FREQUENCY:|Very rare|
+|ORGANIZATION:|Solitary or clan|
+|ACTIVE TIME:|Any|
+|DIET:|Special|
+|INTELLIGENCE:|Exceptional (15-16)|
+|TREASURE:|Special|
+|ALIGNMENT:|Lawful evil|
+|NO. APPEARING:|1 (2-5)|
+|ARMOR CLASS:|0 (base)|
+|MOVEMENT:|9, Fl 30 (C), Sw 9|
+|HIT DICE:|13 (base)|
+|THAC0:|7 (at 13 HD)|
+|NO. OF ATTACKS:|3 + special|
+|DAMAGE/ATTACK:|1-8/1-8/2-20 (2d10)|
+|SPECIAL ATTACK:|Special|
+|SPECIAL DEFENSE:|Variable|
+|MAGIC RESISTANCE:|Variable|
+|SIZE:|G (36' base)|
+|MORALE:|Elite (15-16)|
+|XP VALUE:|Variable|
+{{ :adnd2e:corerules:mc:mc1:dragon_red.png?direct&500|}}
+</WRAP>
+\\
+<WRAP column 80em>
+|  **Age**  |  **Body Lgt. (')**  |  **Tail Lgt. (')**  |  **AC**  |  **Breath Weapon**  |  **Spells Wizard/Priest**  |  **MT**  | **Treas. Type**  |  **XP Value**  |
+|  1  |  2-7  |  2-5  |  3  |  2d6+1  |  Nil  |  Nil  |  Nil  |  1,400  |
+|  2  |  7-16  |  5-15  |  2  |  4d6+2  |  Nil  |  Nil  |  Nil  |  2,000  |
+|  3  |  16-35  |  15-31  |  1  |  6d6+3  |  Nil  |  Nil  |  Nil  |  3,000  |
+|  4  |  35-44  |  31-40  |  0  |  8d6+4  |  1  |  Nil  |  1/2H  |  6,000  |
+|  5  |  44-53  |  40-48  |  -1  |  10d6+5  |  2  |  15%  |  H  |  8,000  |
+|  6  |  53-62  |  48-56  |  -2  |  12d6+6  |  3  |  20%  |  H  |  9,000  |
+|  7  |  62-71  |  56-64  |  -3  |  14d6+7  |  4  |  25%  |  H  |  10,000  |
+|  8  |  71-80  |  64-72  |  -4  |  16d6+8  |  4 1  |  30%  |  Hx2  |  11,000  |
+|  9  |  80-89  |  72-80  |  -5  |  18d6+9  |  4 2  |  35%   |  Hx2  |  13,000  |
+|  10  |  89-98  |  80-86  |  -6  |  20d6+10  |  4 3  |  40%  |  Hx2  |  14,000  |
+|  11  |  98-107  |  86-96  |  -7  |  22d6+11  |  4 4  |  45%  |  Hx3  |  16,000  |
+|  12  |  107-116  |  96-104  |  -8  |  24d6+12  |  5 4  |  50%  |  Hx3  |  17,000  |
+</WRAP>
+\\
+<WRAP col2 80em>
+Red dragons are the most covetous and greedy of all dragons, forever seeking to increase their treasure hoards. They are obsessed with their wealth and memorize an inventory accurate to the last copper. They are exceptionally vain and self conﬁdent. considering themselves superior not only to other dragons. but to all other life in general.\\
+<wrap indent>When red dragons hatch. their small scales are a bright glossy scarlet. Because of this. they can be quickly spotted by predators and men hunting for skins, so they are hidden in deep underground lairs and not permitted to venture outside until toward the end of their young stage when their scales have turned a deeper red. the glossy texture has been replaced by a smooth, dull finish. and they are more able to take care of themselves. As the dragon continues to age. the sales become large, thick, and as strong as metal.</wrap>\\
+<wrap indent>Red dragons speak their own tongue. a tongue common to all evil dragons. and 16% of hatchling red dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> Because red dragons are so confident, they never pause to appraise an adversary. When they notice a target they make a snap decision whether to attack, using one of many "perfect” strategies worked out ahead of time in the solitude of their lairs. If the creature appears small and insignificant. such as an unarmored man. the dragon will land to attack with its claws and bite. not wanting to obliterate the creature with its breath weapon. as any treasure might be consumed by the flames. However, if a red dragon encounters a group of armored men. it will use its breath weapon, special abilities. and spells (if it is old enough to have them) before landing.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Breath weapon special abilities:**</font> A red dragon's breath weapon is a searing cone of fire 90' long. 5’ wide at the dragon‘s mouth and 30' at the base. Creatures struck by the flames must save versus breath weapon for half damage. Red dragons cast spells at 9th level. adjusted by their combat modifiers.\\
+<wrap indent>Red dragons are born immune to fire. As they age, they gain the following additional powers: //Young: affect normal fires// three times per day. //Juvenile: pyrotechnics// three times per day. //Adult: heat metal// once per day. //Old: suggestion// once per day. //Very old: hypnotism// once per day. //Venerable: detect gems//, kind and number in a 100' radius three times a day.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> Red dragons can be found on great hills or on soaring mountains. From a high perch they haughtily survey their territory, which they consider to be everything that can be seen from their position. They prefer to lair in large caves that extend deep into the earth.\\
+<wrap indent>A red dragon enjoys its own company. not associating with other creatures, or even other red dragons. unless the dragon's aims can be furthered. For example, some red dragons who have charm spells will order men to act as the dragon's eyes and ears. gathering information about nearby settlements and sources of treasure. When a red dragons's offspring reach the young adult stage, they are ordered from the lair and the surrounding territory. as they are viewed as competition.</wrap>\\
+<wrap indent>Red dragons are quick to fight all creatures which encroach on their territory. especially copper and silver dragons which sometimes share the same environment. They hate gold dragons above all else because they believe gold dragons are "nearly” as powerful as themselves.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Red dragons are meat eaters, although they are capable of digesting almost anything. Their favorite food is a maiden of any human or demi-human race. Sometimes the dragons are able to charm key villagers into regularly sacrificing maidens to them.
+</WRAP>
+\\

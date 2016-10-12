@@ -1,0 +1,272 @@
+===== Your character =====
+
+=== Alignment: How characters and monsters behave ===
+Take a moment, now, and think about how your character behaved. The fighter was one of the “good guys.” You wanted to do the right things; for example, you brought the cleric back home with you. On the other hand, the magic-user and the goblin were the “bad guys.” They didn’t care whether you lived or died, just what they could get from you -- selfish, and nasty besides.
+<wrap indent>There is a way to describe how your character behaves in the game; it is called **Alignment**. Your fighter’s Alignment is called //Lawful//, he tries to protect others and defeat monsters.</wrap>
+<wrap indent>Aleena the cleric was also Lawful. This is one reason why you became friends. Your Charisma helped when you first met her, but if your Alignments were different, you probably wouldn’t have been so friendly to each other.</wrap>
+<wrap indent>Bargle, the magic-user, had a different Alignment than yours. He was //Chaotic//, the opposite of Lawful. He was selfish, cared only about himself and steals from others. Most people don’t like chaotic’s. You two wouldn’t normally become friends at all (except for the spell he cast, that magically forced you to be his friend for a short time).</wrap>
+<wrap indent>Monsters have alignments, too. The goblin and the ghouls were Chaotic. But the snake wasn’t really bad or good (although it certainly was dangerous). Its Alignment is called //Neutral//. It will fight to protect itself and will help others, if that will help it, but is mostly concerned with surviving. Neutral doesn’t mean stupid (Alignment has nothing to do with Intelligence); it means a balance, an average between the Law and Chaos. The snake was just a typical animal, trying to stay alive and get something to eat.</wrap>
+<wrap indent>Alignment will be explained in more detail later in this booklet, on page 55.</wrap>
+
+=== Now where do you go? ===
+
+You can have more adventures by yourself! Another adventure has been designed just for your fighter. It starts on page 13. But before you play that adventure, you will need to know a few more details about your fighter, and how to use all the dice.
+<wrap indent>All the details of your character -- your hit points, Ability Scores, Saving Throws, and so forth -- are written down for you on a sheet in the middle of this booklet, along with other details. This description of your character is called a Character Sheet.</wrap>
+<wrap indent>Remove the character sheet by carefully folding it along the dotted line and then tearing it along the perforation.</wrap>
+<wrap indent>You will find the scores for other character types in the center of this booklet too. These are for when you play with a group. You will have to write the information on copies of the blank character sheet on the back of this book. Do not use any of these characters for the Solo Adventure in this booklet.</wrap>
+<wrap indent>**Use a pencil** whenever you need to write on a character sheet, not a pen. Many of the notes you will make are temporary, like the amount of money you have, your equipment, and so forth.</wrap>
+<wrap indent>Get out the rest of the dice and the crayon. If you have the dice, the crayon, a pencil, and your character sheet, you are ready to learn some more.</wrap>
+
+=== The Character Sheet ===
+
+Let’s look at the whole character sheet,bit by bit.\\
+<wrap indent>At the top of the sheet, fill in your name above “Player’s Name.”</wrap>
+<wrap indent>What’s your character’s name? It could be the same as yours, or you could make one up. Write the name in the place for it, under your own.</wrap>
+<wrap indent>Your fighter is one of the “good guys,” so your Alignment is Lawful. This has already been filled in on your sheet, and shouldn’t change. If you want to play a Neutral character (or, if you want to take the chance, a Chaotic one), you should put the Alignment on the character sheet for that new character.</wrap>
+<wrap indent>The **Class** of your character is the type of adventurer you are playing. Fighter has already been filled in, because once a Class is chosen, it will never change.</wrap>
+<wrap indent>You are just starting, so your Level is 1, or “first” (1st). You will learn more about a character’s “level” very soon.</wrap>
+<wrap indent>**Armor Class** is a measure of how hard it is for monsters to hit you; abbreviated **AC**. It can be any whole number, 9 or less. The lower the number, the smaller the chances are that you will get hit. Since your fighter is wearing sturdy armor, your Armor Class is 4; write that number in the shield shape.</wrap>
+<wrap indent>In the box above the words **Hit Points**, put 8. You should know what that means, from your first adventure. It’s a measure of how much damage your fighter can take.</wrap>
+<wrap indent>At the top right corner, there is a place for the name of your Dungeon Master. In group games, this is the person who plays the monsters, while you play your character. You don’t have one yet, so leave that blank. Later, when you’re playing in a group, one person will be the Dungeon Master.</wrap>
+<wrap indent>Below that line is a rectangle labeled **Character Sketch or Symbol**. You may wish to draw a picture of your character there, a “character sketch.” You may skip this part of the character sheet, if you wish; it won’t affect the game, but might help you imagine what your character looks like. Or instead of a sketch, you may want to pick a symbol - something that your character will be connected with. Your symbol could be a bird, or a tree, or anything you wish. For example, if your character’s name is Hawk, you may wish to draw a falcon-like bird in this rectangle.</wrap>
+<wrap indent>The middle part of the character sheet gives all your Ability Scores and Saving Throws.</wrap>
+
+=== Ability scores ===
+
+Let’s take a closer look at your character. Your fighter has the following Ability Scores:\\
+<WRAP center>
+|  17|Strength|
+|  9|Intelligence|
+|  8|Wisdom|
+|  11|Dexterity|
+|  16|Constitution|
+|  14|Charisma|
+</WRAP>
+\\
+In the adventure, it said “your Ability Score is . . . ,” because your starting character was already made up. Later, if you would like to play another character, you can use any of the others included in this booklet. But when you are ready to make up a completely new character, you will roll for your Ability Scores, using the dice. This is explained in more detail on page 48.
+<wrap indent>Every D&D character has these six Ability Scores (though the numbers are usually different, of course). The numbers are always from 3 to 18, the total of three six-sided dice.</wrap>
+
+=== Adjustments ===
+
+There is a place on the sheet for “adjustments”
+next to your Ability Scores. If
+any Ability Score is very high or low,
+there may be adjustments, which can be
+good or bad. The adjustments will apply
+to certain die rolls in the game. An
+“average” Ability Score is any number
+from 9 to 12, and has no adjustments.
+Strength: With a low Strength score, it
+would be harder to hit monsters, and
+you would have a “minus” adjustment, a
+penalty. But your great Strength gives
+you a bonus, the “plus” adjustment.
+Your + 2 bonus helps you in fighting; it
+is added to both your Hit Rolls and to
+the Damage you do. It also helps when
+you try to perform feats of strength -
+like breaking open a stuck door, or
+lifting a huge rock.
+The + 2 adjustment has already been
+included in your Hit Rolls for the Solo
+Adventures in this booklet.
+Intelligence: Your Intelligence is average
+so there are no adjustments here.
+Because of your intelligence, your character
+can speak two languages. You can
+speak the same language as all the other
+humans, which we call “Common.”
+Your fighter can also speak a code
+language, called an “Alignment
+Tongue.” This is used to speak privately
+with someone else of the same Alignment.
+(In your first adventure, you
+could have spoken to Aleena the cleric in
+the Lawful tongue, and Bargle the
+magic-user wouldn’t have understood
+what you were saying; he speaks Chaotic.)
+Characters usually don’t use their
+Alignment tongue unless they have to.
+You can say that you speak “Common”
+and “Lawful.” Near the bottom of the
+sheet is a place to write the names of
+your languages.
+**Wisdom:** Your Wisdom is 8, just below average, so you have a penalty adjustment of -1. As with your Strength bonus, your Wisdom penalty has been included in the Solo adventure to come.\\
+<wrap indent>In group games, you will subtract one from your die roll each time you make a Saving Throw against a magic spell. Aleena the cleric had a bonus against magic spells, because of her high Wisdom, but she had a penalty on her Hit rolls, because of her low Strength score.</wrap>
+\\
+**Dexterity:** Your Dexterity is average, so there are no adjustments here. If you were clumsy (with a low Dexterity score), you would have trouble using missile weapons like bow and arrow (which you will learn about later in this booklet). You might also react a little slower than the monsters. But your average score here keeps you even with them.
+\\
+**Constitution:** Your Constitution score is high, so you get a + 2 bonus here. As we explained in the adventure, you have 8 hit points; without your good Constitution, you would only have 6 hit points. If you had a low Constitution score, you might have even less. A higher Constitution score would mean more hit points.
+\\
+**Charisma:** Your Charisma is also above average, and you get a + 1 bonus when meeting and talking to others. Your Charisma will affect their reactions; they will probably like you, and you can probably get your own way a little more often, because of your Charisma bonus.
+<wrap indent>As with your other bonuses, your Charisma bonus has been accounted for in the Solo Adventure to come.</wrap>
+
+=== Saving throws ===
+
+In the first adventure, you made Saving
+Throws against poison and magic spells.
+When you try to save yourself from a
+special attack, you roll the twenty-sided
+die; if the result is equal to or higher
+than your number you succeed in avoiding
+the attack.
+There are three other Saving Throws,
+against Magic Wands (if someone shoots
+one at you), Paralysis (which would have
+been used if one of the ghouls had hit
+you), and Dragon Breath (dragons can
+be very dangerous, so there weren’t any
+in your first adventure). You will always
+use a twenty-sided die to roll a Saving
+Throw.
+For most characters, the easiest Saving
+Throws to make are those against Poison
+and Magic Wands, and the hardest are
+those against Dragon Breath and Magic
+Spells. Saving Throws are explained in
+more detail in the Dungeon Masters
+Rulebook.
+
+===Special abilities ===
+
+Your character does a better job at fighting
+than any other type of character, but
+this is not a “special ability.” Most other
+characters can’t fight as well, but have
+Special Abilities which they need for
+survival and success. The Special Abilities
+of each character class are given in
+the class descriptions (pages 23 - 47).
+<box 80% #A5A5A5>EXAMPLES: Clerics can Turn Undead monsters. Magic-users can cast spells (as can clerics and elves). Thieves can pick locks.</box>
+
+=== Combat chart ===
+You know how to roll when your character
+wants to hit a monster; this is called a
+“Hit Roll.” You will always use a twentysided
+die for Hit Rolls.
+You will not need to use this Combat
+Chart until you play in a group game.
+When you read a one-player adventure,
+the Hit Roll you need will be given. This
+will include your Strength adjustment as
+well as the monster’s Armor Class.
+In group games, you will use a slightly
+different procedure, using this chart. In
+the D&D combat system, every creature
+has an Armor Class, whether it is wearing
+armor or not. If your roll (including
+the Strength adjustment) is a number
+high enough to match or beat the number
+listed under the target’s Armor
+Class, you will hit the target, and can
+then roll Damage. This will be explained
+in more detail later.
+TURN THE SHEET OVER
+We are done with the hardest parts, but
+there are a few more things to come. Be
+very careful when you get to “Money”
+and “Experience.”
+----
+----
+[[wiki-image]]
+
+=== Magic items ===
+
+Whenever you find a magic item, write it
+down here. This includes the magic potion
+you found in your first adventure!
+In this box, write Potion of Healing - the
+magic item you found in Ending #l.
+(Since you probably missed the Saving
+Throw against Bargle’s spell, we will use
+that ending for your character’s adventure.
+You will need the Potion of Healing
+in your next adventure.)
+
+=== Normal items ===
+
+This is where you list the equipment that
+your character has. Copy the following
+list into the box, and look it over so you
+know what you are carrying. For now,
+don’t worry about how much the items
+cost or where they came from.
+You have a dagger and other normal
+equipment again, even though Bargle
+stole some. We will assume that you kept
+spare equipment at home - but the list
+here is all that remains.
+----
+^  **YOUR EQUIPMENT LIST**  ^^
+|  2  |Flasks of oil|
+|  1  |Tinderbox|
+|  1  |Rope, 50'|
+|  1  |Leather backpack|
+|  1  |Standard rations (preserved food)|
+|  1  |Waterskin (leather canteen)|
+|  1  |Lantern|
+|  2  |Torches|
+|  2  |Small sacks|
+|  1  |Large sack|
+|  1  |Suit of Chain Mail armor|
+|  1  |Shield|
+|  1  |Dagger|
+|  1  |Sword|
+----
+=== Other notes ===
+
+This is a way to help you remember who
+your character has met, and where you
+have gone. You should write down
+“Caves near town; met Bargle, Chaotic
+magic-user.’’ Make more notes as you
+play more adventures.
+
+=== Money and treasure ===
+
+You found many gold and silver pieces
+when you killed the giant snake, and a
+few copper pieces when you killed the
+,
+goblin. You brought home a little of
+each, though Bargle stole most of it.
+This is where you make a note of the
+treasure you have, adding to the list for
+any more treasure you find. We use
+abbreviations for the types of coin (listed
+here in order, starting with the most
+valuable) :
+platinum pieces = pp
+gold pieces = gp
+electrum pieces = ep
+silver pieces = sp
+copper pieces = cp
+These abbreviations are often used, so
+you should get to know them well. To
+write down the treasure you found, copy
+this into the Money box on your character
+sheet:
+pp: 7 1 gem: 100 gp
+gp: 50
+ep: 20
+sp: 40
+cp: 100
+Total Value: 200 gp
+
+To find the Total value (200 gp), you
+need to know more about the D&D
+money system.
+Think of copper as pennies, silver as
+dimes, and gold as dollars. Electrum
+pieces are like half dollars, but platinum
+is expensive; one platinum piece is like a
+five-dollar bill. Study the Money Conversion
+Table on this page.
+
+=== Experience ===
+
+
+==== Dice ====
+
+
+=== This is very important. Be sure to read it carefully. ===

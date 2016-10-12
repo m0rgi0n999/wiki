@@ -1,0 +1,4 @@
+[[wiki:rpg:adnd:core|{{ :wiki:rpg:adnd-logo.gif?nolink&1200 |Core Rules}}]]\\
+[[wiki:rpg:adnd:greyhawk|{{ :wiki:rpg:adnd:greyhawk.png?nolink&1200 |Greyhawk Adventures}}]]\\
+[[wiki:rpg:adnd:forgotten_realms|{{ :wiki:rpg:adnd:forgottenrealms.gif?nolink&1200 |Forgotten Realms}}]]\\
+[[wiki:rpg:adnd:dragonlance|{{ :wiki:rpg:adnd:dragonlance.png?nolink&1200 |Dragonlance}}]]

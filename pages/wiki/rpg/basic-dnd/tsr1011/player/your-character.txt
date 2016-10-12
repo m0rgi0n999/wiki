@@ -1,0 +1,188 @@
+~~NOTOC~~
+====== Your Character ======
+<WRAP col3 justify>
+=== Alignment: How characters and monsters behave ===
+Take a moment, now, and think about how your character behaved. The fighter was one of the “good guys.” You wanted to do the right things; for example, you brought the cleric back home with you. On the other hand, the magic-user and the goblin were the “bad guys.” They didn’t care whether you lived or died, just what they could get from you -- selfish, and nasty besides.\\
+<wrap indent>There is a way to describe how your character behaves in the game; it is called **Alignment**. Your fighter’s Alignment is called //Lawful//, he tries to protect others and defeat monsters.</wrap>\\
+<wrap indent>Aleena the cleric was also Lawful. This is one reason why you became friends. Your Charisma helped when you first met her, but if your Alignments were different, you probably wouldn’t have been so friendly to each other.</wrap>\\
+<wrap indent>Bargle, the magic-user, had a different Alignment than yours. He was //Chaotic//, the opposite of Lawful. He was selfish, cared only about himself and steals from others. Most people don’t
+like chaotic’s. You two wouldn’t normally become friends at all (except for the spell he cast, that magically forced you to be his friend for a short time).</wrap>\\
+<wrap indent>Monsters have alignments, too. The goblin and the ghouls were Chaotic. But the snake wasn’t really bad or good (although it certainly was dangerous). Its Alignment is called //Neutral//. It will fight to protect itself and will help others, if that will help it, but is mostly concerned with surviving. Neutral doesn’t mean stupid (Alignment has nothing to do with Intelligence); it means a balance, an average between the Law and Chaos. The snake was just a typical animal, trying to stay alive and get something to eat.</wrap>\\
+<wrap indent>Alignment will be explained in more detail later in this booklet, on page 55.</wrap>\\
+\\
+=== Now where do you go? ===
+You can have more adventures by yourself! Another adventure has been designed just for your fighter. It starts on page 13. But before you play that adventure, you will need to know a few more details about your fighter, and how to use all the dice.\\
+<wrap indent>All the details of your character -- your hit points, Ability Scores, Saving Throws, and so forth -- are written down for you on a sheet in the middle of this booklet, along with other details. This description of your character is called a Character Sheet.</wrap>\\
+<wrap indent>Remove the character sheet by carefully folding it along the dotted line and then tearing it along the perforation.</wrap>\\
+<wrap indent>You will find the scores for other character types in the center of this booklet too. These are for when you play with a group. You will have to write the information on copies of the blank character sheet on the back of this book. Do not use any of these characters for the Solo Adventure in this booklet.</wrap>\\
+<wrap indent>**Use a pencil** whenever you need to write on a character sheet, not a pen. Many of the notes you will make are temporary, like the amount of money you have, your equipment, and so forth.</wrap>\\
+<wrap indent>Get out the rest of the dice and the crayon. If you have the dice, the crayon, a pencil, and your character sheet, you are ready to learn some more.</wrap>\\
+\\
+=== The Character Sheet ===
+Let’s look at the whole character sheet, bit by bit.\\
+<wrap indent>At the top of the sheet, fill in your name above “Player’s Name.”</wrap>\\
+<wrap indent>What’s your character’s name? It could be the same as yours, or you could make one up. Write the name in the place for it, under your own.</wrap>\\
+<wrap indent>Your fighter is one of the “good guys,” so your Alignment is Lawful. This has already been filled in on your sheet, and shouldn’t change. If you want to play a Neutral character (or, if you want to take the chance, a Chaotic one), you should put the Alignment on the character sheet for that new character.</wrap>\\
+<wrap indent>The **Class** of your character is the type of adventurer you are playing. Fighter has already been filled in, because once a Class is chosen, it will never change.</wrap>\\
+<wrap indent>You are just starting, so your Level is 1, or “first” (1st). You will learn more about a character’s “level” very soon.</wrap>\\
+<wrap indent>**Armor Class** is a measure of how hard it is for monsters to hit you; abbreviated **AC**. It can be any whole number, 9 or less. The lower the number, the smaller the chances are that you will get hit. Since your fighter is wearing sturdy armor, your Armor Class is 4; write that number in the shield shape.</wrap>\\
+<wrap indent>In the box above the words **Hit Points**, put 8. You should know what that means, from your first adventure. It’s a measure of how much damage your fighter can take.</wrap>\\
+<wrap indent>At the top right corner, there is a place for the name of your Dungeon Master. In group games, this is the person who plays the monsters, while you play your character. You don’t have one yet, so leave that blank. Later, when you’re playing in a group, one person will be the Dungeon Master.</wrap>\\
+<wrap indent>Below that line is a rectangle labeled **Character Sketch or Symbol**. You may wish to draw a picture of your character there, a “character sketch.” You may skip this part of the character sheet, if you wish; it won’t affect the game, but might help you imagine what your character looks like. Or instead of a sketch, you may want to pick a symbol -- something that your character will be connected with. Your symbol could be a bird, or a tree, or anything you wish. For example, if your character’s name is Hawk, you may wish to draw a falcon-like bird in this rectangle.</wrap>\\
+<wrap indent>The middle part of the character sheet gives all your Ability Scores and Saving Throws.</wrap>\\
+\\
+=== Ability Scores ===
+Let’s take a closer look at your character. Your fighter has the following Ability Scores:
+<WRAP centeralign>
+|  17 | Strength  |
+|  9 | Intelligence  |
+|  8 | Wisdom  |
+|  11 | Dexterity  |
+|  16 | Constitution  |
+|  14 | Charisma  |
+</WRAP>
+In the adventure, it said “your Ability Score is . . . ,” because your starting character was already made up. Later, if you would like to play another character, you can use any of the others included in this booklet. But when you are ready to make up a completely new character, you will roll for your Ability Scores, using the dice. This is explained in more detail on page 48.\\
+<wrap indent>Every D&D character has these six Ability Scores (though the numbers are usually different, of course). The numbers are always from 3 to 18, the total of three six-sided dice.</wrap>\\
+\\
+=== Adjustments ===
+There is a place on the sheet for “adjustments” next to your Ability Scores. If any Ability Score is very high or low, there may be adjustments, which can be good or bad. The adjustments will apply to certain die rolls in the game. An “average” Ability Score is any number from 9 to 12, and has no adjustments.\\
+
+**Strength:** With a low Strength score, it would be harder to hit monsters, and you would have a “minus” adjustment, a penalty. But your great Strength gives you a bonus, the “plus” adjustment. Your + 2 bonus helps you in fighting; it is added to both your Hit Rolls and to the Damage you do. It also helps when you try to perform feats of strength -- like breaking open a stuck door, or lifting a huge rock.\\
+<wrap indent>The + 2 adjustment has already been included in your Hit Rolls for the Solo Adventures in this booklet.</wrap>\\
+
+**Intelligence:** Your Intelligence is average so there are no adjustments here. Because of your intelligence, your character can speak two languages. You can speak the same language as all the other humans, which we call “Common.”\\
+<wrap indent>Your fighter can also speak a code language, called an “Alignment Tongue.” This is used to speak privately with someone else of the same Alignment. (In your first adventure, you could have spoken to Aleena the cleric in the Lawful tongue, and Bargle the magic-user wouldn’t have understood what you were saying; he speaks Chaotic.) Characters usually don’t use their Alignment tongue unless they have to. You can say that you speak “Common” and “Lawful.” Near the bottom of the sheet is a place to write the names of your languages.</wrap>\\
+
+**Wisdom:** Your Wisdom is 8, just below average, so you have a penalty adjustment of - 1. As with your Strength bonus, your Wisdom penalty has been included in the Solo adventure to come.\\
+<wrap indent>In group games, you will subtract one from your die roll each time you make a Saving Throw against a magic spell. Aleena the cleric had a bonus against magic spells, because of her high Wisdom, but she had a penalty on her Hit rolls, because of her low Strength score.</wrap>\\
+
+**Dexterity:** Your Dexterity is average, so there are no adjustments here. If you were clumsy (with a low Dexterity score), you would have trouble using missile weapons like bow and arrow (which you will learn about later in this booklet). You might also react a little slower than the monsters. But your average score here keeps you even with them.\\
+
+**Constitution:** Your Constitution score is high, so you get a + 2 bonus here. As we explained in the adventure, you have 8 hit points; without your good Constitution, you would only have 6 hit points. If you had a low Constitution score, you might have even less. A higher Constitution score would mean more hit points.\\
+
+**Charisma:** Your Charisma is also above average, and you get a + 1 bonus when meeting and talking to others. Your Charisma will affect their reactions; they will probably like you, and you can probably get your own way a little more often, because of your Charisma bonus.\\
+<wrap indent>As with your other bonuses, your Charisma bonus has been accounted for in the Solo Adventure to come.</wrap>\\
+
+=== Saving Throws ===
+In the first adventure, you made Saving Throws against poison and magic spells. When you try to save yourself from a special attack, you roll the twenty-sided die; if the result is equal to or higher than your number you succeed in avoiding the attack.\\
+<wrap indent>There are three other Saving Throws, against Magic Wands (if someone shoots one at you), Paralysis (which would have been used if one of the ghouls had hit you), and Dragon Breath (dragons can be very dangerous, so there weren’t any in your first adventure). You will always use a twenty-sided die to roll a Saving Throw.</wrap>\\
+<wrap indent>For most characters, the easiest Saving Throws to make are those against Poison and Magic Wands, and the hardest are those against Dragon Breath and Magic Spells. Saving Throws are explained in more detail in the Dungeon Masters Rulebook.</wrap>\\
+
+=== Special Abilities ===
+Your character does a better job at fighting than any other type of character, but this is not a “special ability.” Most other characters can’t fight as well, but have Special Abilities which they need for survival and success. The Special Abilities of each character class are given in the class descriptions (pages 23 - 47).\\
+<box 80% #A5A5A5>EXAMPLES: Clerics can Turn Undead monsters. Magic-users can cast spells (as can clerics and elves). Thieves can pick locks.</box>\\
+=== Combat Chart ===
+You know how to roll when your character wants to hit a monster; this is called a “Hit Roll.” You will always use a twenty-sided die for Hit Rolls.\\
+<wrap indent>You will not need to use this Combat Chart until you play in a group game. When you read a one-player adventure, the Hit Roll you need will be given. This will include your Strength adjustment as well as the monster’s Armor Class.</wrap>\\
+<wrap indent>In group games, you will use a slightly different procedure, using this chart. In the D&D combat system, every creature has an Armor Class, whether it is wearing armor or not. If your roll (including the Strength adjustment) is a number high enough to match or beat the number listed under the target’s Armor Class, you will hit the target, and can then roll Damage. This will be explained in more detail later.</wrap>\\
+
+<WRAP center>TURN THE SHEET OVER</WRAP>
+
+We are done with the hardest parts, but there are a few more things to come. Be very careful when you get to “Money” and “Experience.”
+<html><hr class="style2" \></html>
+{{ :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic8.png?nolink&200 |}}
+
+=== Magic Items ===
+Whenever you find a magic item, write it down here. This includes the magic potion you found in your first adventure! In this box, write //Potion of Healing// -- the magic item you found in Ending #1. (Since you probably missed the Saving Throw against Bargle’s spell, we will use that ending for your character’s adventure. You will need the //Potion of Healing// in your next adventure.)\\
+
+=== Normal Items ===
+This is where you list the equipment that your character has. Copy the following list into the box, and look it over so you know what you are carrying. For now, don’t worry about how much the items cost or where they came from.\\
+<wrap indent>You have a dagger and other normal equipment again, even though Bargle stole some. We will assume that you kept spare equipment at home - but the list here is all that remains.</wrap>\\
+<html><hr class="style5" /></html>
+<WRAP centeralign>**YOUR EQUIPMENT LIST**</WRAP>
+<html><hr class="style1" /></html>
+| 2 | Flasks of oil  |
+| 1 | Tinderbox  |
+| 1 | Rope, 50'  |
+| 1 | Leather backpack  |
+| 1 | Standard rations (preserved food)  |
+| 1 | Waterskin (leather canteen)  |
+| 1 | Lantern  |
+| 2 | Torches  |
+| 2 | Small sacks  |
+| 1 | Large sack  |
+| 1 | Suit of Chain Mail armor  |
+| 1 | Shield  |
+| 1 | Dagger  |
+| 1 | Sword  |
+<html><hr class="style5" /></html>\\
+=== Other Notes ===
+This is a way to help you remember who your character has met, and where you have gone. You should write down “Caves near town; met Bargle, Chaotic magic-user.’’ Make more notes as you play more adventures.\\
+
+=== Money and Treasure ===
+You found many gold and silver pieces when you killed the giant snake, and a few copper pieces when you killed the goblin. You brought home a little of each, though Bargle stole most of it.\\
+{{ :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic9.png?nolink&300 |}}
+<wrap indent>This is where you make a note of the treasure you have, adding to the list for any more treasure you find. We use abbreviations for the types of coin (listed here in order, starting with the most valuable):</wrap>\\
+<WRAP centeralign>
+|  platinum pieces | = | pp  |
+|  gold pieces | = | gp  |
+|  electrum pieces | = | ep  |
+|  silver pieces | = | sp  |
+|  copper pieces | = | cp  |
+</WRAP>
+These abbreviations are often used, so you should get to know them well. To write down the treasure you found, copy this into the **Money** box on your character sheet:
+
+| pp:  |  7 | 
+| gp:  |  50 |
+| ep:  |  20 |
+| sp:  |  40 |
+| cp:  |  100 |
+| 1 gem:  |  100gp |
+Total Value: 200 gp
+
+To find the Total value (200 gp), you need to know more about the D&D money system.\\
+<wrap indent>Think of copper as pennies, silver as dimes, and gold as dollars. Electrum pieces are like half dollars, but platinum is expensive; one platinum piece is like a five-dollar bill. Study the **Money Conversion Table** on this page.</wrap>\\
+<html><hr class="style5" /></html>
+<WRAP center align>**MONEY CONVERSION TABLE**</WRAP>
+<html><hr class="style1" /></html>
+|  100 cp = 1 gp |  2 ep = 1 gp |
+|  10 sp = 1 gp |  5 gp = 1 pp |
+|1 pp = 5 gp = 10 ep = 50 sp = 500 cp ||
+<html><hr class="style5" /></html>\\
+When you find treasure in an adventure, write it down on a separate piece of paper. At the end of the adventure, add the treasure to your list, and figure out your new total.\\
+<wrap indent>In your adventures, look for the most valuable treasure. If you are carrying all you can, you may have to drop some treasure to pick up more valuable coins; drop copper first, of course.</wrap>\\
+=== Experience ===
+In the game, your character will become more powerful each time you complete an adventure. The way of measuring this “power” is another number, called **Experience Points**; the abbreviation is **XP**.\\
+<wrap indent>When your character started, you had no Experience Points. But in your first adventure, you killed a giant snake and a goblin, and found some treasure. You get Experience Points for each of these things.</wrap>\\
+<wrap indent>For the treasure you found, you get 200 XP. (one experience point per gold piece value). For killing the monsters, you get 30 more. That adds up to 230 XP, but it’s not your total. You also get a bonus because you are a Fighter and have an above average Strength score. This bonus is +10% of your XP. Since you earned 230, you get 23 bonus points, for a total of 253 XP. In the Experience box at the bottom of the page, write “253.”</wrap>\\
+<wrap indent>Did you notice that you get a lot of experience for treasure, and not much for killing monsters? It’s better to avoid killing, if you can, by tricking monsters or using magic to calm them down. You can sometimes avoid the risks of combat. But you will have to fight many monsters to get their treasures.</wrap>\\
+<wrap indent>Remember your “Level” at the top of the front of the sheet? That relates to XP (Experience Points) in the following way; if you gain enough experience points your level goes up.</wrap>\\
+<wrap indent>When your Level goes up, you become more powerful. Each time this happens, you will get more Hit Points. Sometimes (but not every time) when your Level goes up, your character will be able to make Saving Throws a little easier, and hit things a little more often. So the more Levels you gain, the longer you can survive, and the more treasures you can collect.</wrap>\\
+<wrap indent>On the line at the bottom of the **Experience** box, write the number “2,000.” This is your goal. When you finally have this many XP, adding up your points from each and every adventure, your character will no longer be Level 1; you will move up in power, to Level 2. This doesn’t mean that you lose any XP; you will keep adding more as you get them.</wrap>\\
+<wrap indent>You will probably work your way up to Level 3,4, 5 and so forth, becoming more powerful each time. And human characters can go all the way to 36th level, though this should take hundreds of games. For low level your goal doubles for each Level: 4,000 XP for 3rd Level, 8,000 XP for 4th Level, and so forth.</wrap>\\
+
+Now you should know how to use each part of your Character Sheet. If you didn’t understand something, **STOP!** Go back and read the details again.\\
+<wrap indent>You will have a character sheet for each character you play. It will have all the details you need to play the character properly.</wrap>
+</WRAP>
+{{ :wiki:rpg:basic-dnd:tsr1011:player:tsr1011-pic10.png?nolink&1200 |}}
+<WRAP col3 justify>
+==== Dice ====
+**This is a cery important sections.\\
+Be sure to read it carefully.**\\
+
+When you have several dice, they are just called “dice” - but one is called a “die.” Each side of a die is called a “face.” Each type of die is named for the number of faces it has. The dice, and the abbreviations for them, are used in every adventure, so you should get to know them well.\\
+<wrap indent>Check to be sure your set has all the dice you need:</wrap>\\
+<wrap indent>The four-sided die looks like a pyramid. Try to spin it as you throw it, to be sure of making a fair roll. When it lands, only the bottom number on each face is right-side up; this is the result of the “roll.” For all the other dice, roll them on a table or flat surface, and the number on top is the result of the roll.</wrap>\\
+<wrap indent>The ten-sided die has a zero on one face, which is read as “ten.”</wrap>\\
+<wrap indent>The ten-sided die can also be used to find a Percentage (a number from 1 to loo), in the following way. Roll the die once and read the result as the “tens” number, counting zero as “no tens.” Roll a second time for the “ones” number. If both rolls are “zero”, the result is one hundred.</wrap>\\
+<box 80% #A5A5A5>EXAMPLES: A roll of 5 followed by a roll of 3 gives a total result of 53. If the 3 were rolled first, the result would be 35. Aroll of 0 followed by a roll of 6 gives a total of 06, or simply 6.</box>
+<wrap indent>Now stop and color in the numbers on all the other dice by rubbing the crayon across the grooves and using a tissue to wipe off the extra way.</wrap>\\
+
+We often use abbreviations for the kinds of dice: a “d,” followed by the number of faces. For example: d8 means an eightsided die.\\
+<wrap indent>The roll of a ten-sided die twice, to find a Percentage, is abbreviated “d%,” and sometimes called a “Percentage roll” or “Percentage dice.”</wrap>\\
+<wrap indent>Whenever a number appears before the “d,” it means the number of times you need to roll the die. So “2d4” means “roll a four-sided die twice, and add the results,” for a total of 2-8. Or, if you have more than one set of dice, you can just roll two 4-sided dice at once, adding the results normally.</wrap>\\
+<wrap indent>Some examples:</wrap>\\
+|  d%  | Roll the ten-sided die to find the "tens" number, and again to find the "ones" number. |
+|  4d8  | Roll an eight-sided die four times. |
+|  9d12  | Roll the twelve-sided die nine times. |
+|  1d20  | Roll the twenty-sided die once |
+
+Sometimes you will find a number after the “d” that’s not a kind of die; for example, 1d3. In this case, it means that the result should be 1, 2, or 3. To make a “1d3” roll, roll ld6 and divide by 2 (rounding up), to get a result from one to three.\\
+<wrap indent>Using the same principle, you can find the result of 1d2 (1d4 divided by 2) and 1d5 (1d10 divided by 2).</wrap>\\
+
+If you have read everything so far --
+
+YOU ARE READY FOR YOUR NEXT ADVENTURE!
+
+To Start, just turn the page.
+</WRAP>

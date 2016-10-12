@@ -1,0 +1,3 @@
+[[:wiki:rpg:basic-dnd:start|{{:dnd-logo.png?nolink&}}]]\\
+[[:wiki:rpg:adnd:start|{{:wiki:rpg:adnd-logo.gif?nolink&1200x250}}]]\\
+[[:wiki:rpg:adnd2e:start|{{:wiki:rpg:adnd2e-logo.gif?nolink&1200x300}}]]

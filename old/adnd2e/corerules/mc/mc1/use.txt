@@ -1,0 +1,104 @@
+<fc #4169E1><fs xx-large>**How To Use This Book**</fs></fc>
+----
+\\
+<WRAP col2 80em>
+The new Monstrous Compendium format was designed with the Dungeon Master in mind. Monster entries are given in alphabetical order, printed on looseleaf sheets that can be organized for convenience. The sheets needed for an adventure can be placed in a separate folder for play, then later returned to the master binder. New monsters can be easily placed in the master binder.\\
+<wrap indent>All monsters described here are typical for their type: likewise, the given encounter tables are guidelines for general play. DMs should note that unusual variations are encouraged, but are most effective when they depart from the expected.</wrap>\\
+<wrap indent>Each monster is described fully, with entries that describe behavior, combat modes, and so on. These are explained below.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**CLIMATE/TERRAIN**</font> defines where the creature is most often fOund. Climates include arctic, subarctic. temperate. and tropical. Typical terrain includes plaini’scrub, forest, roughr’hill, mountain, swamp. and desert.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**FREQUENCY**</font> is the likelihood of encountering a creature in an area. Very rare is a 4% chance, rare is 11%, uncommon is 20%, and common is a 65% chance. Chances can be adjusted for special areas.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**ORGANIZATION**</font> is the general social structure the monster adopts. ”Solitary" includes small family groups.
+
+<font inherit/inherit;;#4169E1;;inherit>**ACTIVE CYCLE**</font> is the time of day when the monster is most active. Those most active at night may be active at any time in subterranean settings. Active cycle is a general guide and exceptions are fairly common.
+
+<font inherit/inherit;;#4169E1;;inherit>**DIET**</font> shows what the creature generally eats. Camivores eat meat. herbivores eat plants, and omnivores eat either. Scavengers eat mainly carrion.
+
+<font inherit/inherit;;#4169E1;;inherit>**INTELLIGENCE**</font> is the equivalent of human "IQ". Certain monsters are instinctively cunning; these are noted in the monster descriptions. Ratings correspond roughly to the following Intelligence ability scores:
+
+0 Non-intelligent or not ratable
+1 Animal intelligence
+2-4 Semi—intelligent
+5-7 Low intelligence
+8-10 Average (human) intelligence
+11-12 Very intelligent
+13-14 Highly intelligent
+15-16 Exceptionally intelligent
+17-18 Genius
+19-20 Supra-genius
+21 + Godlike intelligence
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**TREASURE**</font> refers to the treasure tables in the Dungeon Masters Guide. If individual treasure is indicated, each individual may carry it (or not, at the DM's discretion). Major treasures are usually found in the monster's lair; these are most often designed and placed by the DM. Intelligent monsters will use magical items present and try to carry off their most valuable treasures if hard pressed. If treasure is assigned randomly, roll for each type possible: if all rolls fail. no treasure of any type is found. Treasure should be adjusted downward if few monsters are encountered. Large treasures are noted by a parenthetical multiplier ( * 10. etc.)—not to be confused with treasure type X. Do not use the tables to place dungeon treasure, as numbers encountered underground will be much smaller.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**ALIGNMENT**</font> si-tows the general behavior of the average monster of that type. Exceptions, though uncommon, may be encountered.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**NO. APPEARING**</font> indicates an average encounter size for a wilderness encounter. The URI should alter this to fit the circumstances as the need
+arises. This should not be used for dungeon encounters.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**ARMOR CLASS**</font> is the general protection worn by humans and humanoids, protection due to pit sical structure or magical nature, or difficulty in hitting due to speed. reéaes, etc. Humans and humanoids of roughly man-size that wear antler will haw: an unarmored rating in parentheses. Listed AC do not include any special bonuses noted in the description.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**MOVEMENT**</font> shows the relative speed rating of the creature. Higher speeds may be possible for short periods. Human, demihuman, and humanoid movement rate is often determined by armor type (unarmored rates are given in parentheses]. Movements in different mediums are abbreviated as follows: Fl = fly, Stu = swim. Br = burrowing, Wb = web.\\
+<wrap indent>Flying creatures will also have a Maneuverabillty Class from A to E.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**HIT DICE**</font> controls the number of hit points damage a creature can with: stand before being killed. Unless otherwise stated, Hit Dice are B-sided [LS hit points]. The Hit Dice are rolled and the numbers shown are added to determine the monsters hit points. Some monsters will have a hit point spread instead of Hit Dice, and some will have additional points added to their Hit Dice. Thus, a creature with 4 +4 Hit Dice has 4d8 +4 hit points (8-36 total). Note that creatures with + 3 or more hit points are considered the next higher Hit Die for purposes of attack rolls and saving throws.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**THAC0**</font> is the attack roll the monster needs to hit armor class D. This is always a function of Hit Dice. except in the case of very large, non-
+aggressive herbivores (such as some dinosaurs). Humans and demihumans always use player character THAC0s, regardless of whether they are player characters or "monsters". THACOs do not include any special bonuses noted in the descriptions.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**NUMBER OF ATTACKS**</font> shows the basic attacks the monster can make in a melee round. excluding special attacks. This number can be modified by hits that sever members. spells such as haste and slow. and so forth. Multiple attacks indicate several members, raking paws, multiple heads. etc.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**DAMAGE PER ATTACK**</font> shows the amount of damage a given attack will make, expressed as a spread of hit points (dice roll combination). If the monster uses weapons. the damage will done by the typical weapon will be followed by the parenthetical note "weapon". Damage bonuses due to Strength are listed as a bonus following the damage range.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**SPECIAL ATTACKS**</font> detail attack modes such as dragon breath, magic use, etc. These are explained in the monster description.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**SPECIAL DEFENSES**</font> are precisely that. and are detailed in the monster description.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**MAGIC RESISTANCE**</font> is the percentage chance that magic cast upon the creature will fail to affect it, even if other creatures nearby are affected. If the magic penetrates the resistance, the creature is still entitled to any normal saving throw allowed.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**SIZE**</font> is abbreviated as: "T," tiny (2’ tall or less); ”,"5 smaller than a typical human [2 +' to 4'); "M," man-sized (4 + ' to 7’); ”L." larger than man-sized (7 +' to 12'),- "H," huge [12 +' to 25’); and 'C,” gargantuan (25 + 'i.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**MORALE**</font> is a general rating of how likely the monster is to persevere in the face of adversity or armed opposition. This guideline can be adjusted for individual circumstances. Morale ratings correspond to the following 2-20 range:\\
+
+2-4 Unreliable
+5-7 Unsteady
+8-10 Average
+11-12 Steady
+13-14 Elite
+15-16 Champion
+17-16 Fanatic
+19-20 Fearless
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**XP VALUE**</font> is the number of experience points awarded for defeating (not neccessarily killing) the monster. This value is a guideline that can be modified by the DM for the degree of challenge. encounter situation. and for overall campaign balance.
+
+\\
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat**</font> is the part of the description that discusses special combat abilities, arms and armor. and tactics.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/society**</font> outlines the monster's general behavior, nature. social structure, and goals.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology**</font> describes how the monster fits into the campaign world, gives any useful products or byproducts, and presents other miscellaneous in
+formation.\\
+<wrap indent>Close variations of a monster (e.g. marrow. ogre) are given in a special section after the main monsterentry. These can be found by consulting the index to find the major listing.</wrap>
+</WRAP>

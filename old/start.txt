@@ -1,0 +1,18 @@
+= Welkom to m0rgi0n's Wiki page of Role Playing Games =
+
+This page is created to get the old dusty books into a digital searchable Wiki format
+
+Mind you, this is still a work in progress.!!!
+
+[[dnd:start|Basic Dungeons & Dragons]]
+
+[[adnd1e:start|Advanced Dungeons & Dragons]]
+
+[[adnd2e:start|Advanced Dungeons & Dragons 2nd Edition]]
+
+[[gurps:start|The versatile GURPS system]]
+
+[[rmsm:start|Rolemaster / Spacemaster system]]
+
+[[d20:start|D20 system (think D&D3.0/3.5/MSRD20)]]
+

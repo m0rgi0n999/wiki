@@ -1,0 +1,25 @@
+= I, Tyrant =
+
+== Index ==
+
+[[adnd2e:corerules:ma:it:chapter-1|Chapter 1: Beholders: What They Are.]]\\
+[[adnd2e:corerules:ma:it:chapter-2|Chapter 2: Types Of Beholders.]]\\
+[[adnd2e:corerules:ma:it:chapter-3|Chapter 3: Hisory of the Beholders.]]\\
+[[adnd2e:corerules:ma:it:chapter-4|Chapter 4: Deities.]]\\
+[[adnd2e:corerules:ma:it:chapter-5|Chapter 5: Powers.]]\\
+[[adnd2e:corerules:ma:it:chapter-6|Chapter 6: Psychology.]]\\
+[[adnd2e:corerules:ma:it:chapter-7|Chapter 7: Beholder Society.]]\\
+[[adnd2e:corerules:ma:it:chapter-8|Chapter 8: Ask Milord Wizard.]]\\
+[[adnd2e:corerules:ma:it:chapter-9|Chapter 9: Beholder Creations.]]\\
+[[adnd2e:corerules:ma:it:chapter-10|Chapter 10: Beholder Architecture.]]\\
+[[adnd2e:corerules:ma:it:chapter-11|Chapter 11: Campaigning Beholders.]]\\
+[[adnd2e:corerules:ma:it:chapter-12|Chapter 12: Ready Reference Guide.]]\\
+[[adnd2e:corerules:ma:it:chapter-13|Chapter 13: Beholders' Gallery.]]\\
+[[adnd2e:corerules:ma:it:chapter-14|Chapter 14: Beholder Eye Powers.]]\\
+
+=== Introduction ===
+
+''Know thy enemy'' is a basic tenet of military strategists and successful adventures. One assumes that your interest in this tome indicates a desire to follow such proven advice. Good. Then perhaps you have a chance at surviving an encounter with a beholder--one of the most distinctive and fearsome creatures ever to roam the planes.\\
+The beholder's alien nature frightens child and adult alike, and stories of its incredible power and ferocity abound. It appears in many sizes and forms throughout the planes, sometimes in realities so barren and torturous that humans can only speculate as to its continued presence. While its great intelligence keeps foes at bay, the beholder's own tortured psyche sometimes makes it its own worst enemy. Armed with the correct knowledge, even the weakest adventurer can turn this to his advantage.\\
+Sages and scholars have spent many centuries attempting to investigate the mysteries of these fearsome creatures. Despite the terror they inspire in humans and humanoids, beholders do possess a degree of civilization--however foreign or alien it may appear. Beholders build cities and create art; some of them even wrestle with the questions of existence. Unfortunately, adventurers deficient in power run from the creatures, and heroes who possess great power often kill them. Neither type learns about them and so the human race fails to profit from the knowledge that beholders possess.\\
+The text that follows quotes extensively from, ''Observations On the Sphere of Many Eyes'', ''Its Habits and Behavior'', ''Its Settlements and Community'', ''And What Not To Do When In Its Presence'' written by Ronassic of Sigil--Sage, Correspondent, and ''Master of Heart'' in the Transcendent Order of the City of Sigil. The author freely acknowledges his debt to Ronassic's landmark work, and wishes to dedicate this text to the missing sage--wherever he might be.\\

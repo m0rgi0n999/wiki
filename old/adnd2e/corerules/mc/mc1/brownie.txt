@@ -1,0 +1,50 @@
+<fc #4169E1><fs xx-large>**Brownie**</fs></fc>
+
+{{ :adnd2e:corerules:mc:mc1:brownie.png?direct&300|}}
+
+|CLIMATE/TERRAIN:|Temperate rural|
+|FREQUENCY:|Rare|
+|ORGANIZATION:|Tribal|
+|ACTIVE TIME:|Night|
+|DIET:|Vegetarian|
+|INTELLIGENCE:|High (13-14)|
+|TREASURE:|O, P, Q|
+|ALIGNMENT:|Lawful good|
+|NO. APPEARING:|4-16
+|ARMOR CLASS:|3
+|MOVEMENT:|12
+|HIT DICE:|½|
+|THAC0:|20|
+|NO. OF ATTACKS:|1|
+|DAMAGE/ATTACK:|1-2 (weapon)|
+|SPECIAL ATTACK:|Spells|
+|SPECIAL DEFENSE:|Save as 9th level cleric|
+|MAGIC RESISTANCE:|As above|
+|SIZE:|Tiny (2')|
+|MORALE:|Steady (11-12)|
+|XP VALUE:|175|
+
+Brownies are small, benign humanoids who may be very distantly related to halflings. Peaceful and friendly, brownies frequent pastoral areas, where they live by foraging and gleaming.\\
+Brownies stand no more than 2’ tall and are exceedingly nimble. They resemble small elves with brown hair and bright blue eyes. Brownies wear bright colored garments made from wool or linen with gold ornamentation. Brownies normally carry leather pouches containing tools for the repair of leather, wood and metal.\\
+Brownies speak their own language in addition to the common tongue of men and those of elves, pixies, sprites, and halflings.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> Brownies prefer not to engage in combat, and will only do so if threatened. Angry brownies will rarely meet their toes in hand to hand combat, relying instead on their magical abilities.\\
+Since their senses are unusually keen it is impossible to surprise brownies. They are superb at blending into their surroundings quickly and can thus become all but invisible when they choose to do so. This, combined with their great agility. gives them an Armor Class of 3.\\
+Brownies will use their magical spells to harass. confuse. or drive away their enemies. They can use the following spells once per day: protection from evil, ventriloquism. dancing lights, continual light, mirror image (3 images), confusion, and dimension door.\\
+If cornered and unable to employ their spells, brownies will fight with their short swords.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> Brownies dwell in rural areas, often living close to or on farms as they are fascinated by farm life. Brownies make their homes in small burrows or abandoned buildings.\\
+Although they are solitary creatures they will often meet to discuss local affairs. They are very particular about the communities they live in. and will set up their homes only in orderly, lawful good areas.\\
+Brownies live by harvesting wild fruits and gleaning grain from a farmer's field. Being honest to the core, a brownie will always perform some service in exchange for what is taken. A brownie might milk a farmer's cows and take a small quantity of milk for himself.\\
+Some brownies will go so far as to become house brownies. He will observe the families in a given area, and if one meets his high moral standards, the brownie will secretly enter the household. At night, while the residents are asleep, the brownie will perform a variety of helpful tasks. He will spin. sweep, bake bread, repair farm implements. keep foxes out of the hen house, mend clothes, and so forth. If a thief creeps into the house silently, the brownie is sure to make enough noise to awaken the residents. Watchdogs and domestic animals all consider brownies friendly and will never attack or bark at them.\\
+All brownies ask in exchange for their labor is a little milk. some bread, and an occasional bit of Emit. Etiquette demands, in fact, that other than the giving of such provisions, no notice be taken of the brownie. If the residents boast about the presence of the brownie he will vanish.\\
+Brownies are not greedy, but they do have small hoards of coins and gems which they have taken from evil monsters or received as gifts from grateful humans. A brownie will sometimes leave his treasure in a location where a good person in need is bound to find it.\\
+Strangers and outsiders will be constantly watched by the brownies of the community until their motives are ascertained. If the brownies decide that the stranger is harmless he will be left in peace. If not, the brownies will unite and drive the intruder out.\\
+Brownies know every nook and cranny of the areas they live in, and thus make excellent guides. If asked politely, there is a 50 % chance that a brownie will agree to act as a guide for adventurers.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Brownies are basically vegetarians. who live very comfortably on the byproducts of agricultural life. They make efficient use of leftovers too small for humans to notice. When brownies glean from fields, they do so after harvest. gathering grains and fruits which might otherwise be wasted.
+
+\\

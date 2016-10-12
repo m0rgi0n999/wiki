@@ -1,0 +1,47 @@
+<fc #4169E1><fs xx-large>**Dragonfish**</fs></fc>
+----
+\\
+<WRAP col2 80em em>
+|CLIMATE/TERRAIN:|Subtropical or temperate, shallow fresh water pools, slow streams and rivers|
+|FREQUENCY:|Rare|
+|ORGANIZATION:|Solitary|
+|ACTIVE TIME:|Dusk and night|
+|DIET:|Scavenger|
+|INTELLIGENCE:|Non- (0)|
+|TREASURE:|Nil|
+|ALIGNMENT:|Nil|
+|NO. APPEARING:|1|
+|ARMOR CLASS:|4|
+|MOVEMENT:|Sw 6|
+|HIT DICE:|2|
+|THAC0:|19|
+|NO. OF ATTACKS:|1|
+|DAMAGE/ATTACK:|1-6|
+|SPECIAL ATTACK:|Spines and poison|
+|SPECIAL DEFENSE:|Natural camouflage|
+|MAGIC RESISTANCE:|Nil|
+|SIZE:|T (2' long)|
+|MORALE:|Irregular (5)|
+|XP VALUE:|270|
+{{ :adnd2e:corerules:mc:mc1:dragonfish.png?direct&500|}}
+</WRAP>
+\\
+<WRAP col2 80em>
+These shy, solitary scavengers are only interested in staying alive and eating. Nevertheless, the two excellent self-defense methods evolved in these creatures make them a potentially deadly enemy for clumsy, inattentive adventurers.\\
+<wrap indent>Preferring to dwell in shallow freshwater pools or slow-moving streams and rivers, dragonfish are flat and covered with thick, hard scales of a mottled brown that give it a low Armor Class. The fishes' backs are lined with three to five rows of sharp, two-inch-long spines. Together, the scales and spines make the fishes' hides look much like that of a dragon. However, the dragonfish shares little else with its terrifying namesake.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> Dragonfish are extremely difficult to spot in their natural habitat. Their mottled brown coloration allows them to blend in with the rocks and mud found at the bottom of the waters they inhabit. Because their natural camouflage is so successful. dragonfish can be spotted only 15% of the time, and only if the searchers know what they are looking for. Also, as dragonfish tend to be active at night, finding one is always extremely difficult.\\
+<wrap indent>Most adventurers meet dragonfish inadvertently as they cross the pools and streams where the fish reside. Dragonfish have sharp teeth and will bite for 1-6 points of damage if they are provoked. However, most adventurers literally stumble across the creatures in the water. These encounters are always painful for the unlucky wayfarer as the spines that line the fish’s back are sharp enough to penetrate leather boots and will snap off, remaining in the wound as the fish and its attacker separate. A person stepping on or attempting to grab a dragonfish will be struck by 1-6 spines, each doing one point of damage.</wrap>\\
+<wrap indent>The pain caused by the spines to anyone unlucky enough to step on a dragonfish (or foolish enough to try to grab one) is certainly minor when compared to the deadly poison the spines inject when they do any damage. This special poison is slow-acting, and creatures injected with the toxin suffer increasingly violent nausea and a high fever for four hours, and have a penalty of -1 on all attack rolls and saving throws for each hour of illness. (The penalty is cumulative, so, for example, after four hours, a victim of dragonfish poison will have a -4 penalty on all attack and saving thrown)</wrap>\\
+<wrap indent>As these are the same symptoms that precede a death caused by dragonfish poison. it will be unclear if a character will survive the poisoning until the four hours of illness are over. Only after this time has elapsed can a saving throw versus poison be made by the victim (at a —4, like all saving throws after four hours}. Those failing the saving throw die with 1-4 turns. But even for those who save, the effects of the poison are long-lasting, and for the next 1d12 hours, a character surviving the poison will suffer a -2 penalty on all attack rolls.</wrap>\\
+<wrap indent>During the four hour onset time, a slow poison spell will stop the penalties from adding up temporarily and, of course, a neutralize poison will negate all effects of the toxin. Only one saving throw against the poison is required, regardless of the number of spines that strike the character at once.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> Dragonfish tend to dwell near the bottom of shallow bodies of water. Their diet consists largely of slow-moving snails, small fish, and the remains of other creatures that have recently died in the water. However, the dragonfish has been known to eat almost anything it can swallow, including small bits of metal such as coins or rings. The strong digestive acids in the fish's stomach break down anything it swallows very quickly, making it almost impossible to recover any undamaged treasure from a dragonfish's stomach.\\
+<wrap indent>The dragonfish is not territorial, but will protect a food source it discovers. Dragonfish abandon their young at birth. and both the male and female will prey upon any small dragonfish that cross their path. This is one of the primary population controls on the species.</wrap>\\
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Intelligent races have discovered a large number of uses for the dragonfish. Dragonfish poison is highly toxic and a full-grown dragonfish can yield enough to kill a large number of creatures. It is natural that creatures who frequently use poison will have a standard method for capturing dragonfish. Also, dragonfish spines make excellent darts, as they are extremely strong and very sharp. (The spines also grow back on the fish, so harvesting them is possible.) The dragonfish skin is not wasted either, as it makes excellent material for scale armor. Using any part of the dragonfish is potentially deadly unless the poison sacks and spines are carefully removed first.
+</WRAP>
+\\

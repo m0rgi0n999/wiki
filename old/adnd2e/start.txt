@@ -1,0 +1,22 @@
+= This is the AD&D 2nd Edition Page =
+
+'''Awe and Behold. All material is in here.'''
+
+=== Core Rules Players Section: ===
+
+[[adnd2e:corerules:phb:start|The Players Handbook]]
+
+=== Core Rules General Section: ===
+
+[[adnd2e:corerules:tome:start|Tome of Magic]]
+
+=== Core Rules Dungeonmasters Section: ===
+
+[[adnd2e:corerules:dmg:start|Dungeon Masters Guide]]
+
+[[adnd2e:corerules:mm:start|Monstrous Manuals]]
+
+[[adnd2e:corerules:mc:start|Monstrous Compendiums]]
+
+[[adnd2e:corerules:ma:start|Monstrous Arcana]]\\
+

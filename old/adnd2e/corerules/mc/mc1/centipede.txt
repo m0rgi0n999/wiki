@@ -1,0 +1,56 @@
+<fc #4169E1><fs xx-large>**Centipede**</fs></fc>
+
+{{ :adnd2e:corerules:mc:mc1:centipede.png?direct&300|}}
+
+| |**Giant**|**Huge**|**Megalo-**|
+|CLIMATE/TERRAIN:|Any|Any|Any|
+|FREQUENCY:|Common|Common|Very rare|
+|ORGANIZATION:|Nil|Nil|Nil|
+|ACTIVE TIME:|Any|Any|Any|
+|DIET:|Carnivorous|Carnivorous|Carnivorous|
+|INTELLIGENCE:|Non- (0)|Non- (0)|Animal (1)|
+|TREASURE:|Nil|Nil|Nil|
+|ALIGNMENT:|Neutral|Neutral|Neutral|
+|NO. APPEARING:|2-24 (2d12)|5-30 (5d6)|1-4|
+|ARMOR CLASS:|9|9|5|
+|MOVEMENT:|15|21|18|
+|HIT DICE:|2 hp| 1 hp|3|
+|THAC0:|20|20|17|
+|NO. OF ATTACKS:|1|1|1|
+|DAMAGE/ATTACK:|Nil|Nil|1-3|
+|SPECIAL ATTACK:|Poison|Poison|Poison|
+|SPECIAL DEFENSE:|Nil|Nil|Nil|
+|MAGIC RESISTANCE:|Nil|Nil|Nil|
+|SIZE:|Tiny (1')|Tiny (6")|M (5' long)|
+|MORALE:|Unsteady (5-7)|Unsteady (5-7)|Average (8-10)|
+|XP VALUE:|35|35|175|
+
+Giant centipedes are loathsome, crawling arthropods that arouse almost universal disgust from all intelligent creatures (even other monsters). They are endemic to most regions.\\
+One of the things which makes the centipede so disagreeable is its resemblance to a worm. Its long body is divided into many segments from which protrude many tiny feet. Hence the name "centipede" (or hundred footed). The giant centipede is so called because it is over 1' long. The body of the centipede is plated with chitinous shells and it moves with a slight undulating motion. The creature also has the added beneﬁt of protective coloration, and varies in color depending on the terrain it inhabits. Those that favor rocky areas are gray, those that live underground are black, while the centipedes of the forest are brown or red.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> When hunting. Centipede: use their natural coloration to remain unseen until they can drop on their prey from above or crawl out of hiding in pursuit of food. They attack by biting their foe and injecting a paralytic poison. Their poison can paralyze a victim for 2-12 (2d6) hours, but is so weak that victims of a centipede bite are permitted a +4 bonus to their saving throw.\\
+Due to its own small size. the giant centipede is less likely to resist attacks and receives a -1 penalty to all its saving throws.
+
+Although a single giant centipede rarely constitutes a serious threat to a
+man. these creatures frequently travel in groups. When more than one
+centipede is encountered, the monsters will light: independently, even to
+the point of fighting among themselves over fallen victims.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> The centipede behaves like most other insects, roving from place to place in search of food. It has no set territory or dwelling. The centipede simply goes where its hunger leads it. It is an aggressive and hungry carnivore that must eat at least once a day to survive. Hungry centipedes will sometimes turn to cannibalism.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Giant centipedes have several natural advantages. such as their poison and protective coloration, which allows them to compete with other small predators for game. Their poison confers upon them a certain immunity from being hunted, but hungry and skilled animals such as wolves and large predatory birds have been known to hunt them effectively in lean times.\\
+Their preferred targets are small mammals which can be easily overcome by their very weak poison. If they are very hungry, however, they have been known to attack anything that moves, including humans.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Huge Centipede:**</font>\\
+These are identical to giant centipedes save that they are only a" long. Their poison is even weaker than that of their larger cousins and a victim which fails its saving throw is immobilized for only 1-6 hours. They make their own saving throws at —2. The favorite prey of huge centipedes are mice and other large insects. They in turn are hunted by giant centipedes.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Megalo-Centipede**</font>\\
+The megalo-centipede is a true giant, growing to over 5' in length. It is no longer classed as an irritant but is a threat to human and animal alike. Its acidic poison is far more potent than that of its weaker cousins. The victims of a megalo-centipede bite receive no bonuses on their saving throws and failure to make the roll indicates death. Even if the target successfully resists the poison, the acid burns the victim's skin, inflicting 2-8 {2:14) points damage.\\
+The megalo-centipede is also more intelligent than its smaller cousins, and is far more cunning in its hunting {though they still do not cooperate with each other). In the wilderness the megalo—centipede will prey on animals the size of deer. In the subterranean environment, it will attack man-sized or smaller creatures. including orcs, goblins, or humans. The megalo-centipede receives no penalties to its own saving throws.
+
+\\

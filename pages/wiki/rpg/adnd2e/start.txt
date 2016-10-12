@@ -1,0 +1,12 @@
+[[wiki:rpg:adnd2e:core_rules|{{ :wiki:rpg:adnd2e-logo.gif?nolink&1200 |Core Rules}}]]\\
+[[wiki:rpg:adnd2e:al-qadim|{{ :wiki:rpg:al_qadim.gif?nolink&1200 |Al-Qadim}}]]\\
+[[wiki:rpg:adnd2e:birthright|{{ :wiki:rpg:birthright.gif?nolink&1200 |Birthright}}]]\\
+[[wiki:rpg:adnd2e:darksun|{{ :wiki:rpg:dark_sun.png?nolink&1200 |Dark Sun}}]]\\
+[[wiki:rpg:adnd2e:dragonlance|{{ :wiki:rpg:dragonlance.jpg?nolink&1200 |Dragonlance}}]]\\
+[[wiki:rpg:adnd2e:forgotten_realms|{{ :wiki:rpg:forgotten_realms.png?nolink&1200 |Forgotten Realms}}]]\\
+[[wiki:rpg:adnd2e:greyhawk|{{ :wiki:rpg:greyhawk.gif?nolink&1200 |Greyhawk}}]]\\
+[[wiki:rpg:adnd2e:lankhmar|{{ :wiki:rpg:lankhmar.gif?nolink&1200 |Lankhmar}}]]\\
+[[wiki:rpg:adnd2e:mystara|{{ :wiki:rpg:mystara.png?nolink&1200 |Mystara}}]]\\
+[[wiki:rpg:adnd2e:planescape|{{ :wiki:rpg:planescape.gif?nolink&1200 |Planescape}}]]\\
+[[wiki:rpg:adnd2e:ravenloft|{{ :wiki:rpg:ravenloft.png?nolink&1200 |Ravenloft}}]]\\
+[[wiki:rpg:adnd2e:spelljammer|{{ :wiki:rpg:spelljammer.gif?nolink&1200 |Spelljammer}}]]

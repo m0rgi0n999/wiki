@@ -1,0 +1,22 @@
+<database dnd width=100% mayinsert=@user>
+  # basic data
+  name, , Name, 32 visible required @1
+  armor_class, integer, Armor Class, 2 visible
+  hit_dice, , Hit Dice, 10 visible
+  move, , Move, 25 
+  attacks, , Attacks, 
+  damage, , Damage, 
+  no._appearing, , No. Appearing, visible
+  save_as, enum F1 / F2 / F3 / F4 / F5 / F6 / C1 / C2 / C3 / C4 / C5 / C6 / T1 / T2 / T3 / T4 / T5 / T6 / M1 / /M2 / M3 / M4 / M5 / M6, Save as, 
+  morale, integer, Morale, 2 
+  treasure_type, , Treasure Type, 
+  intelligence, , Intelligence, 
+  alignment, enum Good / Neutral / Evil, Alignment, 
+  xp, integer, XP Value, visible
+
+  # description
+  description, , Description, wikimarkup 
+  
+  # internal data
+  validated, bool, Validated?, booltype=int required
+</database>

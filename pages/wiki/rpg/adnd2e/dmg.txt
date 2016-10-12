@@ -1,0 +1,173 @@
+{{ :wiki:rpg:adnd2e:dmg_2e-v1.jpg?nolink&200 }}\\
+
+<WRAP centeralign>Advanced Dungeons & Dragons®\\
+Dungeon Master® Guide\\
+The revised and updated Dungeon Master® Guide for the AD&D® Game.</WRAP>
+<WRAP col2>
+TSR Inc. \\
+201 Sheridan Springs Rd. 120 \\
+Lake Geneva, WI \\
+53147 USA \\
+\\
+\\
+TSR Ltd. \\
+Church End, Cherry Hinton \\
+Cambridge CB1 3LB \\
+United Kingdom
+</WRAP>
+ADVANCED DUNGEONS & DRAGONS, AD&D, DUNGEONS & DRAGONS, D&D, DRAGON, GREYHAWK, DUNGEON MASTER, DM, DRAGONLANCE, and
+the TSR logo are registered trademarks owned by TSR Inc.\\
+
+<WRAP centeralign><fc #ff0000><fs xx-large>Foreword to the 2nd Edition</fs></fc></WRAP>
+<wrap indent>A foreword is normally the place where the author of a book expresses thanks and
+gratitude. I'm not going to do that here. It's not that everyone involved doesn't deserve
+congratulations and praise, it's just that I already said all those things in the foreword to
+the AD&D //Player's Handbook//. Everything I said there is true for this book, too. On to
+other things.</wrap>\\
+<wrap indent>Let's assume that since you're reading this, your are, or plan to be, a Dungeon Master.
+By now, you should be familiar with the rules in the //Player's Handbook//. You've probably
+already noticed things you like or things you would have done differently. If you have,
+congratulations. You've got the spirit every Dungeon Master needs. As you go through
+this rule book, I encourage you to continue to make these choices.</wrap>\\
+<wrap indent>Choice is what the AD&D game is all about. We've tried to offer you what we think
+are the best choices for your AD&D campaign, but each of us has different likes and
+dislikes. The game that I enjoy may be quite different from your own campaign. But it is
+not for me to say what is right or wrong for your game. True, I and everyone working on
+the AD&D game have had to make fundamental decisions, but we've tried to avoid being
+dogmatic and inflexible. The AD&D game is yours, it's mine, it's every player's game.</wrap>\\
+<wrap indent>So is there an "official" AD&D game? Yes, but only when there needs to be. Although
+I don't have a crystal ball, it's likely that tournaments and other official events will use all
+of the core rules in these books. Optional rules may or may not be used, but it's fair to say
+that all players need to know about them even if they don't have the memorized.</wrap>\\
+<wrap indent>The Player's Handbook and the Dungeon Master Guide give you what you're expected
+to know, but that doesn't mean the game begins and ends there. Your game will go in
+directions not yet explored and your players will try things others think strange.
+Sometimes these strange things will work; sometimes they won't. Just accept this, be
+ready for it, and enjoy it.</wrap>\\
+<wrap indent>Take the time to have fun with the AD&D rules. Add, create, expand, and extrapolate.
+Don't just let the game sit there, and don't become a rules lawyer worrying about each
+piddly little detail. If you can't figure out the answer, MAKE IT UP! And whatever you
+do, don't fall into the trap of believing these rules are complete. They are not. You cannot
+sit back and let the rule book do everything for you. Take the time and effort to become
+not just a good DM, but a brilliant one.</wrap>\\
+<wrap indent>At conventions, in letters, and over the phone I'm often asked for the instant answer to
+a fine point of the game rules. More often than not, I come back with a question—what
+do you feel is right? And the people asking the questions discover that not only can they
+create an answer, but that their answer is as good as anyone else's. The rules are only
+guidelines.</wrap>\\
+<wrap indent>At the beginning of the first Dungeon Master Guide, Gary Gygax stressed that each of
+us, working from a common base, would make the AD&D game grow in a variety of
+different directions. That is more true today than ever. Don't be afraid of experimentation,
+but do be careful. As a Dungeon Master, you have great power, and "with great power
+comes great responsibility." Use it wisely.</wrap>\\
+<WRAP rightalign>David "Zeb" Cook\\
+2/9/89</WRAP>
+\\
+<fc #ff0000><fs x-large>Credits</fs></fc>\\
+<fc #ff0000>**2nd Edition Designer:**</fc> David "Zeb" Cook\\
+<fc #ff0000>**Development:**</fc> Steve Winter and Jon Pickens\\
+<fc #ff0000>**Playtest Coordination:**</fc> Jon Pickens\\
+<fc #ff0000>**Editing:**</fc> Warren Spector, Jean Rabe, Steven Schend\\
+<fc #ff0000>**Graphic Design:**</fc> Dee Barnett\\
+<fc #ff0000>**Art Coordination:**</fc> Peggy Cooper\\
+\\
+Hundreds of players assisted us in playtesting the AD&D 2nd Edition game. Their efforts
+were invaluable in improving the manuscript. The list that follows is not complete, but
+we would like to thank Mike Abraham, Jeff Albanese, Roger Anderson, Susan Anderson,
+Walter Bass, Scott Beck, Doug Behringer, John Bennie, Andrew Bethke, Don Bingle,
+Linda Bingle, Aaron Boaz, Teresa Boaz, Ray Booth, Rick Brewer, Jeff Broemmel, Dan
+Brown, Frank Cabanas, Bill Ciers, Robert Corn, Dennis Couch, Bill Curtis, Scott Daily,
+Phillip Dear, Frank and Terri Disarro, Errol Farstad, John Fitzpatrick, Bill Flatt, Cheryl
+Frech, Dewey Frech, John Gamble, Vince Garcia, Kyra Glass, John Goff, Peter Gregory,
+Greg Handleton, David Hansom, Gordon Holcomb, Rob Huebner, Ed Issac, Larry
+Johnson, Reynold C. Jones, Jeff Kelly, Jeff King, Jim Kirkley, Peter Kokinder, Dan
+Kramarsky, Ed Kramer, Paul Krausnick, Jon Kugath, Michael Lach, Todd Laing, Len
+Lakofka, Randall Lemon, David Machim, Jeff Martin, Theron Martin, Scott Mayo,
+Milton McGorril, Kevin Melka, John Mendez, Bill Mercer, Frank and Mary Meyer, Neal
+Meyer, Mark Middleton, Jim Milam, Frank Miller, Jim Moeller, Mike Mullen, Lance
+Murphy, Scott Needham, Stance Nixon, Kevin Norton, Steve Null, Ray Ouellette,
+Rembert Parker, Nathan Patronksy, Ed Peterson, Keith Polster, Bruce Rabe, Norm
+Ritchie, Kip Romaine, Tim Royapa, Marc Rush, Michael Ruzza, Paul Schmidt, Eugene
+Schumaker, Mark Schumaker, Greg Schwarz, Michael Simpson, Warren Snider, Michael
+J. Somers, Hal St. Clair, Jeff Stevens, Justin Stevens, Paul Stevens, Dorence Stovall,
+Brad Stump, Lourdes Sullivan, Ellen Terra, John Terra, Mark TeTai, William Tracy, Jay
+Tummelson, Robert Unglaub, Carl Van Devendeer, Steven Vaughn-Nichols, Virginia
+Vaughn-Nichols, Bryan Villareal, Mark Wallace, Mike Wahl, Peter Walker, Doris Wells,
+Kevin Wells, Colleen Wetzel, Dave Wetzel, Josh Whitmer, Jett Wherry, Skip Williams,
+James Williams, Peter Zinda, and the following groups: DragonCon Gaming Staff,
+Elflords of Eriador, Excalibre Gamers Association, Games Unlimited, and MACE.\\
+<wrap indent>Finally, credit must also be shared with anyone who has ever asked a question, offered
+a suggestion, written an article, or made a comment about the AD&D game.</wrap>\\
+<wrap indent>This is a derivative work based on the original Advanced Dungeons & Dragons®
+Players Handbook and Dungeon Master® Guide by Gary Gygax and Unearthed Arcana
+and other materials by Gary Gygax and others.</wrap>\\
+\\
+Random House and its affiliate companies have worldwide distribution rights in the book
+trade for English language products of TSR Inc. Distributed to the book and hobby trade
+in the United Kingdom by TSR Ltd. Distributed to the toy and hobby trade by regional
+distributors. ©1989, 1995 TSR Inc. All rights reserved. This work is protected under the
+copyright laws of the United States of America. Any reproduction or unauthorized use of
+the material or artwork presented herein is prohibited without the express written consent
+of TSR, Inc.\\
+
+0-7869-0328-7
+\\
+<WRAP centeralign><fc #ff0000><fs xx-large>Foreword</fs></fc></WRAP>\\
+One of the toughest challenges facing a DM (and I can only assume that everyone
+reading this either is, or wants to be, a DM) is keeping his game sessions fresh and
+exciting.\\
+<wrap indent>Those of us who produce new material for the AD&D game as a whole have a more or
+less similar task, although on a larger scale. We are constantly searching for ways to
+make adventures and game accessories unique, or at least original and distinctive. Like
+Sir Isaac Newton, we've learned from experience that when faced with multiple choices,
+the simplest alternative is often the best.</wrap>\\
+<wrap indent>Hence the book you hold in your hands.</wrap>\\
+<wrap indent>After six years, it was time for the Player's Handbook and Dungeon Master Guide, the
+two most important AD&D rule books, to get freshened up. What could be better and
+simpler than a new coat of paint? Products that we publish today don't look like products
+we published in 1989, or even in 1993. We haven't changed the game in any substantial
+way (aside from the usual clarifications and corrections that go along with any reprint).
+But we have let these books catch up to our new standards. They're larger, more colorful,
+and more readable, all with an eye toward making your DMing job easier.</wrap>\\
+<wrap indent>Bringing this project together rekindled a lot of memories. In particular, one day from
+1987 stands out in my mind. I remember it vividly because it was the day when Dave
+Cook and I drew up the very first outline and schedule for the 2nd Edition of the
+Advanced Dungeons & Dragons game. What needed to be done, and how it should be
+done, looked clear and simple on our neat, four-page report. In fact, that massive
+undertaking occupied almost two years of our lives, and I've spent most of my time since
+then caring for the AD&D game.</wrap>\\
+<wrap indent>That's a job that we enjoy, or we wouldn't be doing it. Most of us feel that we have a
+stake, to one extent or another, in every AD&D campaign out there. When you and your
+players get together, the months (often years) of designing, discussing, playtesting,
+redesigning, arguing, editing, sketching, and head scratching disappear into the
+background. But no matter whether you play by the books or with a binder full of home
+rules, we're all in this together, united by the common thread of the AD&D game.</wrap>\\
+<WRAP rightalign>Steve Winter\\
+February 6, 1995</WRAP>\\
+----
+<WRAP centeralign><fc #ff0000><fs xx-large>Table of Contents</fs></fc></WRAP>
+**[[wiki:rpg:adnd2e:dmg:introduction|Introduction]]**\\
+<wrap indent>[[wiki:rpg:adnd2e:dmg:introduction#A_Word_About_Organization|A Word About Organization]]</wrap>\\
+<wrap indent>[[wiki:rpg:adnd2e:dmg:introduction#The_Fine_Art_of_Being_a_DM|The Fine Art of Being a DM]]</wrap>\\
+
+**[[wiki:rpg:adnd2e:dmg:chapter_1|Chapter 1: Player Character Ability Scores]]**\\
+<wrap indent>[[wiki:rpg:adnd2e:dmg:chapter_1#Giving_Players_What_They_Want|Giving Players What They Want]]</wrap>\\
+Choosing a Character Creation Method
+Method I (3d6, in order)
+Method II (3d6 twice, keep desired score)
+Method III (3d6, arranged to taste)
+Method IV (3d6 twice, arranged to taste)
+Method V (4d6, drop lowest, arrange as desired)
+Super Characters
+Identifying Too-Powerful Characters
+Dealing with Too-Powerful Characters
+Hopeless Characters
+Dealing with Hopeless Characters
+Dealing with Dissatisfied Players
+Wishes and Ability Scores
+Players with Multiple Characters
+Multiple Character Problems
+Character Background
+Letting Players Do the Work
+Problem Backgrounds
+Background

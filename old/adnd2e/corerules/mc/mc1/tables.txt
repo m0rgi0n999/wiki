@@ -1,0 +1,1151 @@
+<WRAP column 88em>
+<box 100% blue>
+<WRAP col4 80em>
+<font inherit/inherit;;#4169E1;;inherit>**Terrain Guide:**</font>\\
+<font inherit/inherit;;#4169E1;;inherit>Plains:</font> downs, heath, meadow, moor, prairie, savanna, steppe, tundra\\
+\\
+\\
+<font inherit/inherit;;#4169E1;;inherit>Scrub:</font> brackens, brush, bush, thickets, veldt\\
+<font inherit/inherit;;#4169E1;;inherit>Forest:</font> copses, groves, jungle, rain forest, woods\\
+<font inherit/inherit;;#4169E1;;inherit>Rough:</font> badlands\\
+<font inherit/inherit;;#4169E1;;inherit>Hills:</font> bluffs, dunes, ridges (rift, valley)\\
+<font inherit/inherit;;#4169E1;;inherit>Mountains:</font> glacier, mesa, tor (canyon, gorge)\\
+<font inherit/inherit;;#4169E1;;inherit>Desert:</font> barrens, flat, wade\\
+\\
+<font inherit/inherit;;#4169E1;;inherit>Swamp:</font> bog, fen, marsh, mire, morass, quagmire, slough\\
+<font inherit/inherit;;#4169E1;;inherit>Pond:</font> lake, pool, tarn
+</WRAP>
+</box>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning I**</font>
+|1|Bat, huge|
+|2|Goblin|
+|3|Hobgoblin|
+|4|Kobold|
+|5|Orc|
+|6|Rat, giant|
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning II**</font>
+|1|Centipede, giant|
+|2|Gnoll or flind|
+|3|Lizard man|
+|4|Mudmen|
+|5|Spider, large|
+|6|Toad, giant|
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning III**</font>
+|1|Bat, giant (mobat)|
+|2|Bugbear|
+|3|Centipede, megalo-|
+|4|Dog, death|
+|5|Gelatinous cube|
+|6|Ghoul|
+|7|Lizard, giant|
+|8|Lyc., rat|
+|9|Orc, orog|
+|10|Scorpion, large|
+|11|Snake, constrictor|
+|12|Spider, huge|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning IV**</font>
+|1|Ghast|
+|2|Hydra, 5 heads|
+|3|Lyc., wolf|
+|4|Ogre|
+|5|Ooze, gray|
+|6|Owlbear|
+|7|Scorpion, huge|
+|8|Snake, giant const.|
+|9|Toad, pois. or fire|
+|10|Wasp, giant|
+|11|Wolf, worg|
+|12|Yeti|
+</WRAP>
+<WRAP clear/>
+\\
+\\
+\\
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning V**</font>
+|1|Cockatrice|
+|2|Displacer beast|
+|3|Hornet, giant|
+|4|Hydra, 7 heads|
+|5|Hydra, 5 heads, cryo- or pyro-|
+|6|Lizard, subterranean|
+|7|Minotaur|
+|8|Ochre jelly|
+|9|Snake, giant, pois. or spitting|
+|10|Spider, giant|
+|11|Wolf, winter|
+|12|Zombi, ju-ju|
+\\
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning VI**</font>
+|1|Basilisk|
+|2|Carrion crawler|
+|3|Hydra, 8 heads|
+|4|Lyc., tigre or wolfwere|
+|5|Manticora|
+|6|Lizard, minotaur|
+|7|Ogre mage|
+|8|Ortyugh|
+|9|Pyrolisk|
+|10|Spider, phase|
+|11|Troll|
+|12|Wyvern|
+\\
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning VII**</font>
+|1|Basilisk, greater|
+|2|Behir|
+|3|Chimera|
+|4|Giant, hill or stone|
+|5|Golem, flesh|
+|6|Hydra, 10 heads|
+|7|Hydra, 8 heads, cryo- or pyro|
+|8|Lizard, fire|
+|9|Mummy|
+|10|Pudding, black|
+|11|Troll, 2-headed|
+|12|Umber hulk|
+\\
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Monster Summoning VIII**</font>
+|1|Giant, frost or fire|
+|2|Golem, stone|
+|3|Gorgimera|
+|4|Hydra, 12 heads|
+|5|Hydra, lernaean, 8 heads|
+|6|Pudding, brown|
+|7|Remorhaz|
+|8|Will'o wisp|
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+</WRAP>
+\\
+\\
+<WRAP left 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Aquatic Monster Summoning**</font>
+|<font inherit/inherit;;#4169E1;;inherit>**Spell**</font>|<font inherit/inherit;;#4169E1;;inherit>**Monster Summoned**</font>|
+|Monster \\ Summ I| \\ Koalinth \\ (hobgoblin)|
+|Monster \\ Summ II|//Fresh:// Lizard man \\ //Salt:// Ixixachitl (ray)|
+|Monster \\ Summ III|Lacedon (ghoul)|
+|Monster \\ Summ IV|Merrow (ogre)|
+|Monster \\ Summ V|Scrag (troll)|
+|Monster \\ Summ VI|Snake, giant sea (8 \\ Hit Dice)|
+|Monster \\ Summ VII|Snake, giant sea (10 \\ Hit Dice)|
+|Monster \\ Summ VIII|Dragon turtle (12 \\ Hit Dice)|
+\\
+</WRAP>
+\\
+<WRAP right 60em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Conjured Animals**</font>
+<WRAP col2 60em>
+|<font inherit/inherit;;#4169E1;;inherit>**Hit \\ Die**</font>|<font inherit/inherit;;#4169E1;;inherit>** \\ Roll**</font>|<font inherit/inherit;;#4169E1;;inherit>** \\ Animal**</font>|<font inherit/inherit;;#4169E1;;inherit>** \\ Value**</font>|
+|1|01-20 \\ 21-40 \\ 41-60 \\ 61-80 \\ 81-00|Dog, wild \\ Jackal \\ Owl, common \\ Rat, giant \\ Skunk|1 \\ 1 \\ 1 \\ 1 \\ 1|
+|2|01-80 \\ 81-00|Animal, herd \\ Horse, wild|2 \\ 2|
+|3|01-10 \\ 11-20 \\ 21-30 \\ 31-40 \\ 41-50 \\ 51-60 \\ 61-70 \\ 71-80 \\ 81-90 \\ 91-00|Boar, warthog \\ Cattle, wild \\ Cheetah \\ Dog, war \\ Hyena, wild \\ Lion, mountain \\ Lynx, giant \\ Mule \\ Camel \\ Wolf|3 \\ 2 \\ 3 \\ 2 \\ 3 \\ 2 \\ 3 \\ 3 \\ 2|
+|4|01-16 \\ 17-33 \\ 34-50|Bear, black \\ Boar, wild \\ Jaguar|3 \\ 3 \\ 4|
+\\
+\\
+\\
+|<font inherit/inherit;;#4169E1;;inherit>**Hit \\ Die**</font>|<font inherit/inherit;;#4169E1;;inherit>** \\ Roll**</font>|<font inherit/inherit;;#4169E1;;inherit>** \\ Animal**</font>|<font inherit/inherit;;#4169E1;;inherit>** \\ Value**</font>|
+| |51-66 \\ 67-84 \\ 85-00|Leopard \\ Owl, giant \\ Wolf, dire|3 \\ 4 \\ 3|
+|5|01-34 \\ 35-67 \\ 68-00|Hyena, giant \\ Skunk, giant \\ Buffalo|5 \\ 5 \\ 5|
+|6|01-34 \\ 35-67 \\ 68-00|Bear, brown \\ Lion \\ Tiger|6 \\ 5 \\ 6|
+|7|01-50 \\ 51-00|Boar, giant \\ Lion, spotted|7 \\ 6|
+|8|01-50 \\ 51-00|Bear, cave \\ Tiger, ST|7 \\ 7|
+|9|--|Oliphant|8|
+|10|--|Bear, polar|10|
+|11|--|Elephant|11|
+| |(Ioxodant)| | |
+|12|--|Mastodon|12|
+|13|--|Mammoth|13|
+|14+|--|Whale|(to 36)|
+</WRAP>
+\\
+</WRAP>
+\\
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Arctic (all terrain)**</font>
+|2|Pudding, white|
+|3|//Dragon, white//|
+|4|Remorhaz|
+|5|//Owl, giant// (night)|
+|6|Snake, constrictor|
+|7|Herd animal|
+|8|Herd animal|
+|9|Herd animal|
+|10|Tribesman|
+|11|Bear, polar|
+|12|Blizzard or unsafe ice|
+|13|Wolf|
+|14|Giant, frost|
+|15|Yeti|
+|16|Toad, ice|
+|17|Wolf, winter|
+|18|Wolf, winter|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Subarctic Plain or Scrub**</font>
+|2|//Dragon, white//|
+|3|Snake, poisonous|
+|4|Mammoth or mastodon|
+|5|Bear, brown|
+|6|Berserker or NPC party|
+|7|Tribesman|
+|8|Tribesman|
+|9|Herd animal|
+|10|Herd animal|
+|11|Oliphant|
+|12|Wolf|
+|13|Ogre|
+|14|Tiger|
+|15|Gnoll|
+|16|Giant, frost|
+|17|//Owl, giant// (night)|
+|18|Remorhaz|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Subarctic Forest**</font>
+|2|//Dragon, white//|
+|3|Remorhaz|
+|4|Bear, brown|
+|5|Gnoll|
+|6|//Owl, giant// or rat, giant|
+|7|Bear, cave|
+|8|Tribesman or NPC party|
+|9|Tribesman|
+|10|Tiger|
+|11|Wolf|
+|12|Wolf|
+|13|Herd animal|
+|14|Herd animal|
+|15|Troll|
+|16|Giant, frost|
+|17|Wolf, winter|
+|18|Hydra, cryo-|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Subarctic Rough or Hills#**</font>
+|2|Pudding, white|
+|3|//Dragon, white//|
+|4|Remorhaz|
+|5|//Owl, giant// (night)|
+|6|Snake, constrictor|
+|7|Herd animal|
+|8|Herd animal|
+|9|Herd animal|
+|10|Tribesman|
+|11|Bear, polar|
+|12|Blizzard or unsafe ice|
+|13|Wolf|
+|14|Giant, frost|
+|15|Yeti|
+|16|Toad, ice|
+|17|Wolf, winter|
+|18|Wolf, winter|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+\\
+<WRAP left 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**DM Special Table**</font>\\
+The DM should either choose a creature based on party level, or roll randomly. A special encounter can also be a natural hazard (storm, avalanche) or an encounter with a known NPC.
+|** Die \\ Roll**|** \\ Encounter**|
+|  01-07  |Bandit<sup>1</sup>|
+|  08  |Beholder|
+|  09-14  |Berserker<sup>2</sup>|
+|  15-16  |Brownie<sup>3</sup>|
+|  17-18  |//Chimera//|
+|  19-21  |//Couatl//|
+|  22-24  |Displacer beast|
+|  25-27  |Dog, blink|
+|  28  |//Dragon, black//|
+|  29  |//Dragon, blue//|
+|  30  |//Dragon, brass//|
+|  31  |//Dragon, bronze//|
+|  32  |//Dragon, copper//|
+|  33  |//Dragon, gold//|
+|  34  |//Dragon, green//|
+|  35  |//Dragon, silver//|
+|  36  |//Dragon, red//|
+|  37  |//Dragon, white//|
+|  38-39  |//Gorgimera//|
+|  40  |Giant, cloud|
+|  41  |Giant, storm|
+|  42-45  |//Harpy//|
+|  46-47  |//Hornet, giant//|
+|  48-51  |Imp|
+|  52  |Lich|
+|  53-54  |Lyc., bear<sup>3</sup>|
+|  55-56  |Lyc., tiger|
+|  67-66  |Lyc., rat|
+|  67-70  |Lyc., wolf<sup>4</sup>
+|  71-72  |//Manticora//|
+|  73-82  |Men, patrol|
+|  83-90  |//Owl, talking//|
+|  91-92  |//Pegasus//<sup>5</sup>|
+|  93-94  |Pseudodragon<sup>6</sup>|
+|  95-97  |//Spider, phase//|
+|  98-99  |//Wasp, giant//|
+|  00  |Will'o wisp<sup>7</sup>|
+In tropical or subtropical settings, make the following substitutions to the above list:\\
+<wrap indent><sup>1</sup>Slaver</wrap>\\
+<wrap indent><sup>2</sup>Ju-ju zombie</wrap>\\
+<wrap indent><sup>3</sup>Blink dog</wrap>\\
+<wrap indent><sup>4</sup>Yuan ti</wrap>\\
+<wrap indent><sup>5</sup>Mind flayer</wrap>\\
+<wrap indent><sup>6</sup>Medusa, greater</wrap>\\
+<wrap indent><sup>7</sup>Men, lost civilization</wrap>\\
+</WRAP>
+<WRAP right 65em>
+<WRAP column left 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Subarctic Mountains**</font>
+|2|Gnome|
+|3|//Dragon, white//|
+|4|//Dragon, white//|
+|5|Tribesman or NPC party|
+|6|Gnoll|
+|7|Bear, cave|
+|8|Bear, cave|
+|9|Herd animal|
+|10|//Owl, giant// (night)|
+|11|Wolf|
+|12|Ogre or Ogre mage|
+|13|Troll or troll, 2-headed|
+|14|Giant, frost|
+|15|Wolf, winter|
+|16|Remorhaz|
+|17|Yeti|
+|18|Lion, spotted|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP column center 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Subarctic Marsh or Swamp**</font>
+|2|//Dragon, white//|
+|3|//Dragon, white//|
+|4|Wolf, winter|
+|5|Oliphant|
+|6|Rat, giant|
+|7|Wolf|
+|8|//Owl, giant// (night)|
+|9|Gnoll|
+|10|Gnoll or flind|
+|11|Herd animal|
+|12|Herd animal|
+|13|Tribesman|
+|14|Troll|
+|15|Troll, 2-headed or ogre mage|
+|16|Hydra, cryo-|
+|17|Toad, ice|
+|18|Toad, ice|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP column right 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Notes:**</font>\\
+# Includes ruins (cities, temples, fortresses) within 5 miles of the party.\\
+Monsters listed together are each 50% likely to occure.\\
+Monsters in //italic// typ are 75% likely to be airborne.\\
+All wilderness ogre encounters are 10% likely to be with ogre mage.\\
+All wilderness gnoll encounters are 10% likely to be with flind.\\
+NPC parties in the wilderness will often be near to the adventuring group in number, level, and equipment.\\
+Otherwise the typical NPC party will be 7th to 10th level, with henchmen of aproximately half (round up) character level. Such parties are 90% likely to be mounted, and fighters will be armed with lances.
+</WRAP>
+</WRAP>
+<WRAP right 65em>
+<WRAP column left 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Tropical or Subtropical Plain**</font>
+|2|Jackalwere|
+|3|Scorpion, giant|
+|4|Dog, wild or wolf|
+|5|Jackal|
+|6|Hyena|
+|7|Bandit (slaver)|
+|8|Merchant|
+|9|Herd animal|
+|10|Herd animal|
+|11|Elephant|
+|12|Lion|
+|13|Tribesman or NPC party|
+|14|Tribesman|
+|15|Leopard|
+|16|Snake, poisonous|
+|17|Cheetah|
+|18|Snake, spitting|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP column center 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Tropical or Subtropical Forest**</font>
+|2|//Couatl//|
+|3|Lyc., tiger|
+|4|Scorpion, giant|
+|5|Centipede, giant|
+|6|Bandit (slaver)|
+|7|Spider, huge or giant|
+|8|Tribesman|
+|9|Tribesman or NPC party|
+|10|Elephant|
+|11|Tiger|
+|12|Leopard|
+|13|Snake const. or pois.|
+|14|Jaguar|
+|15|Herd animal or lion|
+|16|Herd animal|
+|17|Toad, giant or poisonous|
+|18|Yuan ti|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP column right 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Tropical or Subtropical Rough or Hill#**</font>
+|2|Rakshasa|
+|3|Scorpion, giant|
+|4|Elephant|
+|5|Boar, warthog|
+|6|Dog, wild or wolf|
+|7|Lizard, minotaur|
+|8|Bandit (slaver)|
+|9|Merchant or NPC party|
+|10|Nomad|
+|11|Tribesman|
+|12|Herd animal|
+|13|Herd animal or lion|
+|14|Hyena|
+|15|Jackal|
+|16|Tiger|
+|17|Lyc., tiger or yuan ti|
+|18|Snake, spitting|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+</WRAP>
+<WRAP right 65em>
+<WRAP column left 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Tropical or Subtropical Mountains**</font>
+|2|Pyrolisk|
+|3|Cockatrice|
+|4|Pilgrim|
+|5|Herd animal|
+|6|Herd animal|
+|7|Merchant|
+|8|Tribesman|
+|9|Tribesman|
+|10|Tiger|
+|11|Dog, wild or wolf|
+|12|Medusa|
+|13|Bandit (slaver)|
+|14|Leopard|
+|15|Rakhasa|
+|16|Snake, poisonous|
+|17|Yuan ti|
+|18|//Manticora//|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP column center 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Tropical or Subtropical Swamp**</font>
+|2|Tiger, sabre-tooth|
+|3|Yuan ti|
+|4|Toad, poisonous|
+|5|Toad, giant|
+|6|Herd animal|
+|7|Herd animal|
+|8|Tribesman|
+|9|Tribesman or NPC party|
+|10|Lizard man|
+|11|Lizard man|
+|12|Snake, cont. or pois.|
+|13|Centipede, giant or megalo-|
+|14|Lizard, giant|
+|15|Hydra|
+|16|Lizard, minotaur or hydra, cyano|
+|17|Behir|
+|18|Zombie, ju-ju|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP column right 20em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Tropical or Subtropical Desert**</font>
+|2|//Djinn// or //efreet//|
+|3|Pilgrim|
+|4|Leopard|
+|5|Lion|
+|6|Bandits (slavers)|
+|7|Camel, dromedary|
+|8|Pilgrim or merchant|
+|9|Nomad or NPC party|
+|10|Nomad|
+|11|Dervish|
+|12|Jackal|
+|13|Dog, wild or death|
+|14|Snake, pois. or spitting|
+|15|Toad, giant or fire|
+|16|Centipede, huge or giant|
+|17|Scorpion, huge or giant|
+|18|//Manticore// or //dragon, brass//|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+</WRAP>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Inhabited or Patrolled Areas**</font>
+|2|Wilderness Table|
+|3|Wilderness Table|
+|4|Patrol|
+|5|Patrol or NPC party|
+|6|Pilgrim or traveller|
+|7|Freeman or peasant|
+|8|Freeman or peasant|
+|9|Patrol|
+|10|Patrol or wolf|
+|11|Merchant|
+|12|Merchant|
+|13|Bandit|
+|14|Herd animal|
+|15|Orc or raider|
+|16|Bear, black or gnoll|
+|17|Boar, wild or berserker|
+|18|Ogre|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Plain or Scrub**</font>
+|2|Elf, grey|
+|3|//Wyvern (gold dragon 10%)//|
+|4||Bear, brown
+|5|Spider, large|
+|6|Jackal (jackalwere 10%)|
+|7|Boar, wild|
+|8|Dog, wild or worg|
+|9|Wolf|
+|10|Herd animal|
+|11|Nomad (merchant 15%)|
+|12|Nomad or NPC party|
+|13|Horse, wild|
+|14|Orc|
+|15|Hobgoblin|
+|16|Ogre|
+|17|Snake, pois. or giant, hill|
+|18|//Pegasus// or troll|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Forest**</font>
+|2|Elf, wood (gnome 10%)|
+|3|//Wyvern// or //dragon, green//|
+|4|Lynx, giant or Lyc., tiger|
+|5|Bear, brown|
+|6|Horse, wild or worg|
+|7|//Owl, giant// or skunk, giant|
+|8|Wolf|
+|9|Tribesman or NPC party|
+|10|Tribesman|
+|11|Herd animal|
+|12|Kobold|
+|13|Orc|
+|14|Bugbear or ogre|
+|15|Troll, 2-headed or treant|
+|16|Spider, giant or huge|
+|17|Snake, const. or Pois.|
+|18|Owlbear or ghoul|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Rough or Hill#**</font>
+|2|//Wyvern// or //dragon, black//|
+|3|Lyc., wolf or wolfwere|
+|4|Bear, brown|
+|5|Snake, Pois. or spitting|
+|6|Lion, mountain|
+|7|Horse or herd animal|
+|8|Gnome|
+|9|Tribesman or NPC party|
+|10|Tribesman|
+|11|Orc|
+|12|Hobgoblin or gnoll|
+|13|Wolf or worg|
+|14|Bugbear or ogre|
+|15|Goblin|
+|16|Ghoul or wight|
+|17|Spider, large or giant, hill|
+|18|Troll|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Inhabited or Patrolled Areas**</font>
+|2|Wilderness Table|
+|3|Wilderness Table|
+|4|Patrol|
+|5|Patrol or NPC party|
+|6|Pilgrim or traveller|
+|7|Freeman or peasant|
+|8|Freeman or peasant|
+|9|Patrol|
+|10|Patrol or wolf|
+|11|Merchant|
+|12|Merchant|
+|13|Bandit|
+|14|Herd animal|
+|15|Orc or raider|
+|16|Bear, black or gnoll|
+|17|Boar, wild or berserker|
+|18|Ogre|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Plain or Scrub**</font>
+|2|Elf, grey|
+|3|//Wyvern (gold dragon 10%)//|
+|4||Bear, brown
+|5|Spider, large|
+|6|Jackal (jackalwere 10%)|
+|7|Boar, wild|
+|8|Dog, wild or worg|
+|9|Wolf|
+|10|Herd animal|
+|11|Nomad (merchant 15%)|
+|12|Nomad or NPC party|
+|13|Horse, wild|
+|14|Orc|
+|15|Hobgoblin|
+|16|Ogre|
+|17|Snake, pois. or giant, hill|
+|18|//Pegasus// or troll|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Forest**</font>
+|2|Elf, wood (gnome 10%)|
+|3|//Wyvern// or //dragon, green//|
+|4|Lynx, giant or Lyc., tiger|
+|5|Bear, brown|
+|6|Horse, wild or worg|
+|7|//Owl, giant// or skunk, giant|
+|8|Wolf|
+|9|Tribesman or NPC party|
+|10|Tribesman|
+|11|Herd animal|
+|12|Kobold|
+|13|Orc|
+|14|Bugbear or ogre|
+|15|Troll, 2-headed or treant|
+|16|Spider, giant or huge|
+|17|Snake, const. or Pois.|
+|18|Owlbear or ghoul|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Rough or Hill#**</font>
+|2|//Wyvern// or //dragon, black//|
+|3|Lyc., wolf or wolfwere|
+|4|Bear, brown|
+|5|Snake, Pois. or spitting|
+|6|Lion, mountain|
+|7|Horse or herd animal|
+|8|Gnome|
+|9|Tribesman or NPC party|
+|10|Tribesman|
+|11|Orc|
+|12|Hobgoblin or gnoll|
+|13|Wolf or worg|
+|14|Bugbear or ogre|
+|15|Goblin|
+|16|Ghoul or wight|
+|17|Spider, large or giant, hill|
+|18|Troll|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Sylvan Setting**</font>
+|2|Elf, grey|
+|3|Boar, giant|
+|4|//Sprite//|
+|5|Bear, brown|
+|6|Brownie or dryad|
+|7|Tribesman or pilgrim|
+|8|Korred or leopard|
+|9|Orge or minotaur|
+|10|Pegasus or unicorn|
+|11|Centaur or elf, wood|
+|12|Satyr|
+|13|Wolf|
+|14|Bandit|
+|15|Troll|
+|16|Lion|
+|17|//Manticore//|
+|18|//Chimera// or //harpy//|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Mountain**</font>
+|2|//Dragon, copper// or //red//|
+|3|Bear, cave or hydra|
+|4|Bear, brown or Lyc., bear|
+|5|Bugbear|
+|6|Gnome|
+|7|Gnome|
+|8|Wolf or worg|
+|9|Tribesman or NPC party|
+|10|Tribesman|
+|11|Giant, hill|
+|12|Giant, hill or stone|
+|13|Ogre or troll|
+|14|Goblin or orc|
+|15|Ghoul or wight|
+|16|Hobgoblin or gnoll|
+|17|Will'o wisp|
+|18|Giant, frost or fire|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Marsh or Swamp**</font>
+|2|//Dragon, black//|
+|3|Behir|
+|4|Toad, poisonous|
+|5|Toad, giant|
+|6|Lizard, giant|
+|7|NPC party|
+|8|Tribesman or merchant|
+|9|Tribesman|
+|10|Tribesman|
+|11|Hobgoblin|
+|12|Lizard man|
+|13|Orc or gnoll|
+|14|Snake, constr. or pois.|
+|15|Ghoiul or ghast|
+|16|Troll|
+|17|Will'o wisp|
+|18|Hydra or hydra, cyano-|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Temperate Desert**</font>
+|2|//Wyvern// or //dragon, blue//|
+|3|//Dragon, brass// or //copper//|
+|4|Hydra or hydra, pyro-|
+|5|Lizard, giant|
+|6|Horse, wild|
+|7|Dog, wild|
+|8|Dervish|
+|9|Nomad or NPC party|
+|10|Nomad|
+|11|Merchant|
+|12|Lion|
+|13|Goblin or hobgoblin|
+|14|Wolf|
+|15|Snake, pois. or spitting|
+|16|Spider, large|
+|17|//Wasp, giant// or //hornet, giant//|
+|18|//Pegasus//|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level I**</font>
+|2|Halfling|
+|3|Gnome|
+|4|Elf|
+|5|Bat, large|
+|6|Berserker|
+|7|NPC party|
+|8|Bat, common|
+|9|Rat, common|
+|10|Bandit|
+|11|Kobold|
+|12|Goblin|
+|13|Orc|
+|14|Hobgoblin|
+|15|Rat, giant|
+|16|Bat, large|
+|17|Skeleton|
+|18|Skeleton|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level II**</font>
+|2|Mudmen|
+|3|Toad, giant|
+|4|Toad, giant|
+|5|Toad, giant|
+|6|NPC party|
+|7|NPC party|
+|8|Rat, giant|
+|9|Rat, giant|
+|10|Spider, large|
+|11|Lizard man|
+|12|Gnoll|
+|13|Gnoll or flind|
+|14|Centipede, large|
+|15|Centipede, giant|
+|16|Centipede, giant|
+|17|Zombie|
+|18|Zombie|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level III**</font>
+|2|Dog, death|
+|3|Dog, death|
+|4|Ochre jelly|
+|5|Ochre jelly|
+|6|Bugbear|
+|7|Bugbear|
+|8|Bat, huge (mobat)|
+|9|NPC party|
+|10|Lizard, giant|
+|11|Snake, constr.|
+|12|Gelatinous cube|
+|13|Orc, orog|
+|14|Spider, huge|
+|15|Centipede, megalo-|
+|16|Lyc., rat|
+|17|Ghoul|
+|18|Ghoul|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level IV**</font>
+|2|Hydra, cryo-, 5 heads|
+|3|Hydra, pyro-, 5 heads|
+|4|Toad, fire|
+|5|Lyc, wolf|
+|6|Hydra, 5-6 heads|
+|7|Toad, poisonous|
+|8|Owl bear|
+|9|NPC party|
+|10|Snake, giant constr.|
+|11|Dog, blink|
+|12|Ogre|
+|13|Ooze, gray|
+|14|Scorpion, giant|
+|15|Gargoyle|
+|16|Shadow|
+|17|Ghast|
+|18|Ghast|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level V**</font>
+|2|Imp or quasit|
+|3|Imp or quasit|
+|4|Imp or quasit|
+|5|Hydra, 5 heads, cryo- or pyro-|
+|6|Displacer beast|
+|7|Cockatrice|
+|8|Hydra, 7 heads|
+|9|NPC party|
+|10|Lizard, subterranean|
+|11|Lizard, subterranean|
+|12|Spider, giant|
+|13|Snake, giant poisonous|
+|14|Minotaur|
+|15|Margoyle|
+|16|Spider, giant|
+|17|Shadow or Ju-ju zombie|
+|18|Shadow or Ju-ju zombie|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level VI**</font>
+|2|Pyrolisk|
+|3|Ogre mage|
+|4|Ogre mage|
+|5|Medusa|
+|6|Basilisk|
+|7|Hydra, 7-9 heads|
+|8|Carrion crawler or otyugh|
+|9|NPC party|
+|10|Lizard, minotaur|
+|11|Manticora|
+|12|Troll|
+|13|Slime, green|
+|14|Scorpion, giant|
+|15|Spider, phase|
+|16|Wyvern|
+|17|Wight or wraith|
+|18|Wight or wraith|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level VII**</font>
+|2|Efreet or golem, flesh|
+|3|Djinn or invisible stalker|
+|4|Hydra, 7-9 heads, cryo- or pyro-|
+|5|Behir or basilisk, greater|
+|6|Neo-otyugh|
+|7|Will'o wisp|
+|8|Chimera|
+|9|NPC party|
+|10|Pudding, black|
+|11|Lizard, fire|
+|12|Hydra, 10-12 heads|
+|13|Giant, hill|
+|14|Troll, 2-headed|
+|15|Giant, stone|
+|16|Umber hulk|
+|17|Spectre|
+|18|Mummy|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Dungeon Level VIII**</font>
+|2|Hydra, lernaean|
+|3|Hydra, lernaean|
+|4|Golem, clay|
+|5|Hydra, 12 heads, cryo- or pyro-|
+|6|Gorgimera|
+|7|Dracolisk|
+|8|Vampire|
+|9|NPC party|
+|10|Hydra, 13-16 heads|
+|11|Giant, frost|
+|12|Will'o wisp|
+|13|Pudding, brown|
+|14|Couatl|
+|15|Giant, fire|
+|16|Medusa, greater|
+|17|Pudding, dun|
+|18|Ghost|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP col4 80em>
+----
+<font inherit/inherit;;#4169E1;;inherit>**Waterborne, Salt water**</font>
+|2|Lyc., seawolf|
+|3|Dragon turtle|
+|4|Nymph|
+|5|Warship, large|
+|6|Warship, small|
+|7|Pirates, small boats|
+|8|Pirates, warship|
+|9|Fisherman|
+|10|Merchant ship, small|
+|11|Merchant ship, small|
+|12|Merchant ship, large|
+|13|Warship, small|
+|14|Koalinth|
+|15|//Manticora// or nymph|
+|16|Kapoacinth or lacedon|
+|17|Troll, scrag|
+|18|Sea snake|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**Waterborne, Fresh water**</font>
+|2|Spider, water|
+|3|Spider, water|
+|4|Lizard man|
+|5|Lizard man|
+|6|Navigational hazard|
+|7|Merrow|
+|8|Nymph|
+|9|Fisherman|
+|10|Fisherman|
+|11|Merchant ship, small|
+|12|Merchant ship, small|
+|13|Warship, small|
+|14|Koalinth|
+|15|Pirates|
+|16|Kapoacinth or lacedon|
+|17|Troll, scragg|
+|18|Sprite|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**City or Town, Day**</font>
+|2|Press gang|
+|3|Rake|
+|4|NPC notable|
+|5|Pilgrim|
+|6|Mercenary|
+|7|Goodwife|
+|8|City guard|
+|9|Tradesman|
+|10|Tradesman|
+|11|Merchant|
+|12|Laborer|
+|13|Beggar|
+|14|Ruffian or courtesan|
+|15|Gentleman|
+|16|Thief or peddler|
+|17|Official|
+|18|Noble|
+|19|DM Special|
+|20|DM Special|
+\\
+----
+<font inherit/inherit;;#4169E1;;inherit>**City or Town, Night**</font>
+|2|Noble or offical|
+|3|Gentleman|
+|4|Day table|
+|5|NPC notable|
+|6|Mercenary|
+|7|Courtesan|
+|8|Gambler or beggar|
+|9|Drunk|
+|10|Watch|
+|11|Watch|
+|12|Thief|
+|13|Thief|
+|14|Bandit|
+|15|Rat, giant|
+|16|Assassin or wererat|
+|17|Ghast or ghoul|
+|18|Werewolf or weretiger|
+|19|DM Special|
+|20|DM Special|
+</WRAP>
+<WRAP col4 80em>
+<font inherit/inherit;;#4169E1;;inherit>**AERIAL ENCOUNTERS:**</font> This type of encounter occurs only if the encounter result was "DM Special“. The DM selects an appropriate aerial encounter from the italicized listings in the either the terrain type or DM Special table.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**WATERBORN ENCOUNTERS:**</font> Unintelligent monsters are 75% likely to be driven off by ﬂaming oil nearby, 90% if actually burned by it. Large amounts of food thrown overboard are 50% likely to end such encounters.\\
+
+A navigational hazard will ground or damage a vessel that does not have a pilot familiar with the waters. Such hazards as sandbars and submerged logs often appear at random.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**CITY/TOWN ENCOUNTERS:**</font> This table is most useful for otherwise undeveloped towns and cities. Random encounters not appropriate to the quarter or location are ignored. In general. appearances will often be deceptive until the party interacts verbally with those encountered.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Assassin**</font> encounters will generally be with 1-3 paid killers. more if in the Thieves‘ Quarter. Player characters may Elihu be the intended targets or may be in a position to foil the attempt.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Bandit**</font> encounters (nighttime) will typically be with 3-12 bandits. with 1 or more leaders. in daytime, the group will be nondescript.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Beggar**</font> encounters are usually with 1 person. A beggar has a slight (1% to 8%) chance of knowing information of value to the character, but payment must be made. Any payment or gift will immediately attract the attention of 0-9 nearby beggars. In some cities, the beggars have aguild as powerful as the Thieves' Guild.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**City guard**</font> encounters are with 2-16 mercenary soldiers who serve as wall and gate guards or as police. Leaders will be of 2nd to 5th level; 2 are present if more than 8 guards. 3 if more than 124 Each party will be accompanied by a wizard of Ist to 4th levels. indentured for a year (for bad debts, resurrection. violation of city rules. non—payment of taxes. etc.)\\
+
+<font inherit/inherit;;#4169E1;;inherit>**City ofﬁcial**</font> encounters will usually be With a minor bureaucrat such as a tax collector. customs officer. guard or watch lieutenant, deputy bailiff. or assistant magistrate. Such will have 1-4 personal guards. A 10% chance for an encounter with a major official exists, such as meetings with a steward, alderman, justice, watch captain. chamberlain, or magistrate. Maior officials will have 2-8 guards. Officials will resent unwarrented intrusion, but will speak with persons regarding important matters.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**City watch**</font> encounters are with Squads of watchmen (5 men plus a 1st-3rd level sergeant in day; double numbers plus a 4th or 5th level lieutenant at night). These squads will be accompanied by an indentured cleric of 2nd to 5th level. They act similarly to city guards. and at night these patrols will be ready to aid attacked persons and arrest lawbreakers.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Courtesans**</font> will often be difficult to tell from goodwives, gentlewomen, or nobility—at least at first glance. The courtesan is 30% likely to have information of value. 15% likely to make something up to gain a reward, 20% likely to be (or work with] a thief. and 10% likely to be a spy in the employ of a special interest group.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Drunk**</font> encounters will typically be with 141 tipsy revelers (50%] or winesodden bums (50%). Revelers can be of any class or station.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Gambler**</font> encounters will be with 1-4 street gamblers or gamblers on their way to a gaming house. The head gambler is 23% likely to know signiﬁcant information about that quarter of the city.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Gentleman**</font> encounters are with a toppish dandy and 1-4 sycophants (40%), a gentlewoman (20%), or a welldressed fighter of 7th to 10th level and 14 friends with similar abilities 030%). Any rude remarks give offense. Fops will cause trouble with city officials. gentlewomen will send a Champion. ﬁghters will challenge offenders.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Ghast/ghoul**</font> encounters occur near charnel houses, graveyards. etc, Ghasts number 2-8, while ghouls number 4-16.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Goodwife**</font> encounters are with a single townswoman. About 20% know interesting gossip. Offensive treatment or scarring threats are likely to cause the goodwife to Kream for help. accusing the offender of assault, theft, murder, etc.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Laborer**</font> encounters are with 3-12 nondescript persons, loitering or going to work. They will be rough brawlers, and each has a 10% chance to be a levy of the city watch. with appropriate knowledge and connections.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Mercenary**</font> encounters are with 3-12 nondescript men. There is a 30% chance they are available for hire.
+
+<font inherit/inherit;;#4169E1;;inherit>**Merchant**</font> encounters will be with 1 to 3 merchants. About 10% of these will be so rich as to be indistiguishable from nobles or city ofﬁcials. Merchants are 10% likely to have useful knowledge for a price. At night, in dangerous sections of the city. merchants will be accompanied by 25 guards.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**NPC notabels**</font> are higher level characters either residing in or passing though the town. Their descriptions and backgrounds are up to the DM.\\
+<wrap indent>//Fighters// will be 6th-12th level and have 0—3 henchmen of levels 1-4.</wrap>\\
+<wrap indent>//Rangers// will be 7th-10th level and will look like other fighters.</wrap>\\
+<wrap indent>//Paladins// will be 6th—9th level and will look like other fighters.</wrap>\\
+<wrap indent>//Wizards// will be 7th-12th level. They will have 0-5 henchmen, either apprentices of levels 1-6 (30% chance), fighters of levels 4-? (40% chance), 1 of each (10%). or 2 of each (20%). Wizards desire privacy.</wrap>\\
+<wrap indent>//Priests// will be 6th-11th level. There will be 0-5 lesser priests of levels 1-4. Encountered priests may ask for contributions or try to convert the party.</wrap>\\
+<wrap indent>//Druids// dislike towns and will likely shun others unless they have common interests or pressing business.</wrap>\\
+<wrap indent>//Thieves// will be 8th—11th level. This single wandering thief is 10% likely to be spying for a city faction.</wrap>\\
+<wrap indent>//Bards// will be 7th-10th level. The hard has a 10% chance of knowing immediately worthwhile information, and a 5% chance to be carrying a secret message of importance.</wrap>\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Noble**</font> encounters can be with noblemen (75%) or noblewomen (2.5%). Noblemen will have at least 1—4 guards and 1-2 servants. Noblemen are 50% likely to be either fighters of 51h to 12th level (80% chance) or clerics of 5th to 12th level (20% chance). Noblewomen usually have a sedan chair and carriers (and linkboys at night). Any disrespect or insult to a noble will be taken seriously.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Peddler**</font> encounters are with 1-3 wandering sellers of common goods. They are 20% likely to have gossip or information available for a price. About 5% of peddlers are actually spies.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Pilgrim**</font> encounters are with 3—12 nondescript persons travelling to a religious or quasi~religious site. The alignment of all group members is the
+same. For every 4 pilgrims. there will be one of unusual type (cleric, fighter, etc). Note that they can be confused with other groups (laborers, bandits, etc.). A group of pilgrims has a 5% chance of having some ulterior motive (spies. assassins. etc).\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Press gang**</font> encounters are with 2-16 burly soldiers or sailors, armed with swords. but wielding clubs. and with a leader of End-5th level. Outnumbeted or incapacitated characters may be "shanghaied” into the local militia or navy.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Rake**</font> encounters are with 2-5 young gentlemen fighters of 5th to 10th level. They will be aggressive, rude. and sarcastic. They are also 25% likely to be drunk.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Rat, giant**</font> These inhabit their own tunneled warrens in sewers, cellars, etc. In daylight. 2-3 rats will be found in dim alleys or darkened buildings. At night. 4-24 will be encountered.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Ruffian**</font> encounters will be with 7 to 12 fellows of shabby appearance and mean disposition. They are armed with clubs and daggers. lighting as 2nd level fighters and having 2 Hit Dice (d3). There is a 5% chance per ruffian that a leader of 4th to 7th level will be present {35%-60% chance).\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Thief**</font> encounters will be with an 8th to 11th level thief. with 0-2 apprentices of lst to 4th level. If alone, the thief will be a wandering adventurer. If with apprentices. the thief will be "working". on Guild business. or both. Working thieves often disguise themselves as beggars.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Tradesman**</font> encounters will be with 2 to 8 nondescript workers (smiths, coopers, etc.) going about their business. They are valued citizens and generally friendly with the city guards and watch.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Wererat**</font> encounters will be with from 2 to 5 wererats. They will be in human form 90% of the time in day and 50% of the time at night. They intelligently set up, ambush. or react to intruders if discovered.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Weretiger**</font> encounters will be with from 1 to 2 weretigers. All day. and 90% of the night. weretigers will be in human form. A weretiger is 90% likely to be a temporary resident of town on an errand. and likely to avoid or ignore adventurers.\\
+
+<font inherit/inherit;;#4169E1;;inherit>**Werewolf**</font> encounters will be with from 2 to 5 werewolves. All day, and 50% of the night, they will be in human form. The werewolves are 80% likely to be seeking prey, although there is a 20% chance they are on a special errand and will avoid encounters.
+</WRAP>
+</WRAP>

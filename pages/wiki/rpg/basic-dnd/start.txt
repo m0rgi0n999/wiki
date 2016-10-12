@@ -1,0 +1,5 @@
+===== Collection =====
+
+^ Name ^ Code ^ Number ^ PDF ^ Book
+|[[wiki:rpg:basic:dnd:tsr1011:start|D&D Basic Rules Set]]| |TSR 1011|X|X|
+|D&D Expert Rules Set| |TSR|X| |

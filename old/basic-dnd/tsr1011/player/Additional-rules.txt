@@ -1,0 +1,212 @@
+====== Additional rules ======
+
+The following rules should not be used by beginners. They may be added after you have played two or three group games.
+
+==== Missile Weapons ====
+
+You have learned what to do when your character gets into a fight, but so far, you have only used a sword or dagger. These are called “hand-to-hand” or “melee” weapons (pronounced MAY-lay). Other types, called “missile weapons,” such as bow and arrows, are handled somewhat differently. \\ Missile fire is a type of combat used when the enemy is too far away to fight hand-to-hand — in other words, more than 5 feet away. Missile fire can be affected by the distance to the enemy (//Range//), objects that the enemy can hide behind (//Cover//), the attacker’s Dexterity Score, and magic adjustments, if any. \\ Not all missiles are actual weapons. Missile fire rules also apply when a character throws something at a monster, such as oil or holy water.br />The various types of Missile fire you can use, and the ranges for them, are listed on the Missile Fire Table:
+
+----
+
+----
+
+|   |Maximum Ranges (in feet)|
+|Weapon|Short (+1)  |
+
+----
+
+|Crossbow (Lt)  |60|120|180|
+|Long Bow  |70|140|210|
+|Short Bow  |50|100|150|
+|Sling  |40|80|160|
+|Spear  |20|40|60|
+|Oil or \\   \\ Holy Water|10|30|50|
+|Hand Axe \\   \\ or dagger|10|20|30|
+
+----
+
+The first group of weapons are devices that fire missiles; the second group are missiles your character throws by hand. \\ Whenever your character buys one of these items, you should make a note of the ranges. For example, a Long Bow should be listed as 70-140-210, the longest distances it can shoot in each Range category. \\ File: \\ **Device:**  A missile fire device is a weapon that fires missiles, such as a bow or crossbow. Devices cannot be used in hand-to-hand combat, or against targets within 5 feet. \\ A crossbow is similar to a normal bow (long or short), but is held horizontally and shot by pulling a trigger, which releases the string. \\ A sling is a leather pocket with long strings; the user holds the strings and puts a stone in the pocket. The stone is thrown by swinging it around and releasing one string at the right time. A sling is the only missile weapon usable by Clerics.
+
+**Thrown Weapons:**  A spear, dagger, or hand axe may be either thrown or held. They are good weapons to use when the monsters are nearby, as the character can use any thrown weapon in hand-to-hand combat. If the weapon is notthrown, Strength bonuses are used //instead//  of Dexterity, and no adjustments are made for Range or Cover. A dagger or hand axe may be thrown at an opponent within range. Each spins in the air striking with the blade forward. \\ A spear is a long shaft of wood or metal with a sharp tip, and can be thrown straight at an opponent. It has the best range of any thrown missile.
+
+**Holy Water:**  This is water which has been specially prepared by a Cleric for use against Undead creatures. It can be used by any character. Holy Water must be kept in small, specially prepared glass bottles (known as vials) for it to remain Holy. The effect of one vial of Holy Water on an Undead creature is 1-8 (1d8) points of damage. For it to cause damage, it must successfully strike the target, thus breaking the vial. It may either be thrown (using missile fire rules) or used hand-to-hand (using normal combat rules).
+
+**Oil:**  Oil is carried in small bottles (known as Flasks), and is often thrown as missiles. It may also be spread on a floor. In either case, it will be slippery but not dangerous until it is lit by flame. \\ One flask of oil will make a pool 3’ in diameter, which will burn out in one turn if lit. Burning oil will cause 1-8 (1d8) points of damage per round to victims in the flames, including any creature trying to cross a pool of burning oil. Oil thrown at a creature will either miss (forming a pool where it falls) or hit. If it hits, it will drip off in a few rounds; if lit, the victim will take damage for 2 rounds at most. \\ Oil may be lit with any flame, such as a torch. If a torch is thrown at a creature, another Hit Roll must be made, but the creature’s normal AC is not used; the target of any thrown torch is treated as AC 10, regardless of the actual Armor Class of the target (but the roll is adjusted as explained below). \\ As with Holy Water, oil may be used either as a missile or in hand-to-hand combat.
+
+**Missile Fire Hit Roll Modifications**
+
+Missile fire rules are used when the target is 5’ away or more. Normal combat rules are used if the target is within 5‘. A missile fire device will automatically miss a target within 5’ unless the target cannot move.
+
+When your character tries to use any type of missile fire, adjust your normal Hit Roll for the following things:
+
+  - Dexterity
+  - Range
+  - Cover
+  - Magic
+
+**1. Dexterity:**  Include any bonuses or penalties to your Hit Roll due to high or low Dexterity. You may have an adjustment from -3 to +3, depending on your Dexterity Score (as given in the “Bonuses and Penalties for Ability Scores” chart, on page 50).
+
+**2. Range:**  A weapon can only be thrown or shot to the longest distance on the chart. This is called weapon’s range. For example, you can’t throw a spear any further than 60 feet. \\ Ask your DM what the range to the target is, in feet. The DM may prefer to give you the general range instead of the exact distance, and may ask you which missile weapon you are using. \\ If the range is //short//, you add 1 to your Hit Roll. If the distance to the target is between the numbers given for short and medium ranges, there is no adjustment. If the distance to the target is greater than the number given for //medium//  range, but still within the maximum range, you must subtract 1 from your Hit Roll. (The bonus and penalty are noted on the chart, as a reminder.) \\ Thus, a crossbow can shoot farther than any other weapon, and an axe or dagger can only be thrown at a nearby target.
+
+**3. Cover:**  The enemy may be harder to hit because it is hiding behind something; this is called cover. Cover could be gained by hiding behind a table or chair, or a tree or boulder outdoors. //A shield does not provide cover//. \\ If cover is used, your DM should mention that the monster has cover and will apply penalties to your chances to hit. You should always be told if the monster has cover, but you might not know how many penalties apply. These penalties are determined by the DM and range from -1 for partial cover to -4 for full cover.
+
+**4. Magic:**  If you are under a magic spell which helps your chances to hit, that applies here. In your adventures, you may discover magical missiles — arrows, crossbow bolts, and so forth — and bonuses from such magic also apply to your Hit Roll.
+
+==== Variable Weapon Damage ====
+
+Whenever you hit a monster in your adventures so far, your character’s weapon inflicted 1-6 (1d6) points of damage. But if we consider the battle realistically, a dagger should do less damage than a sword (for example). \\ This advanced damage system allows different weapons to inflict different amounts of damage. The damage done by each weapon type is given on the chart below. \\ Some weapons can only be properly used with two hands. These are noted with an asterisk (*). \\ The large amount of damage done by two-handed weapons is balanced by two penalties: the attacker cannot use a shield, and will always lose the initiative, whatever the roll may be. The lack of a shield will reduce the character’s Armor Class while that weapon is being used (unless, of course, no shield was used in the first place).
+
+----
+
+----
+
+|1d4|(1-4) points of damage: \\   \\ Club \\  \\ Dagger \\  \\ Sling stone \\  \\ Torch|1d6|(1-6) points of damage: \\   \\ *Arrow (long or short bow) \\  \\ Hand Axe \\  \\ Mace \\  \\ *Quarrel (crossbow) \\  \\ Short Sword \\  \\ Spear \\  \\ War Hammer|
+|1d8|(1-8) points of damage: \\   \\ Sword (normal) \\  \\ *Battle Axe  | | |
+|1d10|(1-10) points of damage: \\   \\ *Pole Arm \\  \\ *Two-Handed Sword  | | |
+
+----
+
+&asterisk;This weapon requires two hands for use. Attacker may not use shield and always loses initiative.
+
+==== Combat Maneuvers ====
+
+The following special forms of defensive movement are usable by any character in hand-to-hand combat. They may also be used by monsters. If a player wants to use one of these maneuvers, he or she must say so before rolling for initiative. These maneuvers may not be used if not declared before that roll. \\ If a character is near a battle but is not fighting hand-to-hand, that character may move normally. The movement rate depends on the amount of weight carried, as explained in the section on Encumbrance. \\ Any monster or character using a maneuver explained hereafter is called the “defender.” The opponent is called the “attacker.”
+
+**Fighting Withdrawal**
+
+If a defender is engaged in combat and wishes to back up slowly while fighting, the maneuver is called a Fighting Withdrawal. \\ The defender must have room to back up. In crowded situations, those behind the defender will get in the way, preventing the maneuver from succeeding! If room permits, the defender may move at Y2 the normal movement rate, or less. The attacker may follow and continue attacking, but the defender may attack in return.
+
+**Retreat**
+
+If a defender wants to back out of a fight at more than Yz the normal movement rate, the maneuver is called a Retreat. \\ The attacker gains a + 2 bonus on all Hit Rolls, and the defender’s AC is calculated without a shield. The defender may not attack in return.
+
+**Paired Combat**
+
+When you begin a battle, both sides roll for initiative. This one roll has applied to everyone on each side. \\ Your DM may choose, for small battles, to determine initiative for each monster or character instead of the whole group. When this is done, each player rolls for initiative, adjusting the roll by Dexterity bonuses or penalties as given on the following table. The DM will roll for each monster involved in actual combat, adjusting the roll if the monster is very slow or very fast. Most monsters have no adjustments to Paired Combat. One other initiative roll may be needed for other monsters not in hand-to-hand combat, if any, compared to a similar roll for characters not engaged in battle.
+
+----
+
+----
+
+|Dexterity \\   \\ Score|Initiative \\   \\ Adjustment|
+
+----
+
+|3  |-2  |
+|4-5  |-1  |
+|6-8  |-1  |
+|9-12|No Adjustment|
+|13-15|+1  |
+|16-17|+1  |
+|18  |+2  |
+
+----
+
+==== Encumbrance ====
+
+There have been no rules in your games thus far dealing with the amount a character can carry. You have been allowed to pick up as much treasure as you can find, and take it home. \\ This can become silly, if allowed to continue. Your characters may eventually find vast dragon hoards of thousands of coins, weighing hundreds of pounds, and the DM should not permit you to pick it all up and walk out! \\ Encumbrance is the name for the amount of weight that your character is carrying. The more you carry, the slower you move, according to the following chart. One new abbreviation is used. One coin of treasure, whatever the type (gp, ep, and so forth) weighs about &frac110; pound. Since coins are the commonest of treasures, the coin (not the pound) becomes the simplest unit of weight. From now on, the weight of all treasures, equipment, and so forth will be measured in //coins//, abbreviated cn.
+
+**Encumbered Movement Rates**“Normal speed” is used when your characters are walking through a dungeon. \\ “Encounter speed” is used whenever time is kept in rounds, such as during a battle. \\ “Running speed” is used whenever the party is running away from an encounter. Time is still kept in rounds, rather than turns, and the party must rest afterward. (See Movement, page 56.)
+
+**Basic Encumbrance**
+
+If a character is wearing no armor, or merely leather armor, and carrying the normal equipment taken on an adventure, the basic encumbrance is 300 cn. That type of character can pick up 100 coins and still use the top line of the chart. If more treasure is carried, the rest of the table is used to find the movement rate. \\ If a character is wearing metal armor, whether Chain Mail or Plate Mail, and carrying other normal equipment, the basic encumbrance is 700 cn. The character moves at 90’/turn, and may pick up 100 coins and still use that line of the chart. \\ A character carrying more than 2400 cn (240 pounds) cannot move. Something must be dropped or given to other characters.
+
+**Using Encumbrance**
+
+Find the basic encumbrance for your character, as explained above, and write it on the back of your character sheet, under “Equipment.” Remember to add to it whenever you pick up any treasure; your DM will tell you how many coins are found. A gem is counted as 1 cn, and other treasures (potions, jewelry, and so forth) are counted as 10 cn each. \\ A more detailed system of encumbrance, calculating the weight of each piece of equipment, will be given in the D&D EXPERT Set. But remember that the fun of the game comes from role playing, not bookkeeping, and your DM may merely wish to use a simple system for determining encumbrance.
+
+**Containers**
+
+Your character could not possibly carry even a few hundred coins unless they were placed in a sack or backpack. These items will hold:
+
+  * Small sackBackpackLarge sack
+
+**Mules**
+
+Saddlebags may also be used if your DM allows mules to be bought. A saddlebag will hold 1000 cn. A mule normally moves at the same rate as a character, 120’ per turn, and can carry up to 3000 cn while doing so. A mule can carry 6000 cn at most, which cuts its movement rate in half.
+
+----
+
+----
+
+|Ecnumbrance|Normal Speed|
+
+----
+
+|up to 3000 cn  |120'/turn|
+|3001-6000 cn  |60'/turn|
+|6001 cn or more|0  |
+
+----
+
+----
+
+----
+
+|   |Normal \\   \\ Speed \\  \\ (Feet per|Encounter \\   \\ Speed|Running \\   \\ Speed|
+|Encumbrance|turn)  |(Feet per round)  | |
+
+----
+
+|up to 400 cn|120|40|120|
+|401-800 cn  |90|30|90|
+|801-1200 cn  |60|20|60|
+|1201-1600 cn|30|10|30|
+|1601-2400 cn|15|5|15|
+|2401 and more|0  |0|0  |
+
+----
+
+==== Retainers ====
+
+A retainer is a person hired by a character to help on an adventure. Retainers are sometimes called “hirelings.” Retainers are never characters run by players; the DM always plays the part of any retainers hired. They are called Non-Player Characters, or NPCs. All the people in any D&D game other than the characters, are NPCs. \\ Ask your DM if retainers are permitted in the game. You cannot use retainers if there are plenty of player characters, or PCs to do the jobs. In a game with only one or two players, retainers are often used.
+
+If you want to hire a retainer, use the following procedure:
+
+  - Find NPCs interested in working as retainers.
+  - Tell them about the job, including the pay you offer, what is expected of them, and how long you intend to keep them.
+  - Some NPCs will turn down your offer, but some will probably accept. If you find one that is acceptable, buy all the equipment the NPC will need.
+  - Make a “retainer sheet” to be kept with your character sheet. This should be similar to the character information, including the retainer’s name, Class, Level, race, Armor Class, Hit Points, weapons and equipment carried, Money, Experience Points, and any other information you wish to remember.
+
+**Using Retainers**
+
+When you check your character to see if you are ready for adventure, check the retainer sheet at the same time. Remember that you must buy all the equipment that the retainer needs. \\ During the adventure, tell your DM whatever you want to tell the retainer; the DM will play the role of the retainer. A retainer will not simply do whatever you want, though most reasonable instructions will be obeyed. The retainer might run away from danger, despite your instructions. This is determined by dice rolls made by the DM. \\ Your retainer does not normally get a share of the treasure found on an adventure. When you hire a retainer, be sure to clearly state the amount you will pay. If you find enough treasure to pay the retainer a bonus, that may make the retainer more loyal. In other words, the well-treated retainer will face greater dangers without running away, and will obey your instructions more often. \\ When the DM calculates XP at the end of an adventure, the total XP earned by the group is divided by the number of characters. A retainer gets ½ the normal award, and is treated as ½ character for the division. You must keep track of the XP for your retainer, using the retainer sheet. A retainer may have a bonus or penalty to the XP awarded, calculated in the same manner as XP for characters (explained in the DUNGEON MASTER’S RULEBOOK). In the example above, if the retainer’s Prime Requisite score was 8, the retainer would only get 45 XP (a 10% penalty). \\ Your retainer may quit the job if treated badly. Otherwise, the retainer will stay either until dismissed by your character or until gaining one or more Levels of Experience. For example, if you hire a retainer for 1 month, the retainer will probably leave at the end of that month. But if the retainer is close to gaining a Level, he or she may ask to stay a bit longer. The decision will be up to you. \\ When your retainer quits, give the retainer sheet to the DM. The DM can use that character, and you may meet the retainer again later, in another game or in another town!
+
+----
+
+----
+
+====== The World of D&D Gaming ======
+
+**Finding Other Players**
+
+The DUNGEONS & DRAGONS game is much more fun when played by groups than when played alone. Show or lend this booklet to a friend, so you can quickly start playing in a group. Each player can learn by playing through the Solo Adventures, just as you did. \\ You will probably be able to find others who already know how to play. Many of the best belong to the Official DUNGEONS & DRAGONS club, called the ROLE PLAYING GAME ASSOCIATION<sup>&tm;</sup>   Network. \\ This is the only Official D&D Club, and offers a newsletter, special items, ways to find other players, and many other services, for a small fee — less than the cost of this game! \\ There are many other ways to find other players. Your local hobby shop may have a bulletin board where Dungeon Masters can post notices of regular games. Your school or library may also have news about other players and DMs.
+
+**Higher Level Characters**
+
+The dungeons for your characters to explore are often made up by the Dungeon Master. However, they can also be purchased, ready to play! You can buy pre-made adventures called “Modules,” from TSR and some are designed specifically for use with this set of rules. As this is called the “BASIC” set, the modules that go with it are the “B” modules. \\ When your characters reach the 3rd Level of Experience, you should be almost ready for the D&D EXPERT Set. It gives more spells, rules for character levels 4th through 14th, and everything you need to improve your games. The modules designed for use with these additional rules are in the “X” series. \\ The fun continues with the D&D COMPANION Set, which covers character levels 15th through 24th. \\ Eventually you will be ready for the D&D MASTERS set, with rules for character Levels 25 and above. \\ The other modules you may find, with many other letter designations, are not designed for these rules. They are for use with the ADVANCED DUNGEONS & DRAGONS<sup>®</sup>   game system.
+
+====== Gloassary ======
+
+**Other Player Aids**
+
+As you can see, there is much more fun waiting for you in the DUNGEONS & DRAGONS game system. And there is even more than games — a whole Hobby awaits!
+
+**Character Sheets:**  You will probably want more Character Sheets when you start making up many of your own characters. They are available in a separate pack of 16. Be sure to get D&D@ Character Sheets, not AD&D sheets, as both are available.
+
+**Dice:**  More dice can be purchased in sets, called DRAGON DICE<sup>&tm;</sup>   random number generators. Each package includes one of each type (four-sided, six-sided, and so forth), plus a crayon to color the numbers with.
+
+**Miniatures:**  If you wish, you can purchase toy figures of your characters (and monsters, too). These figures can help you imagine better, because they give you something to look at. Imagine a battle with seven characters, fighting ten monsters! It's hard to imagine exactly what everybody is doing, so we often use figures to help keep track of where everybody is. \\ If you wish to use miniature figures, be sure to get DUNGEONS & DRAGONS or AD&D miniatures. The other game systems do not use the same characters and monsters. Official figures are available in both plastic and metal. \\ If you wish to paint your miniatures with realistic colors, Official D&D paints, colors and finishes are also available at better toy and hobby stores worldwide.
+
+**ADVANCED DUNGEONS & \\ DRAGONS<sup>®</sup>   Games**
+
+The AD&D<sup>®</sup>   game system is different from the D&D system, which you have now. It is also a fantasy role playing game, but is much harder and more detailed. \\ There are currently six hardback books of rules for the AD&D system. Since it is so much more complex than the D&D system, with established rules for almost everything, it is often used in large tournaments, where accurate rules are needed. \\ Remember: you are not playing the more complex AD&D games with these rules. You are playing the original DUNGEONS & DRAGONS game!
+
+==== Glossary ====
+
+Here are the definitions of terms most commonly used in D&D@ games.
+
+**alignment**  — The behavior of monsters and characters. \\ **Armor Class**  — The armor worn by a character or the natural protection a monster has against attacks. \\ **caller**  — The player who tells the DM what the party will do, based on what the other players tell him. \\ **character level**  — see experience \\ **charge (magical)**  — The magical energy needed to use a wand once. \\ **class, character**  — The type of character being played. \\ **coin (or cn)**  — A unit of weight. \\ **concentration**  — A character putting all his attention on a single object or action, and being unable to do anything else; any distraction will break his concentration. \\ **cover**  — Anything, except a shield, that one hides behind to gain protection from a missile attack. \\ **cp**  — Copper pieces. There are 10 cp to one silver piece. \\ **d# (d4, d6, d8, d10, d12, d20, d%)**  — A symbol showing a type of die. \\ **damage**  — The die roll to determine how many hit points are lost. \\ **demi-human**  — A human-like creature that is also a character. \\ **dungeon**  — Where characters adventure; often in ruins and underground. \\ **dungeon level**  — This refers to how tough the monsters found there are. The greater the dungeon level the higher the challenge. \\ **Dungeon Master (DM)**  — The referee who creates the dungeon and monsters. \\ **duration**  — The length of time an effect lasts. \\ **effect**  — The area and those objects and creatures within the space which are affected by a spell or attack. \\ **encounter**  — A meeting between player characters and monsters. \\ **encumbrance**  — The effect of the weight of equipment and treasure carried by a character. \\ **ep**  — Electrum pieces. There are 2 ep per gold piece. \\ **evasion**  — Fleeing from a monster. \\ **experience level**  — Indicates the power and ability of a character. \\ **experience points (or) XP**  — Awards given to characters representing improved skills through adventuring. \\ **fighting withdrawal**  — Backing up slowly while fighting. \\ **gp**  — Gold piece. The basic unit of money in D&D rules. \\ **Hit Dice**  — The number and type of dice rolled to find how many hit points a character or monster has. \\ **hit points (or hp)**  — The amount of damage a character or monster can take before it dies. \\ **Hit Roll**  — The lowest number needed to hit an opponent. \\ **infravision**  — An ability that lets a creature see in the dark. \\ **initiative**  — A die roll to determine who acts first in combat. \\ **key**  — Information used by the DM that describes what is found in a dungeon and what the dungeon looks like. \\ **lair**  — A monster's home or nest. \\ **melee**  — Combat that occurs when within 5' of each other using hand-to-hand weapons or claws and teeth. \\ **missile fire**  — Attacks using weapons that are shot or thrown from more than 5 ' away. \\ **monster level**  — A measure of how tough a monster is, usually equal to its Hit Dice. \\ **morale**  — The willingness to face a battle or run away. \\ **NPC (or non-player character)**  — Any character that is played by the DM. \\ **percentage dice (or d%)**  — Roll a d10 twice to get a number between 1 and 100; the first number is read as the tens and the second number is the ones. \\ **player character (or PC)**  — A character that is controlled by a player. \\ **pp**  — Platinum piece. One pp equals 5 gold pieces. \\ **prime requisites**  — The ability most important to a given character class. \\ **quarrel**  — A shaft that is shot from a crossbow (also called a bolt). \\ **range**  — The maximum distance at which an attack may be made or a spell may be cast. \\ **retainer**  — A non-player character adventurer in the employ of a player character. \\ **saving throw (or saves)**  — A character's chance (by dodging, luck, willpower, etc.) to avoid or lessen the harmful effects of certain types of attacks. \\ **secret door**  — A door that is hidden or disguised as something else, thereby making it hard to find. \\ **sp**  — Silver piece. There are 10 silver pieces to one gold piece. \\ **spell level**  — A measure of the difficulty and power of a spell. \\ **turn (undead)**  — The ability of a cleric to make undead monsters run away by the power of the cleric's faith.
+
+\\

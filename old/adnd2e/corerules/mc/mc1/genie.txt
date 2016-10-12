@@ -1,0 +1,88 @@
+<fc #4169E1><fs xx-large>**Genie**</fs></fc>
+----
+\\
+<WRAP col2 80em em>
+| |  **Djinn**  |  **Dao**  |  **Efreeti**  |
+|CLIMATE/TERRAIN:|Air|Earth|Fire|
+|FREQUENCY:|Very rare|Rare|Very rare|
+|ORGANIZATION:|Caliphate|Khanate|Sultanate|
+|ACTIVE TIME:|Day|Day|Day|
+|DIET:|Omnivore|Omnivore|Omnivore|
+|INTELLIGENCE:|Average to highly \\ (8-14)|Low to very (5-12)|Very (11-12)|
+|TREASURE:|Nil|Nil|Nil|
+|ALIGNMENT:|Chaotic good|Neutral evil|Neutral (Lawful evil)|
+|NO. APPEARING:|1|1|1|
+|ARMOR CLASS:|4|3|2|
+|MOVEMENT:|9, Fl 24|9, Fl 15 (B), Br 6|9, Fl 24|
+|HIT DICE:|7+3|8+3|10|
+|THAC0:|13|11|11|
+|NO. OF ATTACKS:|1|1|1|
+|DAMAGE/ATTACK:|2-16 (2d8)|3-18 (3d6)|3-24 (3d8)|
+|SPECIAL ATTACK:|See below|See below|See below|
+|SPECIAL DEFENSE:|See below|See below|See below|
+|MAGIC RESISTANCE:|Nil|Nil|Nil|
+|SIZE:|L (10½' tall)|L (8'-11' tall)|L (12' tall)|
+|MORALE:|Elite (13-14)|Champion (15-16)|Champion (15-16)|
+|XP VALUE: \\ *Noble|2,000 \\ 6,000|4,000|4,000|
+{{ :adnd2e:corerules:mc:mc1:genie.png?direct&500|}}
+</WRAP>
+\\
+<WRAP col2 80em>
+The three varieties of genie described here come from the elemental planes of Air. Earth, and Fire. Living there, among their own kind, they are organized into their own societies. These beings are sometimes encountered on the Prime Material plane and are often summoned specifically to perform some service for a powerful wizard or priest. All genies can travel to any of the elemental planes, as well as the Prime Material and Astral planes.\\
+<wrap indent>All genies can speak their own tongue and that of any intelligent being they meet through a limited form of telepathy.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Djinn**</font>\\
+The djinn are genies from the elemental plane of Air. It should be noted that "djinn" is the plural form of their name while ”djinni" is the singular.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> The djinn's magical properties enable them to do any of the following once per day: create nutritious food for 2—12. (2d6) persons. create water or wine for 2-12 i2d6l persons, create soft goods or wooden items (up to about 16 cubic feet of the former or 9 cubic feet of the latter) with permanence. create metal items of short life span [the harder the metal the less time it lasts; gold has about a 24 hour existence while djinni steel lasts only 1 hour} of up to about 100 pounds weight, create illusion with both visual and audio components which will last without concentration until magically dispelled or touched, become invisible, use sums gaseous form, wind walk, or form whirlwind.\\
+<wrap indent>A djinni whirlwind is cone-shaped and may be up to 10' across at its base, 30’ across at its mouth, and 70' high (according to the desire of the djinni). It requires one full turn to form the whirl-wind and one full turn for it to dissolve. The whirlwind lasts one melee round. Non—aerial creature of less than two Hit Dice are swept away and killed by the whirlwind while hardier beings take 2-12 (2d6) points of damage. Creatures or attacks based on elemental air suffer a -1 penalty on their attack and damage rolls when engaging the djinni.</wrap>\\
+<wrap indent>Djinn are nearly impossible to capture by physical means, especially when they are able to take flight and employ their whirl-winds. They are openly contemptuous of those life forms which need wings or artificial means to fly and will employ their illusion and invisibility powers to great effect against such foes. Thus, the capture and enslavement of djinn is better resolved by the referee on a case by case basis. It is worth noting, however. that a good master will typically encourage a djinni to additional effort and higher performance, while a demanding and cruel master encourages the opposite.</wrap>\\
+<wrap indent>Djinn are able to carry up to 600 pounds of weight, both afoot and flying, without tiring. They can carry double that weight for a short time—three turns if afoot but only one turn if flying. For each 100 pounds less than maximum add one turn to the time which a djinni may walk or fly before tiring. A djinni which is thus fatigued must rest for six turns before attempting further strenuous activity.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> A djinn landhold on the plane of Air is usually set upon a pocket of elemental earth anywhere from 1,000 yards to several miles across. It is crammed with buildings, courtyards, gardens, fountains, and sculptures made of elemental flames. In a typical djinn landhold there are 3-30 (3d10) djinn of various ages and powers, as well as 1-10 jann and 1—10 elemental creatures of low intelligence. All are ruled by a djinn of maximum hit points, the local sheik.\\
+<wrap indent>The social structure of Djinn society is based on rule by a caliph served by various nobles and officials (viziers, beys, emirs, sheiks, sherrifs, and maliks). A caliph rules all those djinn estates within two days' travel, and is advised by six viziers who help maintain the balance of the landholdings.</wrap>\\
+<wrap indent>If a landhold is attacked by a large force, a messenger (usually the youngest djinni) is sent to the next landhold, which then sends aid and dispatches two more messengers. and in this fashion the entire nation is warned.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Noble Djinn**</font>\\
+Some djinn (1%) are ”noble" and are able to grant three wishes to their masters. Noble djinn will do no other services and, upon granting the third wish they are freed of their servitude. Noble djinn are as strong as the efreet, have 10 hit dice, strike for 3-24 (3d8) points of damage, and their whirlwinds cause 3-18 (3d6) hit points of damage.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Dao**</font>\\
+A dao is a genie from the elemental plane of Earth. While they are generally found on that plane (though even there they are uncommon), the dao love to come to the Prime Material plane to work evil. Dao speak all the languages of geniekind, as well as man's common language and the tongue of earth elementals.
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat:**</font> The dao's magical abilities enable them to use any of the following spell-like powers, one at a time. once each per day: change self, detect good, detect magic, assume gaseous form, become invisible, fulfill another's limited wish (in a perverse way), cause misdirection, passwall, create a spectral force, and create a wall of stone. Dao can turn rock to mud three times per day and dig as often as six times per day. Dao perform all magic at the 18th level of spell use.\\
+<wrap indent>It is possible for a dao to carry up to 500 pounds without tiring. Double weight will cause tiring in three turns, but for every 100 pounds of weight under 1,000 the dao may add one turn to the duration of its carrying ability. For example. a 600 pound weight allows eight turns of either walking or flying. After tiring, a dao must rest for six turns. Note that dao can move through earth (not worked stone) at a burrowing speed of 6. They cannot take living beings with them, but can safely carry inanimate objects.</wrap>\\
+<wrap indent>Dao are not harmed by earth-based? affecting spells, but holy water has double normal effects upon these monsters.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society:**</font> The dao dwell in the Great Dismal Delve on their own plane and in deep caves, caverns, or cysts on the Prime Material plane. Like other genies, the dao tend to settle pockets of other elemental matter, bending it to their wills and desires. A dao mazework contains 4-40 (4d10) of the creatures, as well as twice that number of elemental and non-elemental slaves. Each mazework is ruled by an ataman or hetman who acts on advice from a seneschal. The loyalty of the ataman of a dao mazework to the Great Dismal Delve is always questionable, but the seneschals are always chosen by the khan of the dao, and their loyalty is to him alone.\\
+<wrap indent>The khan of the dao lives at the center of the great underground mazework called the Great Dismal Delve. The land within the delve is said to be larger than most Prime Material continents. The Great Dismal Delve is linked to all manner of elemental pockets, so that the khan can call forth whatever powers he needs. The population of dao in the delve is unknown, as is the number of slaves that continually work the tunnels and clear away damage from quakes which frequently shake it.</wrap>\\
+<wrap indent>Dao dislike servitude as much as efreet and are even more prone to malice and revenge than their fiery counterparts.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> The dao manage a thriving business of trade, driven by their desire for more power and their access to precious gems. High on their list of hatreds are most other genies (except efreet, with whom they trade worked metals for minerals}. Slightly less hated are other elemental creatures, whom dao value only if they can exploit them in some fashion.\\
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Efreet**</font>\\
+The efreet (singular: efreeti} are genies from the elemental plane of Fire. They are enemies of the djinn and will always attack when they encounter them. A properly summoned or captured efreeti can be forced to serve for a maximum of 1,001 days or can be made to fulfill three wishes. They are not willing servants, and they will seek to pervert the intent of their masters by adhering to the letter of their commands.\\
+<wrap indent>The efreet are said to be made of basalt, bronze. and solid ﬂames, but whatever their makeup, they are massive, solid creatures.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Combat**</font> An efreeti is able to do the following once per day: grant up to three wishes, become invisible, assume gaseous form, detect magic, enlarge (as a 10th—level wizard), polymorph self, create an illusion with both visual and audio components which will last without concentration until magically dispelled or touched, or create a wall of fi re. An efreeti can also produce flame or cause pyrotechnics as often as desired. Attacks based on fire do no harm to efreet if the fire is of the ”normal" sort and even magical fire suffers a -1 penalty on all attack and damage rolls.\\
+<wrap indent>Efreet can carry up to 750 pounds, afoot or ﬂying, without tiring. They can carry double weight for only a limited time—three turns afoot or one turn aloft. For each 150 pounds of weight under 1500 add one turn to either walking or flying time permitted. After tiring from extreme weight the efreeti must rest for six full turns.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Habitat/Society**</font> Efreet are infamous for their dislike of servitude, their desire for revenge, their cruel nature, and their ability to mislead. The efreet's chief home is their great citadel, the fabled City of Brass, but there are numerous other efreet-operated outposts throughout the plane of Fire.\\
+<wrap indent>An efreet outpost is a haven for 4-40 (4d10) efreet and is run as a military station to watch or harass other movement in the plane. These outposts are run by a malik or vali of maximum normal hit points. There is a 10 %- chance that the outpost will also be providing a temporary home for 1-4 iann or 1-4 dao (the only other types of geniekind the efreet tolerate). Outpost forces are primarily directed against incursions from the plane of elemental Air, but can be directed against any travelers deemed suitable for threats, robbery, and abuse.</wrap>\\
+<wrap indent>Efreet are neutral, but they tend toward organization and evil or selfish acts in their behavior. They are ruled by a grand sultan who makes his home in the City of Brass. He is advised by a variety of beys, amirs, and maliks on actions with the plane, and by six great pashas who deal with matters of efreet business on the Prime Material plane.</wrap>\\
+<wrap indent>The City of Brass is a huge citadel that is home to the majority of efreet. lt hovers in the hot regions of the plane and is often bordered by seas of para-elemental magma and lakes of glowing lava. The city itself sits upon a hemisphere of golden, glowing brass some 40 miles across. From the upper towers rise the minarets of the great citadel of the Sultan's Palace. Vast riches are said to be in the palace of the sultan. The city has an efreet population that far outnumbers the great cities of the Prime plane. The sultan wields the might of a Greater Power, while many of his advisers are akin to Lesser Powers and Demi-Powers.</wrap>
+
+\\
+<font inherit/inherit;;#4169E1;;inherit>**Ecology:**</font> Fire elementals tend to avoid the efreet, whom they feel are oppressive and opportunistic. Djinn hate them, and there have been numerous djinn~efreet invasions of each other's planes. Efreet view most other creatures either as enemies or servants, a view that does not endear them to the rest of geniekind.
+</WRAP>
+\\

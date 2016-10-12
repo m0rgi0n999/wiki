@@ -1,0 +1,4 @@
+[[:wiki:rpg:3e|{{ :wiki:rpg:3e-logo.gif?nolink&1200 |3rd Edition D&D}}]]\\
+[[:wiki:rpg:4e|{{ :wiki:rpg:4e-logo.jpg?nolink&1200 |4th Edition D&D}}]]\\
+[[:wiki:rpg:5e|{{ :wiki:rpg:5e-logo.png?nolink&1200 |5th Edition D&D}}]]
+

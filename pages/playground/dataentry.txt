@@ -1,0 +1,9 @@
+<form>
+action   template userstpl users: :
+
+fieldset "Create Your User Page"
+select   "What's your Continent?" "Europe|N. America|S. America|Asia|Australia|Africa" @
+textbox  "What's your Name?" @
+textarea "Enter a short bio" !
+submit
+</form>
